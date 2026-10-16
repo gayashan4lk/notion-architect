@@ -1,0 +1,31 @@
+---
+title: "YouTube Content Creation"
+notion_id: 137ebef13b8480c1b50be861c27ea951
+notion_url: https://www.notion.so/137ebef13b8480c1b50be861c27ea951
+last_edited: 2024-11-26T06:20:01.965Z
+---
+
+[Architect](../README.md) / [Topics](README.md)
+
+# YouTube Content Creation
+
+## Storytelling
+
+- [ ] **The Art of Storytelling and View Retention**<br>[https://youtu.be/xNC8gPIMv6U?si=itRBjeMeTVeEGyiX](https://youtu.be/xNC8gPIMv6U?si=itRBjeMeTVeEGyiX)
+
+[🖼️ Image: Screenshot_2024-10-28_154433.png (view in Notion)](https://www.notion.so/137ebef13b8480c1b50be861c27ea951#14aebef13b84807394e0de7d53b3347e)
+
+## Scripting
+
+- [ ] **killer youtube scripts, explained**<br>[https://youtu.be/xdR1YXg_JXI?si=m_XbbRgZEoS6CB29](https://youtu.be/xdR1YXg_JXI?si=m_XbbRgZEoS6CB29)
+- [ ] **Full YouTube Script Writing Course (1+ Hour)**<br>[https://youtu.be/YrQvEUZVXy8?si=-qaGXKAkLQOxGZ2R](https://youtu.be/YrQvEUZVXy8?si=-qaGXKAkLQOxGZ2R)
+- [ ] **How to Script a YouTube Video That Keep 'Em hooked**<br>[https://youtu.be/Yv8lpauoBYo?si=JtA5YoleKWCw8Hxr](https://youtu.be/Yv8lpauoBYo?si=JtA5YoleKWCw8Hxr)
+- [ ] **Storytelling Science To Hook Viewer Till End \| 4 Years in 10 Mins.**<br>[https://youtu.be/qSeXh7V3GXI?si=Qa-DCtTIWzDDrNAl](https://youtu.be/qSeXh7V3GXI?si=Qa-DCtTIWzDDrNAl)
+- [ ] **How To Write Scripts Better Than 99% Of YouTubers**<br>[https://www.youtube.com/live/a5438jzwVnQ?si=kkdloBFibtR0YoqM](https://www.youtube.com/live/a5438jzwVnQ?si=kkdloBFibtR0YoqM)
+
+## Better videos
+
+- [ ] **how to create a killer youtube video (to blow up your channel)**<br>[https://youtu.be/q4EGeonO6YI?si=8NTCpxcMfb_zdYEo](https://youtu.be/q4EGeonO6YI?si=8NTCpxcMfb_zdYEo)
+- [ ] **Joe Rogan Experience** [**#1788**](https://www.youtube.com/hashtag/1788) **- Mr. Beast**<br>[https://youtu.be/cLRLEnPaJLM?si=R5XoXWSQEoJouSKu](https://youtu.be/cLRLEnPaJLM?si=R5XoXWSQEoJouSKu)
+- [ ] **Tanmay Reveals 0 to 1 Million Content Creator Path \| Advanced Content Creation**<br>[https://youtu.be/75tkthAzZog?si=iOPckf9_X11Wmcfm](https://youtu.be/75tkthAzZog?si=iOPckf9_X11Wmcfm)
+- [ ] **Meet the YouTuber Who Solved Shorts (Jenny Hoyos Interview)**<br>[https://youtu.be/As7abwNhG7Y?si=EWkJiCshdN9sSJnS](https://youtu.be/As7abwNhG7Y?si=EWkJiCshdN9sSJnS)
