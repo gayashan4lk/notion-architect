@@ -31,8 +31,8 @@ last_edited: 2025-11-13T01:48:01.560Z
 
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
-[🖼️ Image: Design_patterns.jpg (view in Notion)](https://www.notion.so/101ebef13b8480208077e13179c6477d#145ebef13b8480fc9feeefe452493583)
+![Design_patterns.jpg](../_assets/topics/data-structure-and-algorithms/Design_patterns.jpg)
 
 **Introduction to Algorithms**
 
-[🖼️ Image: introduction_to_algorithms.jpg (view in Notion)](https://www.notion.so/101ebef13b8480208077e13179c6477d#145ebef13b84806c901bc9a5834fe6ad)
+![introduction_to_algorithms.jpg](../_assets/topics/data-structure-and-algorithms/introduction_to_algorithms.jpg)

@@ -2,7 +2,7 @@
 
 A Markdown snapshot of the **Architect** Notion workspace, exported on 2026-10-16. 66 pages across 7 top-level sections.
 
-Every page keeps its Notion ID and URL in its frontmatter, so anything here can be traced back to the original. Pages that have subpages are folders with a `README.md`; the rest are single `.md` files.
+Every page keeps its Notion ID and URL in its frontmatter, so anything here can be traced back to the original. Pages that have subpages are folders with a `README.md`; the rest are single `.md` files. Images live in [`_assets/`](_assets/), mirroring the page structure.
 
 See [`_export-report.md`](_export-report.md) for anything that could not be carried over, and [`tools/notion-export/`](tools/notion-export/) for how this was produced.
 

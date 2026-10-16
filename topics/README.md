@@ -168,7 +168,7 @@ Learn Azure
 
 ## Product Development
 
-[🖼️ Image: Product_development_and_management_roadmap.jpeg (view in Notion)](https://www.notion.so/b447e6f2f1fe4a9a88f24a0bd3e9a4dc#102ebef13b8480a0bde5cf9584998bf4)
+![Product_development_and_management_roadmap.jpeg](../_assets/topics/Product_development_and_management_roadmap.jpeg)
 
 - [ ] **\[Book\] Inspired by Marty Cagan**
 - [ ] **Making sense of MVP** [https://youtu.be/0P7nCmln7PM?si=2Jem5WsfMgz5amyf](https://youtu.be/0P7nCmln7PM?si=2Jem5WsfMgz5amyf)

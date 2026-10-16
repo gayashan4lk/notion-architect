@@ -13,7 +13,7 @@ last_edited: 2024-11-26T06:20:01.965Z
 
 - [ ] **The Art of Storytelling and View Retention**<br>[https://youtu.be/xNC8gPIMv6U?si=itRBjeMeTVeEGyiX](https://youtu.be/xNC8gPIMv6U?si=itRBjeMeTVeEGyiX)
 
-[🖼️ Image: Screenshot_2024-10-28_154433.png (view in Notion)](https://www.notion.so/137ebef13b8480c1b50be861c27ea951#14aebef13b84807394e0de7d53b3347e)
+![Screenshot_2024-10-28_154433.png](../_assets/topics/youtube-content-creation/Screenshot_2024-10-28_154433.png)
 
 ## Scripting
 

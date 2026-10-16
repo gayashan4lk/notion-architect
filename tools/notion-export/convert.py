@@ -118,7 +118,9 @@ def inline(text, pid):
         alt, _ref, block, name = m.groups()
         f = available_assets.get(block.replace("-", ""))
         if f:
-            asset_rel = f"_assets/{Path(paths[pid]).with_suffix('').as_posix()}/{name}"
+            page = Path(paths[pid])
+            base = page.parent if page.name == "README.md" else page.with_suffix("")
+            asset_rel = f"_assets/{base.as_posix()}/{name}"
             dest = OUT / asset_rel
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(f, dest)

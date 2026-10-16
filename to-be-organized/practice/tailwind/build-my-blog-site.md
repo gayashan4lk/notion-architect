@@ -13,4 +13,4 @@ last_edited: 2025-12-03T08:52:27.771Z
 
 [Strengthening npm security: Important changes to authentication and token management - GitHub Changelog](https://github.blog/changelog/2025-09-29-strengthening-npm-security-important-changes-to-authentication-and-token-management/)
 
-[🖼️ Image: Screenshot_2025-12-03_at_12.59.45.png (view in Notion)](https://www.notion.so/2beebef13b84806c9a49d9075c344042#2beebef13b84801e82bce35e3afd8773)
+![Screenshot_2025-12-03_at_12.59.45.png](../../../_assets/to-be-organized/practice/tailwind/build-my-blog-site/Screenshot_2025-12-03_at_12.59.45.png)

@@ -15,7 +15,7 @@ last_edited: 2026-03-14T19:33:09.544Z
 
 [Design a URL Shortener (Bitly) - System Design Interview](https://youtu.be/qSJAvd5Mgio?si=JLmxArVB08xnL7ia)
 
-[🖼️ Image: image.png (view in Notion)](https://www.notion.so/2f4ebef13b84808791ddc6106ef16201#2f4ebef13b8480bca290fe805dac8181)
+![image.png](../../_assets/bistec-training/senior-engineer-track-bistec/image.png)
 
 [Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks a Month - High Scalability -](https://highscalability.com/bitly-lessons-learned-building-a-distributed-system-that-han/)
 

@@ -3,7 +3,7 @@
 The pages in this repo were exported from the **Architect** Notion workspace in three steps.
 
 1. **Crawl.** Every page was fetched through Claude's Notion connector, starting from the 7 top-level pages and following every subpage. Each page's raw Notion Markdown is saved unchanged in [`raw/`](raw/), one file per page ID, with a `<!-- meta -->` header holding its title, parent, and last-edited time.
-2. **Fill gaps.** The connector doesn't return bookmark URLs. They were read from the live Notion pages and saved in [`bookmarks.json`](bookmarks.json).
+2. **Fill gaps.** The connector doesn't return bookmark URLs. They were read from the live Notion pages and saved in [`bookmarks.json`](bookmarks.json). The 10 images were captured from Notion in the browser and saved in [`assets/`](assets/) at full resolution. PNGs are lossless. JPEGs were re-saved at 92% quality, so camera metadata (EXIF) is not kept.
 3. **Convert.** [`manifest.py`](manifest.py) builds [`manifest.json`](manifest.json), the page tree with child counts, images, and bookmarks. [`convert.py`](convert.py) then turns `raw/` into the Markdown tree at the repo root.
 
 ## Re-running the conversion

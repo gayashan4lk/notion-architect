@@ -9,7 +9,7 @@ last_edited: 2024-12-01T06:06:55.191Z
 
 # ENIAC - 1945
 
-[🖼️ Image: ENIAC_Ballistic_Research_Laboratory.jpg (view in Notion)](https://www.notion.so/14eebef13b8480519282f404387bcdbf#14eebef13b848050b5bcdaf18553db70)
+![ENIAC_Ballistic_Research_Laboratory.jpg](../../../_assets/to-be-organized/notes/cpu-architecture/eniac-1945/ENIAC_Ballistic_Research_Laboratory.jpg)
 
 ENIAC - **Electronic Numerical Integrator and Computer**
 
@@ -25,4 +25,4 @@ IO was punch cards. ENIAC had no system to store memory in its inception, these 
 
 Links:<br>[ENIAC Display \| Computer Science & Engineering at Michigan](https://cse.engin.umich.edu/about/history/eniac-display/)<br>[ENIAC](https://en.wikipedia.org/wiki/ENIAC)<br>
 
-[🖼️ Image: ENIAC_on_a_Chip.jpg (view in Notion)](https://www.notion.so/14eebef13b8480519282f404387bcdbf#14eebef13b848034be70d0ff055a17ad)
+![ENIAC_on_a_Chip.jpg](../../../_assets/to-be-organized/notes/cpu-architecture/eniac-1945/ENIAC_on_a_Chip.jpg)

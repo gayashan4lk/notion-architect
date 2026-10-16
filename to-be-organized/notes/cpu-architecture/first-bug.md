@@ -15,6 +15,6 @@ The words "bug" and "debug" soon became a standard part of the language of compu
 
 <br>[Log Book With Computer Bug](https://americanhistory.si.edu/collections/object/nmah_334663)
 
-[🖼️ Image: NMAH-92-13130.jpg (view in Notion)](https://www.notion.so/14eebef13b8480f1b2caf2363acefb44#14eebef13b84805db166c5f7aca776c2)
+![NMAH-92-13130.jpg](../../../_assets/to-be-organized/notes/cpu-architecture/first-bug/NMAH-92-13130.jpg)
 
-[🖼️ Image: NMAH-92-13131.jpg (view in Notion)](https://www.notion.so/14eebef13b8480f1b2caf2363acefb44#14eebef13b8480238efbe986bec24465)
+![NMAH-92-13131.jpg](../../../_assets/to-be-organized/notes/cpu-architecture/first-bug/NMAH-92-13131.jpg)
