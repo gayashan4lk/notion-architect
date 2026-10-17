@@ -3,9 +3,11 @@ title: "Math"
 notion_id: 3fbebef13b84813f9b0fdfe950e05d9d
 notion_url: https://www.notion.so/3fbebef13b84813f9b0fdfe950e05d9d
 last_edited: 2026-10-16T06:54:49.661Z
+aliases:
+  - "Math"
 ---
 
-[Architect](../README.md) / [How Computers Work](README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]]
 
 # Math
 

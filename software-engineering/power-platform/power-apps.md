@@ -3,9 +3,11 @@ title: "Power Apps"
 notion_id: 2f7ebef13b848069a8b7e41811e1a050
 notion_url: https://www.notion.so/2f7ebef13b848069a8b7e41811e1a050
 last_edited: 2026-03-14T19:33:35.224Z
+aliases:
+  - "Power Apps"
 ---
 
-[Architect](../../README.md) / [Software Engineering](../README.md) / [Power Platform](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]] / [[software-engineering/power-platform/README|Power Platform]]
 
 # Power Apps
 

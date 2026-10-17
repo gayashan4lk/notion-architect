@@ -3,9 +3,11 @@ title: "UI/UX Design"
 notion_id: 3fbebef13b8481a9b0cafd18cb7d3785
 notion_url: https://www.notion.so/3fbebef13b8481a9b0cafd18cb7d3785
 last_edited: 2026-10-16T06:54:13.491Z
+aliases:
+  - "UI/UX Design"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # UI/UX Design
 

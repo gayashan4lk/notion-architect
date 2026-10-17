@@ -3,9 +3,11 @@ title: "Startups"
 notion_id: 102ebef13b8480a192a8d89f59c250eb
 notion_url: https://www.notion.so/102ebef13b8480a192a8d89f59c250eb
 last_edited: 2025-11-27T07:27:42.671Z
+aliases:
+  - "Startups"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # Startups
 

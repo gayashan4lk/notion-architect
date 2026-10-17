@@ -3,9 +3,11 @@ title: "Database"
 notion_id: 101ebef13b848077a289c81945ce75b8
 notion_url: https://www.notion.so/101ebef13b848077a289c81945ce75b8
 last_edited: 2025-12-10T18:25:11.807Z
+aliases:
+  - "Database"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Database
 

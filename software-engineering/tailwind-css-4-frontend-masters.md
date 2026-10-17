@@ -3,9 +3,11 @@ title: "Tailwind CSS 4 - frontend masters"
 notion_id: 2beebef13b84807a8eaec7cf651eebd9
 notion_url: https://www.notion.so/2beebef13b84807a8eaec7cf651eebd9
 last_edited: 2025-12-03T13:08:46.781Z
+aliases:
+  - "Tailwind CSS 4 - frontend masters"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Tailwind CSS 4 - frontend masters
 

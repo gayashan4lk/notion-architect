@@ -3,14 +3,17 @@ title: "AI Software Engineer Roadmap"
 notion_id: 3fbebef13b84817e9660fd39a5c1970c
 notion_url: https://www.notion.so/3fbebef13b84817e9660fd39a5c1970c
 last_edited: 2026-10-16T05:40:47.336Z
+aliases:
+  - "AI Software Engineer Roadmap"
 icon: "🧭"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # 🧭 AI Software Engineer Roadmap
 
-> 🎯 **Goal:** Graduate ready to land a job as an AI software engineer — someone who builds real products on top of AI models (LLM apps, agents, ML features), not just someone who studied AI theory.
+> [!info] 🎯
+> **Goal:** Graduate ready to land a job as an AI software engineer — someone who builds real products on top of AI models (LLM apps, agents, ML features), not just someone who studied AI theory.
 
 **How to use this roadmap:** Each phase lines up roughly with a year of a 4-year degree. Move faster if you can. The most important rule: **build something at every stage.** Projects and shipped work matter more than certificates.
 

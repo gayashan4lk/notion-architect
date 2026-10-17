@@ -3,9 +3,11 @@ title: "Study Plan"
 notion_id: 2beebef13b8480a7b266e2455a7f4b70
 notion_url: https://www.notion.so/2beebef13b8480a7b266e2455a7f4b70
 last_edited: 2026-10-16T06:56:45.605Z
+aliases:
+  - "Study Plan"
 ---
 
-[Architect](../README.md) / [Now Learning](README.md)
+[[README|Architect]] / [[now-learning/README|Now Learning]]
 
 # Study Plan
 

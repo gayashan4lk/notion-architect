@@ -3,9 +3,11 @@ title: "How to break into AIML Engineering"
 notion_id: 102ebef13b8480f39772ede862fe7912
 notion_url: https://www.notion.so/102ebef13b8480f39772ede862fe7912
 last_edited: 2026-03-14T19:33:27.205Z
+aliases:
+  - "How to break into AIML Engineering"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # How to break into AIML Engineering
 

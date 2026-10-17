@@ -3,9 +3,11 @@ title: "LangChain Tutorials"
 notion_id: 2b2ebef13b8480449090d4931702f146
 notion_url: https://www.notion.so/2b2ebef13b8480449090d4931702f146
 last_edited: 2025-11-28T21:08:01.312Z
+aliases:
+  - "LangChain Tutorials"
 ---
 
-[Architect](../../README.md) / [AI](../README.md) / [LangChain Ecosystem](README.md)
+[[README|Architect]] / [[ai/README|AI]] / [[ai/langchain-ecosystem/README|LangChain Ecosystem]]
 
 # LangChain Tutorials
 

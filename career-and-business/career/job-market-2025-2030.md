@@ -3,9 +3,11 @@ title: "Job Market 2025-2030"
 notion_id: 2c2ebef13b84802a96a6c8a72cfdf09a
 notion_url: https://www.notion.so/2c2ebef13b84802a96a6c8a72cfdf09a
 last_edited: 2026-03-14T19:33:33.368Z
+aliases:
+  - "Job Market 2025-2030"
 ---
 
-[Architect](../../README.md) / [Career & Business](../README.md) / [Career](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]] / [[career-and-business/career/README|Career]]
 
 # Job Market 2025-2030
 

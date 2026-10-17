@@ -3,9 +3,11 @@ title: "Clean Architecture"
 notion_id: 3fbebef13b84817eaf7dd854cc76aa19
 notion_url: https://www.notion.so/3fbebef13b84817eaf7dd854cc76aa19
 last_edited: 2026-10-16T07:10:19.544Z
+aliases:
+  - "Clean Architecture"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Clean Architecture
 

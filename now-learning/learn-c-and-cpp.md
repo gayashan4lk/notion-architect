@@ -3,9 +3,11 @@ title: "Learn C and C++"
 notion_id: 3c0ebef13b8480f0aa34cd101e1f9c2b
 notion_url: https://www.notion.so/3c0ebef13b8480f0aa34cd101e1f9c2b
 last_edited: 2026-08-18T19:22:00.053Z
+aliases:
+  - "Learn C and C++"
 ---
 
-[Architect](../README.md) / [Now Learning](README.md)
+[[README|Architect]] / [[now-learning/README|Now Learning]]
 
 # Learn C and C++
 
@@ -13,7 +15,8 @@ I want to learn C and C++
 
 Because I want to learn how programs / computers work in deep
 
-> 💡 Here is some advices I found in reddit
+> [!tip] 💡
+> Here is some advices I found in reddit
 
 I've posted this here before and it's what has worked for me an a few others who told me it worked for them as well. Ymmv.
 
@@ -39,7 +42,8 @@ You can also check out [Teach Yourself Computer Science](https://teachyourselfcs
 
 Here is a decent list of [8 Books on Algorithms and Data Structures For All Levels](https://www.tableau.com/learn/articles/books-about-data-structures-algorithms)
 
-> 💡 And these are other resource I found in a quick search
+> [!tip] 💡
+> And these are other resource I found in a quick search
 
 [C docs - get started, tutorials, reference.](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-180)
 
@@ -51,4 +55,5 @@ Here is a decent list of [8 Books on Algorithms and Data Structures For All Leve
 
 [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
 
-> 💡 I think I should just use Claude to learn it. I should go with practical approach by solving small problems / challenges. There is no point watching a tutorial from beginning to end.
+> [!tip] 💡
+> I think I should just use Claude to learn it. I should go with practical approach by solving small problems / challenges. There is no point watching a tutorial from beginning to end.

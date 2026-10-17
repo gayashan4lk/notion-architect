@@ -3,9 +3,11 @@ title: "Better Living"
 notion_id: 3fbebef13b8481fc90ecc5611f89669c
 notion_url: https://www.notion.so/3fbebef13b8481fc90ecc5611f89669c
 last_edited: 2026-10-16T06:54:52.110Z
+aliases:
+  - "Better Living"
 ---
 
-[Architect](../README.md) / [Personal Growth](README.md)
+[[README|Architect]] / [[personal-growth/README|Personal Growth]]
 
 # Better Living
 

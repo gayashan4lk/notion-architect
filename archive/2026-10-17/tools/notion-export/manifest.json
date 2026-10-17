@@ -1,0 +1,1202 @@
+{
+  "101ebef13b8480208077e13179c6477d": {
+    "id": "101ebef13b8480208077e13179c6477d",
+    "title": "Data Structures & Algorithms",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [
+      "2a3ebef13b8480bf93a5ddca65601a4d",
+      "2aaebef13b848090b36fd0f7bcaddf1d",
+      "2a3ebef13b848037ae39e207286a4a45"
+    ],
+    "last_edited": "2026-10-16T06:56:51.050Z",
+    "children": [],
+    "images": 2,
+    "bookmarks": [
+      "2a3ebef13b8480bf93a5ddca65601a4d",
+      "2aaebef13b848090b36fd0f7bcaddf1d",
+      "2a3ebef13b848037ae39e207286a4a45"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "101ebef13b848077a289c81945ce75b8": {
+    "id": "101ebef13b848077a289c81945ce75b8",
+    "title": "Database",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-12-10T18:25:11.807Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "101ebef13b848081bdeae096d8bb6568": {
+    "id": "101ebef13b848081bdeae096d8bb6568",
+    "title": "AI ML",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:38.000Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "102ebef13b8480a192a8d89f59c250eb": {
+    "id": "102ebef13b8480a192a8d89f59c250eb",
+    "title": "Startups",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-27T07:27:42.671Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "102ebef13b8480dcb965e97d2edae7e7": {
+    "id": "102ebef13b8480dcb965e97d2edae7e7",
+    "title": "Software Architecture",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-24T05:32:16.750Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "102ebef13b8480e0bebdd279e7b92f7b": {
+    "id": "102ebef13b8480e0bebdd279e7b92f7b",
+    "title": "Backend & Microservices",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:10:23.331Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "102ebef13b8480f39772ede862fe7912": {
+    "id": "102ebef13b8480f39772ede862fe7912",
+    "title": "How to break into AIML Engineering",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:27.205Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "104ebef13b848043a0c8e678ee045aec": {
+    "id": "104ebef13b848043a0c8e678ee045aec",
+    "title": "Branding / Marketing / Sales",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-07T12:14:07.629Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "104ebef13b8480b18758cc3ede1648d9": {
+    "id": "104ebef13b8480b18758cc3ede1648d9",
+    "title": "Personal Brand Building",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-07T12:14:07.629Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "137ebef13b8480c1b50be861c27ea951": {
+    "id": "137ebef13b8480c1b50be861c27ea951",
+    "title": "YouTube Content Creation",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-26T06:20:01.965Z",
+    "children": [],
+    "images": 1,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "148ebef13b8480198013cb0aedc3abc5": {
+    "id": "148ebef13b8480198013cb0aedc3abc5",
+    "title": "JavaScript",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-24T07:36:35.793Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "148ebef13b84806ea98bc7c2c07842ba": {
+    "id": "148ebef13b84806ea98bc7c2c07842ba",
+    "title": "Python",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-27T10:20:34.667Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "14cebef13b848025afd4cbcb07d9eb42": {
+    "id": "14cebef13b848025afd4cbcb07d9eb42",
+    "title": "Assembly",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-28T15:35:41.159Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "14cebef13b84802d80b5d171e434737c": {
+    "id": "14cebef13b84802d80b5d171e434737c",
+    "title": "C / C++",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-11-28T16:07:25.168Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "14eebef13b8480519282f404387bcdbf": {
+    "id": "14eebef13b8480519282f404387bcdbf",
+    "title": "ENIAC - 1945",
+    "parent": "14eebef13b8480e3a922e12f4a8d0881",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-12-01T06:06:55.191Z",
+    "children": [],
+    "images": 2,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "14eebef13b8480e3a922e12f4a8d0881": {
+    "id": "14eebef13b8480e3a922e12f4a8d0881",
+    "title": "Computer Architecture",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:49.995Z",
+    "cover": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "children": [
+      "14eebef13b8480f1b2caf2363acefb44",
+      "14eebef13b8480519282f404387bcdbf"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "14eebef13b8480f1b2caf2363acefb44": {
+    "id": "14eebef13b8480f1b2caf2363acefb44",
+    "title": "First Bug",
+    "parent": "14eebef13b8480e3a922e12f4a8d0881",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2024-12-01T06:07:08.189Z",
+    "children": [],
+    "images": 2,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "1d0ebef13b848014a8abc0ece0e70e0f": {
+    "id": "1d0ebef13b848014a8abc0ece0e70e0f",
+    "title": "Flutter",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:48.782Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "27b93b504cc74a1babc93900d8b8b13b": {
+    "id": "27b93b504cc74a1babc93900d8b8b13b",
+    "title": "Public Speaking",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-27T07:27:37.698Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "27cebef13b84806a86a2e6a431e899de": {
+    "id": "27cebef13b84806a86a2e6a431e899de",
+    "title": "Auth",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [
+      "2c4ebef13b8480909bb7f058089139a0"
+    ],
+    "last_edited": "2025-12-09T20:02:30.882Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "2c4ebef13b8480909bb7f058089139a0"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2acebef13b8480bebfbce4b681a51fb6": {
+    "id": "2acebef13b8480bebfbce4b681a51fb6",
+    "title": "AI Engineer Skillset",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:25.552Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b2ebef13b8480449090d4931702f146": {
+    "id": "2b2ebef13b8480449090d4931702f146",
+    "title": "LangChain Tutorials",
+    "parent": "323ebef13b8480b8a337dc421c73e6ea",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-28T21:08:01.312Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b5ebef13b848087b485dfcce2d9344e": {
+    "id": "2b5ebef13b848087b485dfcce2d9344e",
+    "title": "SwiftUI",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-24T06:45:39.507Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b7ebef13b84807593e6f8c5f26cc3e8": {
+    "id": "2b7ebef13b84807593e6f8c5f26cc3e8",
+    "title": "PL 900",
+    "parent": "2b7ebef13b84807b9168e2f53802274f",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-26T05:45:40.428Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b7ebef13b84807b9168e2f53802274f": {
+    "id": "2b7ebef13b84807b9168e2f53802274f",
+    "title": "Azure Exams",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:28.802Z",
+    "children": [
+      "2b7ebef13b84807593e6f8c5f26cc3e8",
+      "2b7ebef13b84809ab095f528c62a40b2"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b7ebef13b84809ab095f528c62a40b2": {
+    "id": "2b7ebef13b84809ab095f528c62a40b2",
+    "title": "AZ 204",
+    "parent": "2b7ebef13b84807b9168e2f53802274f",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-11-26T05:44:49.866Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2b8ebef13b8480a782cedc5ecb17b387": {
+    "id": "2b8ebef13b8480a782cedc5ecb17b387",
+    "title": "Power Platform",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-12-03T07:34:46.758Z",
+    "children": [
+      "2f7ebef13b848069a8b7e41811e1a050"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2beebef13b84806c9a49d9075c344042": {
+    "id": "2beebef13b84806c9a49d9075c344042",
+    "title": "Blog Site Project",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:46.762Z",
+    "children": [],
+    "images": 1,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2beebef13b84807a8eaec7cf651eebd9": {
+    "id": "2beebef13b84807a8eaec7cf651eebd9",
+    "title": "Tailwind CSS 4 - frontend masters",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-12-03T13:08:46.781Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2beebef13b8480a7b266e2455a7f4b70": {
+    "id": "2beebef13b8480a7b266e2455a7f4b70",
+    "title": "Study Plan",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:45.605Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "2beebef13b8480919a05e96226bdfa4b",
+      "2beebef13b84807dbb87cb1cdd576e09",
+      "2beebef13b8480ea98c2e0ac7f8563e5",
+      "2beebef13b8480368080c0e2f79e2e3b",
+      "2beebef13b84802cbeb5f82f317198ae",
+      "2beebef13b8480f1bdffef53c2aefdbf",
+      "2beebef13b84805d8ab0fb27668e8872",
+      "2beebef13b84803483d6f37178228647",
+      "2beebef13b8480a3a5a8d43785d17b95",
+      "2beebef13b848038a449eb22b70eb09d",
+      "2beebef13b8480198badde71f02b2cf6",
+      "2beebef13b8480f38c97f39e2bd905db",
+      "2beebef13b8480528770e37a6524b254"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2c2ebef13b84802a96a6c8a72cfdf09a": {
+    "id": "2c2ebef13b84802a96a6c8a72cfdf09a",
+    "title": "Job Market 2025-2030",
+    "parent": "2d1ebef13b8480c8b0b6fbbaa2b877bb",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:33.368Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2c3ebef13b848037b3d2c76d57270692": {
+    "id": "2c3ebef13b848037b3d2c76d57270692",
+    "title": "Figma",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2025-12-08T00:24:30.937Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2d1ebef13b8480c8b0b6fbbaa2b877bb": {
+    "id": "2d1ebef13b8480c8b0b6fbbaa2b877bb",
+    "title": "Career",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [
+      "2d1ebef13b8480ebb204c4a661adf713"
+    ],
+    "last_edited": "2026-10-16T06:56:52.244Z",
+    "children": [
+      "2c2ebef13b84802a96a6c8a72cfdf09a"
+    ],
+    "images": 0,
+    "bookmarks": [
+      "2d1ebef13b8480ebb204c4a661adf713"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2f4ebef13b8480329cf1caa0ad65ddc6": {
+    "id": "2f4ebef13b8480329cf1caa0ad65ddc6",
+    "title": "Tech Lead Track - BISTEC",
+    "parent": "323ebef13b84803d9095e81b030fb289",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:10.834Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2f4ebef13b84808791ddc6106ef16201": {
+    "id": "2f4ebef13b84808791ddc6106ef16201",
+    "title": "Senior Engineer Track - BISTEC",
+    "parent": "323ebef13b84803d9095e81b030fb289",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:42.481Z",
+    "children": [],
+    "images": 1,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2f7ebef13b848057adbdd45b08d83467": {
+    "id": "2f7ebef13b848057adbdd45b08d83467",
+    "title": "System Design",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [
+      "2f7ebef13b84805ca220c991aa83ed7a",
+      "2f7ebef13b8480dcbf4ee93c8e9b7f94"
+    ],
+    "last_edited": "2026-10-16T06:56:41.340Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "2f7ebef13b84805ca220c991aa83ed7a",
+      "2f7ebef13b8480dcbf4ee93c8e9b7f94"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2f7ebef13b848069a8b7e41811e1a050": {
+    "id": "2f7ebef13b848069a8b7e41811e1a050",
+    "title": "Power Apps",
+    "parent": "2b8ebef13b8480a782cedc5ecb17b387",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:35.224Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2f8ebef13b8480de9246e9fbfbb25a05": {
+    "id": "2f8ebef13b8480de9246e9fbfbb25a05",
+    "title": "Test automation",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-03-14T19:33:36.803Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "2fcebef13b8480299ccfd015b564f9d6": {
+    "id": "2fcebef13b8480299ccfd015b564f9d6",
+    "title": "BMAD Method",
+    "parent": "302ebef13b84803287c9d9c6031ac2e2",
+    "truncated": true,
+    "unknown_block_ids": [
+      "2fcebef13b8480afbc5dd08c277e8ee3"
+    ],
+    "last_edited": "2026-03-14T19:33:38.507Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [
+      [
+        "2fcebef13b8480afbc5dd08c277e8ee3",
+        "external_object_instance"
+      ]
+    ],
+    "has_database": false
+  },
+  "302ebef13b84803287c9d9c6031ac2e2": {
+    "id": "302ebef13b84803287c9d9c6031ac2e2",
+    "title": "AI Coding Tools",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:39.008Z",
+    "children": [
+      "338ebef13b848042bb40cd1faa2cc6dc",
+      "2fcebef13b8480299ccfd015b564f9d6"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b848019bba2f74ddcbbed31": {
+    "id": "323ebef13b848019bba2f74ddcbbed31",
+    "title": "AI",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:57:30.322Z",
+    "icon": "🤖",
+    "children": [
+      "101ebef13b848081bdeae096d8bb6568",
+      "323ebef13b8480708004dc66bbd06bc7",
+      "323ebef13b8480b8a337dc421c73e6ea",
+      "2acebef13b8480bebfbce4b681a51fb6",
+      "338ebef13b8480d6998fe90a0f2344ae",
+      "302ebef13b84803287c9d9c6031ac2e2",
+      "102ebef13b8480f39772ede862fe7912",
+      "3fbebef13b84817e9660fd39a5c1970c",
+      "323ebef13b848031a855c660167e184c"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b848031a855c660167e184c": {
+    "id": "323ebef13b848031a855c660167e184c",
+    "title": "Insights",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [
+      "323ebef13b8480a6b314d96d8684bea1",
+      "323ebef13b84802ea320f327bb4b8792",
+      "323ebef13b8480b6be5fdb1157de1c0e"
+    ],
+    "last_edited": "2026-03-14T19:36:24.843Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "323ebef13b8480a6b314d96d8684bea1",
+      "323ebef13b84802ea320f327bb4b8792",
+      "323ebef13b8480b6be5fdb1157de1c0e"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b84803d9095e81b030fb289": {
+    "id": "323ebef13b84803d9095e81b030fb289",
+    "title": "BISTEC (Work)",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:01:31.298Z",
+    "icon": "💼",
+    "children": [
+      "2f4ebef13b84808791ddc6106ef16201",
+      "2f4ebef13b8480329cf1caa0ad65ddc6"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b8480708004dc66bbd06bc7": {
+    "id": "323ebef13b8480708004dc66bbd06bc7",
+    "title": "Basic Concepts",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [
+      "323ebef13b8480bc985ad4e8f56af9b9",
+      "323ebef13b84806584c3fe176a1c09f9"
+    ],
+    "last_edited": "2026-03-14T19:39:13.447Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "323ebef13b8480bc985ad4e8f56af9b9",
+      "323ebef13b84806584c3fe176a1c09f9"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b8480b8a337dc421c73e6ea": {
+    "id": "323ebef13b8480b8a337dc421c73e6ea",
+    "title": "LangChain Ecosystem",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:47.781Z",
+    "children": [
+      "323ebef13b8480e2a29ae74bab0750c7",
+      "338ebef13b84804fbdd0f579a0cf6b61",
+      "338ebef13b84809cbc6fcbca16cebf65",
+      "338ebef13b8480439fdec69e1a0f8d46",
+      "2b2ebef13b8480449090d4931702f146"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b8480e188a5ef1f07663143": {
+    "id": "323ebef13b8480e188a5ef1f07663143",
+    "title": "Inbox",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:00:10.109Z",
+    "icon": "📥",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "323ebef13b8480e2a29ae74bab0750c7": {
+    "id": "323ebef13b8480e2a29ae74bab0750c7",
+    "title": "Deep Agent",
+    "parent": "323ebef13b8480b8a337dc421c73e6ea",
+    "truncated": false,
+    "unknown_block_ids": [
+      "323ebef13b84805986caf8135bc5a54c",
+      "323ebef13b84808e918dd171c52ee93c",
+      "323ebef13b84805c9f43feffd449ac6e",
+      "323ebef13b8480f48950e765353861a1",
+      "323ebef13b8480bd92c9fdeb696e6dc2"
+    ],
+    "last_edited": "2026-03-14T19:47:02.922Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "323ebef13b84805986caf8135bc5a54c",
+      "323ebef13b84808e918dd171c52ee93c",
+      "323ebef13b84805c9f43feffd449ac6e",
+      "323ebef13b8480f48950e765353861a1",
+      "323ebef13b8480bd92c9fdeb696e6dc2"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b8480029335c5de443df370": {
+    "id": "338ebef13b8480029335c5de443df370",
+    "title": "FastAPI",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:56:36.414Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b848042bb40cd1faa2cc6dc": {
+    "id": "338ebef13b848042bb40cd1faa2cc6dc",
+    "title": "Claude Code",
+    "parent": "302ebef13b84803287c9d9c6031ac2e2",
+    "truncated": false,
+    "unknown_block_ids": [
+      "338ebef13b84801b853ce2ff7d051487"
+    ],
+    "last_edited": "2026-04-04T08:23:16.481Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "338ebef13b84801b853ce2ff7d051487"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b8480439fdec69e1a0f8d46": {
+    "id": "338ebef13b8480439fdec69e1a0f8d46",
+    "title": "LangSmith Fundamentals",
+    "parent": "323ebef13b8480b8a337dc421c73e6ea",
+    "truncated": false,
+    "unknown_block_ids": [
+      "338ebef13b8480d09a02de6987446b5c"
+    ],
+    "last_edited": "2026-04-04T08:14:01.458Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "338ebef13b8480d09a02de6987446b5c"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b84804fbdd0f579a0cf6b61": {
+    "id": "338ebef13b84804fbdd0f579a0cf6b61",
+    "title": "LangChain Fundamentals",
+    "parent": "323ebef13b8480b8a337dc421c73e6ea",
+    "truncated": false,
+    "unknown_block_ids": [
+      "338ebef13b848057b17cc7111c50e310"
+    ],
+    "last_edited": "2026-04-04T08:12:30.322Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "338ebef13b848057b17cc7111c50e310"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b84809cbc6fcbca16cebf65": {
+    "id": "338ebef13b84809cbc6fcbca16cebf65",
+    "title": "LangGraph Fundamentals",
+    "parent": "323ebef13b8480b8a337dc421c73e6ea",
+    "truncated": false,
+    "unknown_block_ids": [
+      "338ebef13b84803d893cdf86f094a685",
+      "338ebef13b848007b1a3c6eefcc593bf",
+      "338ebef13b84804dbecfdf4d9fdc7b70",
+      "338ebef13b84808eb219fed98bf61792",
+      "338ebef13b848021aa47dcd1b68356ca",
+      "338ebef13b8480fd9c8ac7592217fafe"
+    ],
+    "last_edited": "2026-04-04T08:22:26.846Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "338ebef13b84803d893cdf86f094a685",
+      "338ebef13b848007b1a3c6eefcc593bf",
+      "338ebef13b84804dbecfdf4d9fdc7b70",
+      "338ebef13b84808eb219fed98bf61792",
+      "338ebef13b848021aa47dcd1b68356ca",
+      "338ebef13b8480fd9c8ac7592217fafe"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "338ebef13b8480d6998fe90a0f2344ae": {
+    "id": "338ebef13b8480d6998fe90a0f2344ae",
+    "title": "Building AI Agents",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [
+      "338ebef13b84800982b7c82da04ec35b",
+      "338ebef13b8480818807cfeab4f48999",
+      "338ebef13b8480d38094f5261dc37efc",
+      "338ebef13b8480878326fc731696da1b",
+      "339ebef13b8480538169e4a49b8f57ec"
+    ],
+    "last_edited": "2026-04-05T02:01:35.300Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [
+      "338ebef13b84800982b7c82da04ec35b",
+      "338ebef13b8480818807cfeab4f48999",
+      "338ebef13b8480d38094f5261dc37efc",
+      "338ebef13b8480878326fc731696da1b",
+      "339ebef13b8480538169e4a49b8f57ec"
+    ],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3c0ebef13b8480f0aa34cd101e1f9c2b": {
+    "id": "3c0ebef13b8480f0aa34cd101e1f9c2b",
+    "title": "Learn C and C++",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-08-18T19:22:00.053Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3cfebef13b84809eb359ef392e27e92c": {
+    "id": "3cfebef13b84809eb359ef392e27e92c",
+    "title": "AutoCAD",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-09-02T17:00:19.955Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84810a9681f86bc2946d3c": {
+    "id": "3fbebef13b84810a9681f86bc2946d3c",
+    "title": "Mind & Behavior",
+    "parent": "3fbebef13b8481979651c9f69d96a137",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:52.110Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84811d9c91eeabc8685708": {
+    "id": "3fbebef13b84811d9c91eeabc8685708",
+    "title": "Career & Business",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:57:34.142Z",
+    "icon": "🚀",
+    "children": [
+      "2d1ebef13b8480c8b0b6fbbaa2b877bb",
+      "104ebef13b8480b18758cc3ede1648d9",
+      "27b93b504cc74a1babc93900d8b8b13b",
+      "137ebef13b8480c1b50be861c27ea951",
+      "102ebef13b8480a192a8d89f59c250eb",
+      "3fbebef13b8481b2a960d1c688c94a06",
+      "104ebef13b848043a0c8e678ee045aec"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b848127831cc7754a218823": {
+    "id": "3fbebef13b848127831cc7754a218823",
+    "title": "How Computers Work",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:57:32.942Z",
+    "icon": "🧮",
+    "children": [
+      "14eebef13b8480e3a922e12f4a8d0881",
+      "14cebef13b848025afd4cbcb07d9eb42",
+      "14cebef13b84802d80b5d171e434737c",
+      "101ebef13b8480208077e13179c6477d",
+      "3fbebef13b84813f9b0fdfe950e05d9d",
+      "3fbebef13b8481ba98f5db1244030005",
+      "3fbebef13b84814a99c4eb8ea45bd5ea"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84813f9b0fdfe950e05d9d": {
+    "id": "3fbebef13b84813f9b0fdfe950e05d9d",
+    "title": "Math",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:49.661Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84814a99c4eb8ea45bd5ea": {
+    "id": "3fbebef13b84814a99c4eb8ea45bd5ea",
+    "title": "Linux",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:49.661Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481789180ff2888abddf9": {
+    "id": "3fbebef13b8481789180ff2888abddf9",
+    "title": "Next.js",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:13.491Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84817e9660fd39a5c1970c": {
+    "id": "3fbebef13b84817e9660fd39a5c1970c",
+    "title": "AI Software Engineer Roadmap",
+    "parent": "323ebef13b848019bba2f74ddcbbed31",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T05:40:47.336Z",
+    "icon": "🧭",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84817eaf7dd854cc76aa19": {
+    "id": "3fbebef13b84817eaf7dd854cc76aa19",
+    "title": "Clean Architecture",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:10:19.544Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b848184be84cbb1ca8cb31e": {
+    "id": "3fbebef13b848184be84cbb1ca8cb31e",
+    "title": "Serverless",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:13.491Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481979651c9f69d96a137": {
+    "id": "3fbebef13b8481979651c9f69d96a137",
+    "title": "Personal Growth",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:52:48.215Z",
+    "icon": "🧠",
+    "children": [
+      "3fbebef13b8481f99dc8f2667b95d060",
+      "3fbebef13b84819c8268c8c24feb42c9",
+      "3fbebef13b84810a9681f86bc2946d3c",
+      "3fbebef13b8481fc90ecc5611f89669c",
+      "3fbebef13b8481a7829ccfb7aafa4dfe"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b84819c8268c8c24feb42c9": {
+    "id": "3fbebef13b84819c8268c8c24feb42c9",
+    "title": "Thinking",
+    "parent": "3fbebef13b8481979651c9f69d96a137",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:52.110Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481a2a2cadb45f1bed830": {
+    "id": "3fbebef13b8481a2a2cadb45f1bed830",
+    "title": "Now Learning",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:01:34.312Z",
+    "icon": "🎯",
+    "children": [
+      "2beebef13b8480a7b266e2455a7f4b70",
+      "2b7ebef13b84807b9168e2f53802274f",
+      "3c0ebef13b8480f0aa34cd101e1f9c2b",
+      "3cfebef13b84809eb359ef392e27e92c",
+      "2beebef13b84806c9a49d9075c344042",
+      "3fbebef13b8481d1b1dcdb1270d59bda"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481a7829ccfb7aafa4dfe": {
+    "id": "3fbebef13b8481a7829ccfb7aafa4dfe",
+    "title": "Personal Finance",
+    "parent": "3fbebef13b8481979651c9f69d96a137",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:52.110Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481a9b0cafd18cb7d3785": {
+    "id": "3fbebef13b8481a9b0cafd18cb7d3785",
+    "title": "UI/UX Design",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:13.491Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481b2a960d1c688c94a06": {
+    "id": "3fbebef13b8481b2a960d1c688c94a06",
+    "title": "Product & Leadership",
+    "parent": "3fbebef13b84811d9c91eeabc8685708",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:50.787Z",
+    "children": [],
+    "images": 1,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481b9859be0905f7c731e": {
+    "id": "3fbebef13b8481b9859be0905f7c731e",
+    "title": "Software Engineering",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:57:31.539Z",
+    "icon": "💻",
+    "children": [
+      "148ebef13b8480198013cb0aedc3abc5",
+      "148ebef13b84806ea98bc7c2c07842ba",
+      "102ebef13b8480e0bebdd279e7b92f7b",
+      "338ebef13b8480029335c5de443df370",
+      "101ebef13b848077a289c81945ce75b8",
+      "27cebef13b84806a86a2e6a431e899de",
+      "3fbebef13b8481a9b0cafd18cb7d3785",
+      "3fbebef13b8481789180ff2888abddf9",
+      "2beebef13b84807a8eaec7cf651eebd9",
+      "2c3ebef13b848037b3d2c76d57270692",
+      "1d0ebef13b848014a8abc0ece0e70e0f",
+      "2b5ebef13b848087b485dfcce2d9344e",
+      "102ebef13b8480dcb965e97d2edae7e7",
+      "2f7ebef13b848057adbdd45b08d83467",
+      "3fbebef13b84817eaf7dd854cc76aa19",
+      "3fbebef13b848184be84cbb1ca8cb31e",
+      "3fbebef13b8481e9b415e8c9f460240a",
+      "2f8ebef13b8480de9246e9fbfbb25a05",
+      "2b8ebef13b8480a782cedc5ecb17b387"
+    ],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481ba98f5db1244030005": {
+    "id": "3fbebef13b8481ba98f5db1244030005",
+    "title": "Networking",
+    "parent": "3fbebef13b848127831cc7754a218823",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:49.661Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481d1b1dcdb1270d59bda": {
+    "id": "3fbebef13b8481d1b1dcdb1270d59bda",
+    "title": "How to Clean Install macOS Sequoia",
+    "parent": "3fbebef13b8481a2a2cadb45f1bed830",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T08:48:44.442Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481db8f8bedf404616d42": {
+    "id": "3fbebef13b8481db8f8bedf404616d42",
+    "title": "Claude Guide",
+    "parent": null,
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T07:16:46.324Z",
+    "icon": "📘",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481e9b415e8c9f460240a": {
+    "id": "3fbebef13b8481e9b415e8c9f460240a",
+    "title": "DevOps & Cloud",
+    "parent": "3fbebef13b8481b9859be0905f7c731e",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:13.491Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481f99dc8f2667b95d060": {
+    "id": "3fbebef13b8481f99dc8f2667b95d060",
+    "title": "Learning How to Learn",
+    "parent": "3fbebef13b8481979651c9f69d96a137",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:52.110Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  },
+  "3fbebef13b8481fc90ecc5611f89669c": {
+    "id": "3fbebef13b8481fc90ecc5611f89669c",
+    "title": "Better Living",
+    "parent": "3fbebef13b8481979651c9f69d96a137",
+    "truncated": false,
+    "unknown_block_ids": [],
+    "last_edited": "2026-10-16T06:54:52.110Z",
+    "children": [],
+    "images": 0,
+    "bookmarks": [],
+    "other_unknown": [],
+    "has_database": false
+  }
+}

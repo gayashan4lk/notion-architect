@@ -3,9 +3,11 @@ title: "Data Structures & Algorithms"
 notion_id: 101ebef13b8480208077e13179c6477d
 notion_url: https://www.notion.so/101ebef13b8480208077e13179c6477d
 last_edited: 2026-10-16T06:56:51.050Z
+aliases:
+  - "Data Structures & Algorithms"
 ---
 
-[Architect](../README.md) / [How Computers Work](README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]]
 
 # Data Structures & Algorithms
 
@@ -31,8 +33,8 @@ last_edited: 2026-10-16T06:56:51.050Z
 
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
-![Design_patterns.jpg](../_assets/how-computers-work/data-structures-and-algorithms/Design_patterns.jpg)
+![[_assets/how-computers-work/data-structures-and-algorithms/Design_patterns.jpg]]
 
 **Introduction to Algorithms**
 
-![introduction_to_algorithms.jpg](../_assets/how-computers-work/data-structures-and-algorithms/introduction_to_algorithms.jpg)
+![[_assets/how-computers-work/data-structures-and-algorithms/introduction_to_algorithms.jpg]]

@@ -3,9 +3,11 @@ title: "Learning How to Learn"
 notion_id: 3fbebef13b8481f99dc8f2667b95d060
 notion_url: https://www.notion.so/3fbebef13b8481f99dc8f2667b95d060
 last_edited: 2026-10-16T06:54:52.110Z
+aliases:
+  - "Learning How to Learn"
 ---
 
-[Architect](../README.md) / [Personal Growth](README.md)
+[[README|Architect]] / [[personal-growth/README|Personal Growth]]
 
 # Learning How to Learn
 

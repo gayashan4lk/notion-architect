@@ -3,17 +3,19 @@ title: "Computer Architecture"
 notion_id: 14eebef13b8480e3a922e12f4a8d0881
 notion_url: https://www.notion.so/14eebef13b8480e3a922e12f4a8d0881
 last_edited: 2026-10-16T06:56:49.995Z
+aliases:
+  - "Computer Architecture"
 cover: "https://images.unsplash.com/photo-1555617981-dac3880eac6e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb"
 ---
 
-[Architect](../../README.md) / [How Computers Work](../README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]]
 
 # Computer Architecture
 
 **Modern CPU Architecture**<br>[Architecture All Access: Modern CPU Architecture Part 1 – Key Concepts \| Intel Technology](https://youtu.be/vgPFzblBh7w)<br>[Architecture All Access: Modern CPU Architecture 2 - Microarchitecture Deep Dive \| Intel Technology](https://youtu.be/o_WXTRS2qTY)<br> <br>[Why Are Threads Needed On Single Core Processors](https://youtu.be/M9HHWFp84f0)<br><br>**Digital design and computer architecture - Lecture series - Carnegie Mallon University**<br>[Spring 2020 - Digital Design and Computer Architecture - ETH Zurich](https://www.youtube.com/playlist?list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu)
 
-- 📄 [First Bug](first-bug.md)
-- 📄 [ENIAC - 1945](eniac-1945.md)
+- 📄 [[how-computers-work/computer-architecture/first-bug|First Bug]]
+- 📄 [[how-computers-work/computer-architecture/eniac-1945|ENIAC - 1945]]
 
 ## My Questions
 

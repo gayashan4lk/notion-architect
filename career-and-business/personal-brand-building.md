@@ -3,9 +3,11 @@ title: "Personal Brand Building"
 notion_id: 104ebef13b8480b18758cc3ede1648d9
 notion_url: https://www.notion.so/104ebef13b8480b18758cc3ede1648d9
 last_edited: 2024-11-07T12:14:07.629Z
+aliases:
+  - "Personal Brand Building"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # Personal Brand Building
 

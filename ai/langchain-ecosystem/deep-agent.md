@@ -3,9 +3,11 @@ title: "Deep Agent"
 notion_id: 323ebef13b8480e2a29ae74bab0750c7
 notion_url: https://www.notion.so/323ebef13b8480e2a29ae74bab0750c7
 last_edited: 2026-03-14T19:47:02.922Z
+aliases:
+  - "Deep Agent"
 ---
 
-[Architect](../../README.md) / [AI](../README.md) / [LangChain Ecosystem](README.md)
+[[README|Architect]] / [[ai/README|AI]] / [[ai/langchain-ecosystem/README|LangChain Ecosystem]]
 
 # Deep Agent
 

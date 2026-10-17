@@ -3,9 +3,11 @@ title: "Auth"
 notion_id: 27cebef13b84806a86a2e6a431e899de
 notion_url: https://www.notion.so/27cebef13b84806a86a2e6a431e899de
 last_edited: 2025-12-09T20:02:30.882Z
+aliases:
+  - "Auth"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Auth
 

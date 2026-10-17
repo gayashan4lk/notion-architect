@@ -3,14 +3,17 @@ title: "Claude Guide"
 notion_id: 3fbebef13b8481db8f8bedf404616d42
 notion_url: https://www.notion.so/3fbebef13b8481db8f8bedf404616d42
 last_edited: 2026-10-16T07:16:46.324Z
+aliases:
+  - "Claude Guide"
 icon: "📘"
 ---
 
-[Architect](README.md)
+[[README|Architect]]
 
 # 📘 Claude Guide
 
-> 🤖 **For Claude:** read this page before creating, moving, editing or deleting anything in the Architect workspace.
+> [!info] 🤖
+> **For Claude:** read this page before creating, moving, editing or deleting anything in the Architect workspace.
 
 ## What this workspace is
 
@@ -18,14 +21,14 @@ The Architect workspace is Gayashan's personal learning library. Almost everythi
 
 ## The 8 hubs
 
-- [Inbox](inbox.md) — quick capture only. New, unsorted links and notes land here and get sorted into a hub later.
-- [Now Learning](now-learning/README.md) — what he is actively studying right now: Study Plan, Azure Exams, Learn C and C++, AutoCAD, Blog Site Project. Pages move out to their subject hub once finished.
-- [AI](ai/README.md) — AI/ML fundamentals, building with LLMs (RAG, agents, LangChain ecosystem), AI coding tools, and careers in AI.
-- [Software Engineering](software-engineering/README.md) — languages (JavaScript, Python), backend, frontend & design, mobile, architecture & system design, DevOps & testing, Microsoft Power Platform.
-- [How Computers Work](how-computers-work/README.md) — CS fundamentals: computer architecture, C / C++, Assembly, data structures & algorithms, math, networking, Linux.
-- [BISTEC (Work)](bistec-work/README.md) — employer training tracks (Senior Engineer, Tech Lead). Work material with links to company process docs.
-- [Career & Business](career-and-business/README.md) — career planning, personal brand, public speaking, YouTube, startups, product & leadership, marketing.
-- [Personal Growth](personal-growth/README.md) — learning how to learn, thinking, mind & behavior, better living, personal finance.
+- [[inbox|Inbox]] — quick capture only. New, unsorted links and notes land here and get sorted into a hub later.
+- [[now-learning/README|Now Learning]] — what he is actively studying right now: Study Plan, Azure Exams, Learn C and C++, AutoCAD, Blog Site Project. Pages move out to their subject hub once finished.
+- [[ai/README|AI]] — AI/ML fundamentals, building with LLMs (RAG, agents, LangChain ecosystem), AI coding tools, and careers in AI.
+- [[software-engineering/README|Software Engineering]] — languages (JavaScript, Python), backend, frontend & design, mobile, architecture & system design, DevOps & testing, Microsoft Power Platform.
+- [[how-computers-work/README|How Computers Work]] — CS fundamentals: computer architecture, C / C++, Assembly, data structures & algorithms, math, networking, Linux.
+- [[bistec-work/README|BISTEC (Work)]] — employer training tracks (Senior Engineer, Tech Lead). Work material with links to company process docs.
+- [[career-and-business/README|Career & Business]] — career planning, personal brand, public speaking, YouTube, startups, product & leadership, marketing.
+- [[personal-growth/README|Personal Growth]] — learning how to learn, thinking, mind & behavior, better living, personal finance.
 
 ## Where new content goes
 

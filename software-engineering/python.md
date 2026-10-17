@@ -3,9 +3,11 @@ title: "Python"
 notion_id: 148ebef13b84806ea98bc7c2c07842ba
 notion_url: https://www.notion.so/148ebef13b84806ea98bc7c2c07842ba
 last_edited: 2024-11-27T10:20:34.667Z
+aliases:
+  - "Python"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Python
 

@@ -3,9 +3,11 @@ title: "Software Architecture"
 notion_id: 102ebef13b8480dcb965e97d2edae7e7
 notion_url: https://www.notion.so/102ebef13b8480dcb965e97d2edae7e7
 last_edited: 2024-11-24T05:32:16.750Z
+aliases:
+  - "Software Architecture"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Software Architecture
 

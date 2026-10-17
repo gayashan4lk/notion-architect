@@ -3,10 +3,12 @@ title: "Career & Business"
 notion_id: 3fbebef13b84811d9c91eeabc8685708
 notion_url: https://www.notion.so/3fbebef13b84811d9c91eeabc8685708
 last_edited: 2026-10-16T06:57:34.142Z
+aliases:
+  - "Career & Business"
 icon: "🚀"
 ---
 
-[Architect](../README.md)
+[[README|Architect]]
 
 # 🚀 Career & Business
 
@@ -14,16 +16,16 @@ Career planning, personal brand, communication, startups, product and leadership
 
 ### Career
 
-- 📄 [Career](career/README.md)
+- 📄 [[career-and-business/career/README|Career]]
 
 ### Personal brand & communication
 
-- 📄 [Personal Brand Building](personal-brand-building.md)
-- 📄 [Public Speaking](public-speaking.md)
-- 📄 [YouTube Content Creation](youtube-content-creation.md)
+- 📄 [[career-and-business/personal-brand-building|Personal Brand Building]]
+- 📄 [[career-and-business/public-speaking|Public Speaking]]
+- 📄 [[career-and-business/youtube-content-creation|YouTube Content Creation]]
 
 ### Business
 
-- 📄 [Startups](startups.md)
-- 📄 [Product & Leadership](product-and-leadership.md)
-- 📄 [Branding / Marketing / Sales](branding-marketing-sales.md)
+- 📄 [[career-and-business/startups|Startups]]
+- 📄 [[career-and-business/product-and-leadership|Product & Leadership]]
+- 📄 [[career-and-business/branding-marketing-sales|Branding / Marketing / Sales]]

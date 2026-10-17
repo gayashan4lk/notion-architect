@@ -3,9 +3,11 @@ title: "Building AI Agents"
 notion_id: 338ebef13b8480d6998fe90a0f2344ae
 notion_url: https://www.notion.so/338ebef13b8480d6998fe90a0f2344ae
 last_edited: 2026-04-05T02:01:35.300Z
+aliases:
+  - "Building AI Agents"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # Building AI Agents
 

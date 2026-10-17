@@ -3,15 +3,17 @@ title: "Product & Leadership"
 notion_id: 3fbebef13b8481b2a960d1c688c94a06
 notion_url: https://www.notion.so/3fbebef13b8481b2a960d1c688c94a06
 last_edited: 2026-10-16T06:54:50.787Z
+aliases:
+  - "Product & Leadership"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # Product & Leadership
 
 ## Product Development
 
-![Product_development_and_management_roadmap.jpeg](../_assets/career-and-business/product-and-leadership/Product_development_and_management_roadmap.jpeg)
+![[_assets/career-and-business/product-and-leadership/Product_development_and_management_roadmap.jpeg]]
 
 - [ ] **\[Book\] Inspired by Marty Cagan**
 - [ ] **Making sense of MVP** [https://youtu.be/0P7nCmln7PM](https://youtu.be/0P7nCmln7PM)

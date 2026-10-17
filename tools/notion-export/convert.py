@@ -1,6 +1,6 @@
 """Convert raw Notion fetch dumps into a GitHub-friendly Markdown tree.
 
-Usage: python3 convert.py <export_dir> <out_dir>
+Usage: python3 convert.py <export_dir> <out_dir> [--obsidian]
 
 <export_dir> holds:
   raw/<page_id>.md   raw Notion "enhanced markdown" from the Notion connector
@@ -23,8 +23,11 @@ from posixpath import relpath
 
 from clean_links import clean_text  # strips tracking parameters from every link
 
-EXPORT = Path(sys.argv[1])
-OUT = Path(sys.argv[2])
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+EXPORT = Path(ARGS[0])
+OUT = Path(ARGS[1])
+# --obsidian: wikilinks, Obsidian callouts, foldable toggles, heading-link TOC, aliases in frontmatter
+OBSIDIAN = "--obsidian" in sys.argv
 
 pages = json.loads((EXPORT / "manifest.json").read_text(encoding="utf-8"))
 bm_file = EXPORT / "bookmarks.json"
@@ -107,6 +110,18 @@ def link(from_pid, to_pid):
     return relpath(paths[to_pid], src_dir if src_dir != "." else ".")
 
 
+def wiki_target(path):
+    """Vault path without the .md extension; full paths, since many notes share a name (README)."""
+    return path[:-3] if path.endswith(".md") else path
+
+
+def page_link(from_pid, to_pid, label):
+    """A link to another exported page: a wikilink in Obsidian mode, a relative Markdown link otherwise."""
+    if OBSIDIAN:
+        return f"[[{wiki_target(paths[to_pid])}|{label}]]"
+    return f"[{label}]({link(from_pid, to_pid)})"
+
+
 # ---------- inline fixes ----------
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 EDGE_RE = re.compile(r"^((?:\s|<br>)*)(.*?)((?:\s|<br>)*)$", re.S)
@@ -128,9 +143,9 @@ IMG_RE = re.compile(r"!\[([^\]]*)\]\((notion-file-block://([0-9a-f-]+)/([0-9a-f-
 PAGE_RE = re.compile(r'^<page url="https://app\.notion\.com/p/([0-9a-f]{32})">(.*?)</page>$')
 UNKNOWN_RE = re.compile(r'^<unknown url="https://app\.notion\.com/p/([0-9a-f]{32})#([0-9a-f]{32})" alt="([^"]+)"/>$')
 PREVIEW_RE = re.compile(r'^<link-preview url="[^"]*" source="([^"]+)" />$')
-CALLOUT_OPEN_RE = re.compile(r'^<callout icon="([^"]*)" color="[^"]*">$')
+CALLOUT_OPEN_RE = re.compile(r'^<callout icon="([^"]*)" color="([^"]*)">$')
 MENTION_RE = re.compile(r'<mention-page url="https://app\.notion\.com/p/([0-9a-f]{32})"\s*/>')
-NOTION_LINK_RE = re.compile(r'\]\(https://(?:app\.notion\.com|www\.notion\.so)/p/([0-9a-f]{32})\)')
+NOTION_LINK_RE = re.compile(r'\[([^\]]*)\]\(https://(?:app\.notion\.com|www\.notion\.so)/p/([0-9a-f]{32})\)')
 TD_RE = re.compile(r"<td>(.*?)</td>", re.S)
 SUMMARY_RE = re.compile(r"^<summary>(.*)</summary>$")
 
@@ -140,10 +155,10 @@ def inline(text, pid):
         report["highlights"].append(pages[pid]["title"])
         return m.group(2)
     text = SPAN_RE.sub(span, text)
-    text = MENTION_RE.sub(lambda m: f"[{pages[m.group(1)]['title']}]({link(pid, m.group(1))})"
+    text = MENTION_RE.sub(lambda m: page_link(pid, m.group(1), pages[m.group(1)]['title'])
                           if m.group(1) in pages else f"[Notion page]({notion_url(m.group(1))})", text)
-    text = NOTION_LINK_RE.sub(lambda m: f"]({link(pid, m.group(1))})" if m.group(1) in pages
-                              else f"]({notion_url(m.group(1))})", text)
+    text = NOTION_LINK_RE.sub(lambda m: page_link(pid, m.group(2), m.group(1)) if m.group(2) in pages
+                              else f"[{m.group(1)}]({notion_url(m.group(2))})", text)
 
     def img(m):
         alt, _ref, block, file_id, name = m.groups()
@@ -155,6 +170,8 @@ def inline(text, pid):
             dest = OUT / asset_rel
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(f, dest)
+            if OBSIDIAN:
+                return f"![[{asset_rel}]]"
             return f"![{alt or name}]({relpath(asset_rel, str(Path(paths[pid]).parent))})"
         report["images_missing"].append((pages[pid]["title"], name))
         return f"[🖼️ Image: {name} (view in Notion)]({notion_url(pid, block.replace('-', ''))})"
@@ -170,6 +187,22 @@ def gh_anchor(heading):
 
 
 INDENT = "   "  # 3 spaces nests correctly under both "- " and "1. " list items
+
+# Notion callout colour -> Obsidian callout type (a 💡 on a neutral callout reads as a tip)
+CALLOUT_TYPES = {"red": "danger", "orange": "warning", "yellow": "warning", "green": "success",
+                 "blue": "info", "purple": "example", "pink": "example", "brown": "quote"}
+
+
+def callout_type(icon, color):
+    base = color.replace("_background", "").replace("_bg", "")
+    kind = CALLOUT_TYPES.get(base, "note")
+    return "tip" if kind == "note" and icon == "💡" else kind
+
+
+def obsidian_heading_ref(text):
+    """Heading text as Obsidian expects it in [[#...]]: no markup, no #|^:[] characters."""
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text).replace("**", "").replace("`", "")
+    return re.sub(r"\s+", " ", re.sub(r"[#|^:\[\]]", " ", text)).strip()
 
 
 # ---------- block conversion ----------
@@ -201,7 +234,11 @@ def convert_page(pid):
                 # a heading can't follow the icon on the same line, so headings inside callouts become plain text
                 body_lines = [inline(l.lstrip("#").strip() if l.startswith("#") else l, pid) for l in callout["lines"]]
                 text = "\n>\n".join(f"> {l}" for l in body_lines)
-                text = text.replace("> ", f"> {callout['icon']} ", 1) if callout["icon"] else text
+                if OBSIDIAN:
+                    kind = callout_type(callout["icon"], callout["color"])
+                    text = f"> [!{kind}] {callout['icon']}".rstrip() + "\n" + text
+                elif callout["icon"]:
+                    text = text.replace("> ", f"> {callout['icon']} ", 1)
                 out.append(("quote", text))
                 callout = None
             else:
@@ -209,7 +246,7 @@ def convert_page(pid):
             continue
         m = CALLOUT_OPEN_RE.match(line)
         if m:
-            callout = {"icon": m.group(1), "lines": []}
+            callout = {"icon": m.group(1), "color": m.group(2), "lines": []}
             continue
         if table is not None:
             if line.startswith("</table>"):
@@ -233,8 +270,13 @@ def convert_page(pid):
             continue
         if details is not None:
             if body.startswith("</details>"):
-                inner = "\n\n".join(inline(l, pid) for l in details["lines"] if l.strip())
-                out.append(("details", f"<details>\n<summary>{inline(details['summary'], pid)}</summary>\n\n{inner}\n\n</details>"))
+                body_lines = [inline(l, pid) for l in details["lines"] if l.strip()]
+                if OBSIDIAN:   # foldable callout, collapsed by default
+                    folded = "\n>\n".join(f"> {l}" for l in body_lines)
+                    out.append(("details", f"> [!faq]- {inline(details['summary'], pid)}\n{folded}"))
+                else:
+                    inner = "\n\n".join(body_lines)
+                    out.append(("details", f"<details>\n<summary>{inline(details['summary'], pid)}</summary>\n\n{inner}\n\n</details>"))
                 details = None
             elif SUMMARY_RE.match(body):
                 details["summary"] = SUMMARY_RE.match(body).group(1)
@@ -254,7 +296,7 @@ def convert_page(pid):
         m = PAGE_RE.match(line.strip())
         if m:
             cid, title = m.groups()
-            out.append(("list", f"- 📄 [{title}]({link(pid, cid)})"))
+            out.append(("list", f"- 📄 {page_link(pid, cid, title)}"))
             continue
         m = UNKNOWN_RE.match(line.strip())
         if m:
@@ -304,7 +346,12 @@ def convert_page(pid):
         for h in heads:
             level = len(h) - len(h.lstrip("#"))
             text = h.lstrip("#").strip()
-            entries.append(f"{INDENT * (level - 2)}- [{re.sub(r'[*`]', '', text)}](#{gh_anchor(text)})")
+            label = re.sub(r'[*`]', '', text)
+            if OBSIDIAN:
+                ref = obsidian_heading_ref(text)
+                entries.append(f"{INDENT * (level - 2)}- [[#{ref}|{label}]]")
+            else:
+                entries.append(f"{INDENT * (level - 2)}- [{label}](#{gh_anchor(text)})")
         out[toc_at] = ("toc", "**Contents**\n\n" + "\n".join(entries))
 
     # join blocks: lists stay tight, everything else separated by blank lines
@@ -329,8 +376,11 @@ def breadcrumb(pid):
     while cur:
         chain.append(cur)
         cur = pages[cur]["parent"]
-    crumbs = [f"[Architect]({relpath('README.md', str(Path(paths[pid]).parent))})"]
-    crumbs += [f"[{pages[c]['title']}]({link(pid, c)})" for c in reversed(chain)]
+    if OBSIDIAN:
+        crumbs = ["[[README|Architect]]"]
+    else:
+        crumbs = [f"[Architect]({relpath('README.md', str(Path(paths[pid]).parent))})"]
+    crumbs += [page_link(pid, c, pages[c]['title']) for c in reversed(chain)]
     return " / ".join(crumbs)
 
 
@@ -338,6 +388,8 @@ written = 0
 for pid, p in pages.items():
     fm = ["---", f"title: {yaml_str(p['title'])}", f"notion_id: {pid}",
           f"notion_url: {notion_url(pid)}", f"last_edited: {p['last_edited']}"]
+    if OBSIDIAN:   # lets search, link autocomplete and the quick switcher find the note by its real title
+        fm.append(f"aliases:\n  - {yaml_str(p['title'])}")
     if p.get("icon"):
         fm.append(f"icon: {yaml_str(p['icon'])}")
     if p.get("cover"):
@@ -355,7 +407,8 @@ for pid, p in pages.items():
 # ---------- root README (workspace map) ----------
 def tree(pid, depth):
     p = pages[pid]
-    lines = [f"{'  ' * depth}- [{p['title']}]({paths[pid]})"]
+    target = f"[[{wiki_target(paths[pid])}|{p['title']}]]" if OBSIDIAN else f"[{p['title']}]({paths[pid]})"
+    lines = [f"{'  ' * depth}- {target}"]
     for c in p["children"]:
         lines += tree(c, depth + 1)
     return lines
@@ -372,7 +425,11 @@ readme = [
     "See [`_export-report.md`](_export-report.md) for anything that could not be carried over, "
     "and [`tools/notion-export/`](tools/notion-export/) for how this was produced.", "",
 ] + ([
-    "Earlier snapshots of the workspace, from before it was reorganized, are kept unchanged in [`archive/`](archive/).", "",
+    "**Open this folder as an Obsidian vault.** Links between pages are wikilinks, callouts and toggles use Obsidian's "
+    "callout syntax, and the included `.obsidian/` settings hide `tools/` and `archive/` from search, the graph and the "
+    "quick switcher. On GitHub, wikilinks show as plain `[[…]]` text.", "",
+] if OBSIDIAN else []) + ([
+    "Earlier snapshots of the backup are kept unchanged in [`archive/`](archive/).", "",
 ] if (OUT / "archive").exists() else []) + [
     "## Workspace map", "",
 ]
@@ -406,13 +463,21 @@ if report["images_missing"]:
     rep += [f"- **{t}** — {n}" for t, n in report["images_missing"]] + [""]
 rep += [
     "## What changes in the conversion", "",
-    "- Callouts become blockquotes that keep their emoji.",
+    "- Callouts become Obsidian callouts that keep their emoji." if OBSIDIAN
+    else "- Callouts become blockquotes that keep their emoji.",
     "- Text highlight colours are dropped (the text itself is kept)"
     + (f": {', '.join(sorted(set(report['highlights'])))}." if report["highlights"] else "."),
     "- Headings shift down one level, since each page's title is its `#` heading.",
     "- Link previews become plain links.",
+] + ([
+    "- **Obsidian format:** links between pages are full-path wikilinks (`[[folder/page|Title]]`), images are `![[…]]` embeds, "
+    "callouts use `> [!type]` (picked from the Notion colour), toggles are folded `> [!faq]-` callouts, the table of contents "
+    "links to headings with `[[#…]]`, and each note lists its Notion title under `aliases`.",
+] if OBSIDIAN else []) + [
     "- Tracking parameters (`utm_*`, `gclid`, YouTube `si=` and similar) are removed from every link by [`clean_links.py`](tools/notion-export/clean_links.py).",
+] + ([] if OBSIDIAN else [
     "- Toggles become collapsible `<details>` sections, and a Notion table of contents becomes a linked list of the page's headings.",
+]) + [
     "- Comments are not included.",
     "",
 ]

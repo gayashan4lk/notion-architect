@@ -3,9 +3,11 @@ title: "Flutter"
 notion_id: 1d0ebef13b848014a8abc0ece0e70e0f
 notion_url: https://www.notion.so/1d0ebef13b848014a8abc0ece0e70e0f
 last_edited: 2026-10-16T06:56:48.782Z
+aliases:
+  - "Flutter"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Flutter
 

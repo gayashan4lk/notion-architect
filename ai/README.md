@@ -3,10 +3,12 @@ title: "AI"
 notion_id: 323ebef13b848019bba2f74ddcbbed31
 notion_url: https://www.notion.so/323ebef13b848019bba2f74ddcbbed31
 last_edited: 2026-10-16T06:57:30.322Z
+aliases:
+  - "AI"
 icon: "🤖"
 ---
 
-[Architect](../README.md)
+[[README|Architect]]
 
 # 🤖 AI
 
@@ -14,21 +16,21 @@ AI fundamentals, building with LLMs, AI coding tools and career in AI.
 
 ### Fundamentals
 
-- 📄 [AI ML](ai-ml.md)
-- 📄 [Basic Concepts](basic-concepts.md)
+- 📄 [[ai/ai-ml|AI ML]]
+- 📄 [[ai/basic-concepts|Basic Concepts]]
 
 ### Building with LLMs
 
-- 📄 [LangChain Ecosystem](langchain-ecosystem/README.md)
-- 📄 [AI Engineer Skillset](ai-engineer-skillset.md)
-- 📄 [Building AI Agents](building-ai-agents.md)
+- 📄 [[ai/langchain-ecosystem/README|LangChain Ecosystem]]
+- 📄 [[ai/ai-engineer-skillset|AI Engineer Skillset]]
+- 📄 [[ai/building-ai-agents|Building AI Agents]]
 
 ### Tools
 
-- 📄 [AI Coding Tools](ai-coding-tools/README.md)
+- 📄 [[ai/ai-coding-tools/README|AI Coding Tools]]
 
 ### Career in AI
 
-- 📄 [How to break into AIML Engineering](how-to-break-into-aiml-engineering.md)
-- 📄 [AI Software Engineer Roadmap](ai-software-engineer-roadmap.md)
-- 📄 [Insights](insights.md)
+- 📄 [[ai/how-to-break-into-aiml-engineering|How to break into AIML Engineering]]
+- 📄 [[ai/ai-software-engineer-roadmap|AI Software Engineer Roadmap]]
+- 📄 [[ai/insights|Insights]]

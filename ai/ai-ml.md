@@ -3,9 +3,11 @@ title: "AI ML"
 notion_id: 101ebef13b848081bdeae096d8bb6568
 notion_url: https://www.notion.so/101ebef13b848081bdeae096d8bb6568
 last_edited: 2026-10-16T06:56:38.000Z
+aliases:
+  - "AI ML"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # AI ML
 

@@ -3,9 +3,11 @@ title: "DevOps & Cloud"
 notion_id: 3fbebef13b8481e9b415e8c9f460240a
 notion_url: https://www.notion.so/3fbebef13b8481e9b415e8c9f460240a
 last_edited: 2026-10-16T06:54:13.491Z
+aliases:
+  - "DevOps & Cloud"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # DevOps & Cloud
 

@@ -3,9 +3,11 @@ title: "Serverless"
 notion_id: 3fbebef13b848184be84cbb1ca8cb31e
 notion_url: https://www.notion.so/3fbebef13b848184be84cbb1ca8cb31e
 last_edited: 2026-10-16T06:54:13.491Z
+aliases:
+  - "Serverless"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Serverless
 

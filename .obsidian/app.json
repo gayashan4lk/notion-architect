@@ -1,0 +1,11 @@
+{
+  "userIgnoreFilters": [
+    "tools/",
+    "archive/"
+  ],
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "_assets",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
+}

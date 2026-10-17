@@ -3,9 +3,11 @@ title: "FastAPI"
 notion_id: 338ebef13b8480029335c5de443df370
 notion_url: https://www.notion.so/338ebef13b8480029335c5de443df370
 last_edited: 2026-10-16T06:56:36.414Z
+aliases:
+  - "FastAPI"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # FastAPI
 
