@@ -10,7 +10,7 @@ cover: "https://images.unsplash.com/photo-1555617981-dac3880eac6e?ixlib=rb-4.0.3
 
 # Computer Architecture
 
-**Modern CPU Architecture**<br>[Architecture All Access: Modern CPU Architecture Part 1 – Key Concepts \| Intel Technology](https://youtu.be/vgPFzblBh7w?si=M2Ohb958LKbSea1i)<br>[Architecture All Access: Modern CPU Architecture 2 - Microarchitecture Deep Dive \| Intel Technology](https://youtu.be/o_WXTRS2qTY?si=n2vrXW9R-52NsLoZ)<br> <br>[Why Are Threads Needed On Single Core Processors](https://youtu.be/M9HHWFp84f0?si=ZEcYsU_IG5Y4HNPP)<br><br>**Digital design and computer architecture - Lecture series - Carnegie Mallon University**<br>[Spring 2020 - Digital Design and Computer Architecture - ETH Zurich](https://www.youtube.com/playlist?list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu)
+**Modern CPU Architecture**<br>[Architecture All Access: Modern CPU Architecture Part 1 – Key Concepts \| Intel Technology](https://youtu.be/vgPFzblBh7w)<br>[Architecture All Access: Modern CPU Architecture 2 - Microarchitecture Deep Dive \| Intel Technology](https://youtu.be/o_WXTRS2qTY)<br> <br>[Why Are Threads Needed On Single Core Processors](https://youtu.be/M9HHWFp84f0)<br><br>**Digital design and computer architecture - Lecture series - Carnegie Mallon University**<br>[Spring 2020 - Digital Design and Computer Architecture - ETH Zurich](https://www.youtube.com/playlist?list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu)
 
 - 📄 [First Bug](first-bug.md)
 - 📄 [ENIAC - 1945](eniac-1945.md)
@@ -37,5 +37,5 @@ cover: "https://images.unsplash.com/photo-1555617981-dac3880eac6e?ixlib=rb-4.0.3
 
 ## Building a computer
 
-- [ ] Building a 8-bit computer<br>[https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=4nAozeAMJfLJUsFx](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=4nAozeAMJfLJUsFx)
-- [ ] **How does an OS boot? //Source Dive// 001**<br>[How does an OS boot? //Source Dive// 001](https://youtu.be/KkenLT8S9Hs?si=9uapmhhRsCkA8kpX)
+- [ ] Building a 8-bit computer<br>[https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- [ ] **How does an OS boot? //Source Dive// 001**<br>[How does an OS boot? //Source Dive// 001](https://youtu.be/KkenLT8S9Hs)

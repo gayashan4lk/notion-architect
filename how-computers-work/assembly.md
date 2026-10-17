@@ -9,4 +9,4 @@ last_edited: 2024-11-28T15:35:41.159Z
 
 # Assembly
 
-**Assembly Language Programming with ARM**<br>[Assembly Language Programming with ARM – Full Tutorial for Beginners](https://youtu.be/gfmRrPjnEw4?si=H4lu_Ju4bhF6juop)
+**Assembly Language Programming with ARM**<br>[Assembly Language Programming with ARM – Full Tutorial for Beginners](https://youtu.be/gfmRrPjnEw4)

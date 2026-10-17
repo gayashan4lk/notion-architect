@@ -24,5 +24,6 @@ Notion's connector doesn't expose these blocks; each spot links back to Notion.
 - Text highlight colours are dropped (the text itself is kept): First Bug.
 - Headings shift down one level, since each page's title is its `#` heading.
 - Link previews become plain links.
+- Tracking parameters (`utm_*`, `gclid`, YouTube `si=` and similar) are removed from every link by [`clean_links.py`](tools/notion-export/clean_links.py).
 - Toggles become collapsible `<details>` sections, and a Notion table of contents becomes a linked list of the page's headings.
 - Comments are not included.

@@ -8,6 +8,10 @@ The pages in this repo are exported from the **Architect** Notion workspace. The
 2. **Fill gaps.** The connector doesn't return bookmark URLs, so they were read from the live Notion pages and saved in [`bookmarks.json`](bookmarks.json). Images were captured from Notion in the browser and saved in [`assets/`](assets/) at full resolution. PNGs are lossless. JPEGs were re-saved at 92% quality, so camera metadata (EXIF) is not kept. [`assets/files.json`](assets/files.json) maps each Notion file ID to its image, so an image still matches after its block is moved or copied.
 3. **Convert.** [`manifest.py`](manifest.py) builds [`manifest.json`](manifest.json), the page tree with child counts, images, and bookmarks. [`convert.py`](convert.py) then turns `raw/` into the Markdown tree at the repo root, listing the top-level pages in the order given in [`roots.json`](roots.json), which matches the Notion sidebar.
 
+## Link cleaning
+
+[`clean_links.py`](clean_links.py) removes tracking parameters from every link: `utm_*`, `gclid`, `fbclid`, ad-campaign IDs, YouTube and Spotify `si=` share IDs, and Chrome's `#:~:text=` highlight anchors. Google search links keep only the search term. Everything else in a URL stays as written. `convert.py` applies it to every page it writes, and the raw dumps, `bookmarks.json` and the archive have been cleaned the same way. Run `python3 clean_links.py --check <path>` to see whether anything still needs cleaning.
+
 ## Re-running the conversion
 
 The conversion is repeatable from the saved files, with no Notion access needed:

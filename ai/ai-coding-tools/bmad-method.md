@@ -11,7 +11,7 @@ last_edited: 2026-03-14T19:33:38.507Z
 
 [Models \| Cursor Docs](https://cursor.com/docs/models)
 
-[The BMAD Method: The Ultimate AI Coding System](https://youtu.be/fD8NLPU0WYU?si=YI9IkrSjoFECrEVv)
+[The BMAD Method: The Ultimate AI Coding System](https://youtu.be/fD8NLPU0WYU)
 
 [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg)
 

@@ -9,8 +9,8 @@ last_edited: 2024-11-07T12:14:07.629Z
 
 # Personal Brand Building
 
-- [ ] **Building A Powerful LinkedIn Presence: Tips from a LinkedIn Expert** [https://youtu.be/GfDMqfnFHxM?si=yCWFYOnEBP6r07oc](https://youtu.be/GfDMqfnFHxM?si=yCWFYOnEBP6r07oc)
-- [ ] **Lessons from \$80M CEO on Building a Strong Personal Brand** [https://youtu.be/Ed9OqOQAfBs?si=0K20Bx4ipVshZmtE](https://youtu.be/Ed9OqOQAfBs?si=0K20Bx4ipVshZmtE)
-- [ ] **How to communicate your value and get known** [https://youtu.be/hjIQ-ubJ6JU?si=tPMoRG9der6n98bs](https://youtu.be/hjIQ-ubJ6JU?si=tPMoRG9der6n98bs)
-- [ ] **How To Build A Successful Personal Brand in 2024 (Full Masterclass)** [https://youtu.be/1kUCm1JPzxg?si=tkNIjJj4wIBK18iW](https://youtu.be/1kUCm1JPzxg?si=tkNIjJj4wIBK18iW)
-- [ ] **What is YOUR Reason for Being? (Ikigai)** [https://www.youtube.com/live/G2SqqjRn_c0?si=uvFAaEM80XSZDgvg](https://www.youtube.com/live/G2SqqjRn_c0?si=uvFAaEM80XSZDgvg)
+- [ ] **Building A Powerful LinkedIn Presence: Tips from a LinkedIn Expert** [https://youtu.be/GfDMqfnFHxM](https://youtu.be/GfDMqfnFHxM)
+- [ ] **Lessons from \$80M CEO on Building a Strong Personal Brand** [https://youtu.be/Ed9OqOQAfBs](https://youtu.be/Ed9OqOQAfBs)
+- [ ] **How to communicate your value and get known** [https://youtu.be/hjIQ-ubJ6JU](https://youtu.be/hjIQ-ubJ6JU)
+- [ ] **How To Build A Successful Personal Brand in 2024 (Full Masterclass)** [https://youtu.be/1kUCm1JPzxg](https://youtu.be/1kUCm1JPzxg)
+- [ ] **What is YOUR Reason for Being? (Ikigai)** [https://www.youtube.com/live/G2SqqjRn_c0](https://www.youtube.com/live/G2SqqjRn_c0)

@@ -16,5 +16,5 @@ last_edited: 2026-10-16T06:54:52.110Z
 
 ## Design Thinking
 
-- [ ] [The Designer's Full Stack Manifesto \[Episode 1\]](https://youtu.be/zuMbbLYRBxU?si=FQYtdvYexpDYyao3)
+- [ ] [The Designer's Full Stack Manifesto \[Episode 1\]](https://youtu.be/zuMbbLYRBxU)
 - [ ] [The Full Stack Deisgner Manifesto](https://www.slideshare.net/slideshow/the-full-stack-deisgner-manifesto/49624053)

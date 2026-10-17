@@ -9,10 +9,10 @@ last_edited: 2024-11-27T10:20:34.667Z
 
 # Python
 
-**Intermediate Python Programming Course**<br>[https://youtu.be/HGOBQPFzWKo?si=3AQCD6NIx2vEgOBT](https://youtu.be/HGOBQPFzWKo?si=3AQCD6NIx2vEgOBT)<br>
+**Intermediate Python Programming Course**<br>[https://youtu.be/HGOBQPFzWKo](https://youtu.be/HGOBQPFzWKo)<br>
 
 **Patrick Loeber Channel for Python**<br>[Patrick Loeber](https://www.youtube.com/@patloeber/videos)
 
 **Python for beginners**<br>[Python Tutorial for Beginners (with mini-projects)](https://www.youtube.com/watch?v=qwAFL1597eM)
 
-**Learn Python OOP in under 20 Minutes**<br>[Learn Python OOP in under 20 Minutes](https://youtu.be/rLyYb7BFgQI?si=Yi1HWdLrL07fSN6K)
+**Learn Python OOP in under 20 Minutes**<br>[Learn Python OOP in under 20 Minutes](https://youtu.be/rLyYb7BFgQI)

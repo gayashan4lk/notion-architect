@@ -11,4 +11,4 @@ last_edited: 2025-09-28T09:18:07.236Z
 
 **Winner Effect**
 
-[This Idea Will Make You Unstoppable](https://youtu.be/0ruvCL9atE0?si=fJNkVxzuTzQuwoZA)
+[This Idea Will Make You Unstoppable](https://youtu.be/0ruvCL9atE0)

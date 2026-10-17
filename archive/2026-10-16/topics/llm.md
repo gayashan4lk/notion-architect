@@ -11,13 +11,13 @@ last_edited: 2025-11-03T22:30:00.746Z
 
 ## RAG
 
-[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=Qy3IUGqoqRSyrTCB)
+[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8)
 
-[RAG From Scratch](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=6MjywoNzIhR6e64X)
+[RAG From Scratch](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 
 ## Transformers
 
-[Transformers Explained: The Discovery That Changed AI Forever](https://youtu.be/JZLZQVmfGn8?si=z_zeYVexU9Fp0I2o)
+[Transformers Explained: The Discovery That Changed AI Forever](https://youtu.be/JZLZQVmfGn8)
 
 [poloclub.github.io/transformer-explainer/](http://poloclub.github.io/transformer-explainer/)
 

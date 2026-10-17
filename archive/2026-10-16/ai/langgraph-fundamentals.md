@@ -21,4 +21,4 @@ last_edited: 2026-04-04T08:22:26.846Z
 
 🔖 [Long-Term Agentic Memory With LangGraph - DeepLearning.AI](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/lesson/ovv0p/introduction)
 
-🔖 [Building Effective Agents with LangGraph](https://youtu.be/aHCDrAbH_go?si=cpHSBu-FDuyUXKKe)
+🔖 [Building Effective Agents with LangGraph](https://youtu.be/aHCDrAbH_go)

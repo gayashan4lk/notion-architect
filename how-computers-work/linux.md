@@ -9,5 +9,5 @@ last_edited: 2026-10-16T06:54:49.661Z
 
 # Linux
 
-- [ ] [Learn Linux - Full Course Walkthrough](https://youtu.be/v392lEyM29A?si=O4n7rOWfPI1KZMGo)
-- [ ] [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=h5_4dzF2NisDoA7I)
+- [ ] [Learn Linux - Full Course Walkthrough](https://youtu.be/v392lEyM29A)
+- [ ] [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo)

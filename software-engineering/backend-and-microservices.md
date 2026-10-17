@@ -11,7 +11,7 @@ last_edited: 2026-10-16T07:10:23.331Z
 
 ### .NET
 
-- [ ] **Brutally honest advice for new .NET Web Developers**<br>[https://youtu.be/ohkeYczD1LY?si=QX8IMd2I6uAYNuz_](https://youtu.be/ohkeYczD1LY?si=QX8IMd2I6uAYNuz_)<br>
+- [ ] **Brutally honest advice for new .NET Web Developers**<br>[https://youtu.be/ohkeYczD1LY](https://youtu.be/ohkeYczD1LY)<br>
 
 ### FastAPI
 
@@ -19,19 +19,19 @@ Moved to the [FastAPI](fastapi.md) page.
 
 ### Spring Framework
 
-- [ ] **Spring Framework and Microservices Full Course**<br>[Spring Framework and Microservices Full Course](https://youtu.be/Jl9OKQ92SJU?si=hr20H5AU6Wta_aoS)
+- [ ] **Spring Framework and Microservices Full Course**<br>[Spring Framework and Microservices Full Course](https://youtu.be/Jl9OKQ92SJU)
 
 ### SpringBoot
 
-- [ ] **Microservices Using Spring Boot and Spring Cloud #1**<br>[https://youtu.be/p485kUNpPvE?si=EfuCa-4ImPbcmIWP](https://youtu.be/p485kUNpPvE?si=EfuCa-4ImPbcmIWP)<br>
-- [ ] **Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours**<br>[https://youtu.be/yn_stY3HCr8?si=-iIMyfwDelmmKjkt](https://youtu.be/yn_stY3HCr8?si=-iIMyfwDelmmKjkt)<br>
-- [ ] **Java Spring Boot Microservices with k8s, Docker, AWS \| Monolithic to Microservices \[PART 1\]**<br>[https://youtu.be/BLlEgtp2_i8?si=jXxszVvNGdvdFt1t](https://youtu.be/BLlEgtp2_i8?si=jXxszVvNGdvdFt1t)<br>[https://youtu.be/EeQRAxXWDF4?si=yvepNAByYvjwHBPP](https://youtu.be/EeQRAxXWDF4?si=yvepNAByYvjwHBPP)<br>
-- [ ] **🚀 🔥 Mastering Microservices: Spring boot, Spring Cloud and Keycloak In 7 Hours**<br>[https://youtu.be/jdeSV0GRvwI?si=FtdQjVXdIpwUBbI2](https://youtu.be/jdeSV0GRvwI?si=FtdQjVXdIpwUBbI2)<br>
+- [ ] **Microservices Using Spring Boot and Spring Cloud #1**<br>[https://youtu.be/p485kUNpPvE](https://youtu.be/p485kUNpPvE)<br>
+- [ ] **Spring Boot 3 Microservices with Kubernetes and Angular Complete Course in 7 Hours**<br>[https://youtu.be/yn_stY3HCr8](https://youtu.be/yn_stY3HCr8)<br>
+- [ ] **Java Spring Boot Microservices with k8s, Docker, AWS \| Monolithic to Microservices \[PART 1\]**<br>[https://youtu.be/BLlEgtp2_i8](https://youtu.be/BLlEgtp2_i8)<br>[https://youtu.be/EeQRAxXWDF4](https://youtu.be/EeQRAxXWDF4)<br>
+- [ ] **🚀 🔥 Mastering Microservices: Spring boot, Spring Cloud and Keycloak In 7 Hours**<br>[https://youtu.be/jdeSV0GRvwI](https://youtu.be/jdeSV0GRvwI)<br>
 
 ### Microservices
 
-- [ ] **Microservice Architecture and System Design with Python & Kubernetes – Full Course**<br>[https://youtu.be/hmkF77F9TLw?si=VqeFE77tuuSOsKFN](https://youtu.be/hmkF77F9TLw?si=VqeFE77tuuSOsKFN)
-- [ ] **Python Microservices Full Course - Event-Driven Architecture with RabbitMQ**<br>[https://youtu.be/ddrucr_aAzA?si=o8k-1QSxeneqHSMy](https://youtu.be/ddrucr_aAzA?si=o8k-1QSxeneqHSMy)
+- [ ] **Microservice Architecture and System Design with Python & Kubernetes – Full Course**<br>[https://youtu.be/hmkF77F9TLw](https://youtu.be/hmkF77F9TLw)
+- [ ] **Python Microservices Full Course - Event-Driven Architecture with RabbitMQ**<br>[https://youtu.be/ddrucr_aAzA](https://youtu.be/ddrucr_aAzA)
 
 ### Angular
 
@@ -40,10 +40,10 @@ Moved to the [FastAPI](fastapi.md) page.
 
 ## Event-Driven Architecture
 
-[Event-Driven .NET: Building a Publish/Subscribe System with RabbitMQ](https://youtu.be/daaiAjZnOm4?si=TcBsN1lgcRdzuLjB)
+[Event-Driven .NET: Building a Publish/Subscribe System with RabbitMQ](https://youtu.be/daaiAjZnOm4)
 
 ## Redis
 
-[Distributed Caching In ASP.NET Core With Redis \| Introduction](https://youtu.be/Tt5zIKVMMbs?si=X00B4fuDaN2ezYj-)
+[Distributed Caching In ASP.NET Core With Redis \| Introduction](https://youtu.be/Tt5zIKVMMbs)
 
-[Blazing Fast Caching Service In ASP.NET Core \| Redis Compatible](https://youtu.be/V_vdMQ5dpMw?si=XIu9IfLlwZppGeiT)
+[Blazing Fast Caching Service In ASP.NET Core \| Redis Compatible](https://youtu.be/V_vdMQ5dpMw)

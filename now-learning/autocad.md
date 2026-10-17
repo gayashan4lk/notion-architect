@@ -9,12 +9,12 @@ last_edited: 2026-09-02T17:00:19.955Z
 
 # AutoCAD
 
-[Do THIS to Get AutoCAD for FREE!](https://youtu.be/Cp8DJgiK7MI?si=bIRrl0hc5ZzShwcY)
+[Do THIS to Get AutoCAD for FREE!](https://youtu.be/Cp8DJgiK7MI)
 
-[AutoCAD for Beginners - Full University Course](https://youtu.be/VtLXKU1PpRU?si=h_ErOjzvZjmsPBXK)
+[AutoCAD for Beginners - Full University Course](https://youtu.be/VtLXKU1PpRU)
 
-[AutoCAD 2026 - 15 Minute Tutorial For BEGINNERS!](https://youtu.be/5W0Z3OcsR4w?si=-Lx5KIMR0qxJwtoQ)
+[AutoCAD 2026 - 15 Minute Tutorial For BEGINNERS!](https://youtu.be/5W0Z3OcsR4w)
 
-[How I would learn AutoCAD if I could start over](https://youtu.be/r-j7FTlx1bc?si=_PxBohonv8gmL-i0)
+[How I would learn AutoCAD if I could start over](https://youtu.be/r-j7FTlx1bc)
 
-[AutoCAD Basic Tutorial for Beginners - Part 1 of 3](https://youtu.be/cmR9cfWJRUU?si=zw0VML82IIozxfA1)
+[AutoCAD Basic Tutorial for Beginners - Part 1 of 3](https://youtu.be/cmR9cfWJRUU)

@@ -11,7 +11,7 @@ last_edited: 2026-10-16T06:54:13.491Z
 
 ## Proxy / Reverse Proxy
 
-[Proxy vs Reverse Proxy vs Load Balancer \| Simply Explained](https://youtu.be/xo5V9g9joFs?si=HKesvSKf6j9ImH18)
+[Proxy vs Reverse Proxy vs Load Balancer \| Simply Explained](https://youtu.be/xo5V9g9joFs)
 
 ## Cloud
 
@@ -19,13 +19,13 @@ Learn Azure
 
 ## Containerization
 
-- [ ] **Understanding Container Internals** [https://www.youtube.com/live/9ivFrXgB2Zg?si=yw-xTCKXtsMKxhvW](https://www.youtube.com/live/9ivFrXgB2Zg?si=yw-xTCKXtsMKxhvW)
-- [ ] **Full NGINX Tutorial - Demo Project with Node.js, Docker**<br>[Full NGINX Tutorial - Demo Project with Node.js, Docker](https://youtu.be/q8OleYuqntY?si=9ekDmoKZXeCCI07U)
+- [ ] **Understanding Container Internals** [https://www.youtube.com/live/9ivFrXgB2Zg](https://www.youtube.com/live/9ivFrXgB2Zg)
+- [ ] **Full NGINX Tutorial - Demo Project with Node.js, Docker**<br>[Full NGINX Tutorial - Demo Project with Node.js, Docker](https://youtu.be/q8OleYuqntY)
 
 ## Kubernetes
 
-- [ ] [Kubernetes 101: Deploying Your First Application!](https://youtu.be/XltFOyGanYE?si=VrqKf5seyDbLHBn_)
+- [ ] [Kubernetes 101: Deploying Your First Application!](https://youtu.be/XltFOyGanYE)
 
 ## .NET Aspire
 
-[.NET Aspire 9.2 is out and it's amazing! NEW RESOURCE GRAPH](https://youtu.be/QvSDRRGv8cs?si=CSIFuEv4GUCQvnwM)
+[.NET Aspire 9.2 is out and it's amazing! NEW RESOURCE GRAPH](https://youtu.be/QvSDRRGv8cs)

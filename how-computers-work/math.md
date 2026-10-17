@@ -9,4 +9,4 @@ last_edited: 2026-10-16T06:54:49.661Z
 
 # Math
 
-- [ ] **Probability Top 10 Must Knows**<br>[Probability Top 10 Must Knows (ultimate study guide)](https://youtu.be/LgLgexX7iTs?si=O2fFBwe7TvYXx7x1)
+- [ ] **Probability Top 10 Must Knows**<br>[Probability Top 10 Must Knows (ultimate study guide)](https://youtu.be/LgLgexX7iTs)

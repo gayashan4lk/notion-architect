@@ -24,7 +24,7 @@ last_edited: 2026-02-12T02:02:11.970Z
 
 ## Proxy / Reverse Proxy
 
-[Proxy vs Reverse Proxy vs Load Balancer \| Simply Explained](https://youtu.be/xo5V9g9joFs?si=HKesvSKf6j9ImH18)
+[Proxy vs Reverse Proxy vs Load Balancer \| Simply Explained](https://youtu.be/xo5V9g9joFs)
 
 ## Cloud
 
@@ -32,40 +32,40 @@ Learn Azure
 
 ## Containerization
 
-- [ ] **Understanding Container Internals** [https://www.youtube.com/live/9ivFrXgB2Zg?si=yw-xTCKXtsMKxhvW](https://www.youtube.com/live/9ivFrXgB2Zg?si=yw-xTCKXtsMKxhvW)
-- [ ] **Full NGINX Tutorial - Demo Project with Node.js, Docker**<br>[Full NGINX Tutorial - Demo Project with Node.js, Docker](https://youtu.be/q8OleYuqntY?si=9ekDmoKZXeCCI07U)
+- [ ] **Understanding Container Internals** [https://www.youtube.com/live/9ivFrXgB2Zg](https://www.youtube.com/live/9ivFrXgB2Zg)
+- [ ] **Full NGINX Tutorial - Demo Project with Node.js, Docker**<br>[Full NGINX Tutorial - Demo Project with Node.js, Docker](https://youtu.be/q8OleYuqntY)
 
 ## Networking
 
-- [ ] **OSI Model Layer 1 - Physical** [https://youtu.be/YE0S91xc64I?si=Op7Y-7tnjwNko9hN](https://youtu.be/YE0S91xc64I?si=Op7Y-7tnjwNko9hN)
-- [ ] **How TCP really works** [https://youtu.be/rmFX1V49K8U?si=eW3FURQGmqxxrk8k](https://youtu.be/rmFX1V49K8U?si=eW3FURQGmqxxrk8k)
+- [ ] **OSI Model Layer 1 - Physical** [https://youtu.be/YE0S91xc64I](https://youtu.be/YE0S91xc64I)
+- [ ] **How TCP really works** [https://youtu.be/rmFX1V49K8U](https://youtu.be/rmFX1V49K8U)
 
 ## Agile
 
-- [ ] **A lightweight talk about clean agile by Robert Martin** [https://youtu.be/Qp3h9ETZWUo?si=sErOpwX5wmswNnCE](https://youtu.be/Qp3h9ETZWUo?si=sErOpwX5wmswNnCE)
-- [ ] **Spotify Model** [https://youtu.be/Yvfz4HGtoPc?si=KIhcAI1ANdh3v5bt](https://youtu.be/Yvfz4HGtoPc?si=KIhcAI1ANdh3v5bt)<br>[https://youtu.be/vOt4BbWLWQw?si=aG_K3ML9enX8yXJj](https://youtu.be/vOt4BbWLWQw?si=aG_K3ML9enX8yXJj)<br><br>
+- [ ] **A lightweight talk about clean agile by Robert Martin** [https://youtu.be/Qp3h9ETZWUo](https://youtu.be/Qp3h9ETZWUo)
+- [ ] **Spotify Model** [https://youtu.be/Yvfz4HGtoPc](https://youtu.be/Yvfz4HGtoPc)<br>[https://youtu.be/vOt4BbWLWQw](https://youtu.be/vOt4BbWLWQw)<br><br>
 
-> Agile is not a process, not a product, not a checklist, not a ritual. <br>Agile is a mindset.<br>Agile is about thrust, autonomy, and culture.<br>[https://www.linkedin.com/posts/andrebaken1_transformation-activity-7264715050232205312-Smf2?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/andrebaken1_transformation-activity-7264715050232205312-Smf2?utm_source=share&utm_medium=member_desktop)
+> Agile is not a process, not a product, not a checklist, not a ritual. <br>Agile is a mindset.<br>Agile is about thrust, autonomy, and culture.<br>[https://www.linkedin.com/posts/andrebaken1_transformation-activity-7264715050232205312-Smf2](https://www.linkedin.com/posts/andrebaken1_transformation-activity-7264715050232205312-Smf2)
 
 ## Human Behavioral Biology
 
-- [ ] **BIO 150: Human Behavioral Biology (BIO 250, HUMBIO 160) at Stanford by Prof. Robert Sapolsky.**<br>[https://youtu.be/NNnIGh9g6fA?si=Xd_LC2DpG3hB5-VW](https://youtu.be/NNnIGh9g6fA?si=Xd_LC2DpG3hB5-VW)
+- [ ] **BIO 150: Human Behavioral Biology (BIO 250, HUMBIO 160) at Stanford by Prof. Robert Sapolsky.**<br>[https://youtu.be/NNnIGh9g6fA](https://youtu.be/NNnIGh9g6fA)
 
 ## Human Brain
 
-- [ ] **MIT 9.13 The Human Brain, Spring 2019 at MIT by Prof. Nancy Kanwisher**<br>[https://youtu.be/ba-HMvDn_vU?si=H329RwZVsCjufkj1](https://youtu.be/ba-HMvDn_vU?si=H329RwZVsCjufkj1)
+- [ ] **MIT 9.13 The Human Brain, Spring 2019 at MIT by Prof. Nancy Kanwisher**<br>[https://youtu.be/ba-HMvDn_vU](https://youtu.be/ba-HMvDn_vU)
 
 ## Laws of Power
 
-- [ ] **Machiavelli - The Art of Power in The Modern World** [https://youtu.be/Y7ExXLcy26s?si=4yG75B3A4k_POuG0](https://youtu.be/Y7ExXLcy26s?si=4yG75B3A4k_POuG0)
+- [ ] **Machiavelli - The Art of Power in The Modern World** [https://youtu.be/Y7ExXLcy26s](https://youtu.be/Y7ExXLcy26s)
 - [ ] **\[Book\] 48 Rules of Power by Robert Greene**
 
 ## Better Living
 
 - [ ] **A Day in Life of Lex Fridman** [https://medium.com/@gayashan4lk/lex-fridmans-a-day-in-life-b898a148afb9](https://medium.com/@gayashan4lk/lex-fridmans-a-day-in-life-b898a148afb9)
-- [ ] **40 Harsh truths** [https://youtu.be/lwmVAWXQyY4?si=kRTEB3_YXZ_gtaRm](https://youtu.be/lwmVAWXQyY4?si=kRTEB3_YXZ_gtaRm)
-- [ ] **How to Become Undefeatable (Stoic Philosophy)** [https://youtu.be/dJwU3pjfUqo?si=iZereeGl1tFsoFnW](https://youtu.be/dJwU3pjfUqo?si=iZereeGl1tFsoFnW)
-- [ ] **Once You Stop Caring, Results Come** [https://youtu.be/VpcQVjSVqOM?si=H6QEVhjVwTZT2X8z](https://youtu.be/VpcQVjSVqOM?si=H6QEVhjVwTZT2X8z)
+- [ ] **40 Harsh truths** [https://youtu.be/lwmVAWXQyY4](https://youtu.be/lwmVAWXQyY4)
+- [ ] **How to Become Undefeatable (Stoic Philosophy)** [https://youtu.be/dJwU3pjfUqo](https://youtu.be/dJwU3pjfUqo)
+- [ ] **Once You Stop Caring, Results Come** [https://youtu.be/VpcQVjSVqOM](https://youtu.be/VpcQVjSVqOM)
 
 ---
 
@@ -74,72 +74,72 @@ Learn Azure
 - [ ] Figma Learn <br>www.figma.com/learn
 - [ ] Learn Design Basics<br>[https://www.figma.com/resource-library/design-basics/](https://www.figma.com/resource-library/design-basics/)
 - [ ] Shadcn<br>[Nextjs 14 & Shadcn](https://www.youtube.com/playlist?list=PL8HkCX2C5h0VGhZnfbwf2hq7yD7nXMbJJ)
-- [ ] **How to make your website responsive**<br>[How to make your website responsive](https://youtu.be/vQDgoQKfdzM?si=rwrdNW9aWizHdZ65)
-- [ ] Figma tutorial for beginners<br>[Figma Tutorial for Beginners (2024): Website Design](https://youtu.be/clSHs94hNNc?si=MlCpsZwBztkQhV_b)
-- [ ] The ultimate guide to Typography<br>[The Ultimate Guide to Typography \| FREE COURSE](https://youtu.be/yAuUDyUC-GM?si=3AJHBbFF5OWzWCMC)
-- [ ] How to choose fonts<br>[How to choose fonts: Step by step](https://youtu.be/WTUM2Y11oJo?si=O-Sp1gJ6Ga13k-4_)
-- [ ] Only 6 fonts you need<br>[The only 6 fonts web designers need (and they’re free!)](https://youtu.be/LPHXeKz7p0s?si=HMV55SRcc6y5FhIU)
-- [ ] Only 6 fonts you need<br>[Designers Only Need These 6 Fonts. Trash the Rest.](https://youtu.be/_4cW79vF1mU?si=dkLQawtnvGn4HvWo)
-- [ ] Framer Crash Course<br>[Learn Framer in 20 Minutes (Crash Course)](https://youtu.be/P5H7zs0RsUM?si=KOXXT8OmVwtU-gX0)
+- [ ] **How to make your website responsive**<br>[How to make your website responsive](https://youtu.be/vQDgoQKfdzM)
+- [ ] Figma tutorial for beginners<br>[Figma Tutorial for Beginners (2024): Website Design](https://youtu.be/clSHs94hNNc)
+- [ ] The ultimate guide to Typography<br>[The Ultimate Guide to Typography \| FREE COURSE](https://youtu.be/yAuUDyUC-GM)
+- [ ] How to choose fonts<br>[How to choose fonts: Step by step](https://youtu.be/WTUM2Y11oJo)
+- [ ] Only 6 fonts you need<br>[The only 6 fonts web designers need (and they’re free!)](https://youtu.be/LPHXeKz7p0s)
+- [ ] Only 6 fonts you need<br>[Designers Only Need These 6 Fonts. Trash the Rest.](https://youtu.be/_4cW79vF1mU)
+- [ ] Framer Crash Course<br>[Learn Framer in 20 Minutes (Crash Course)](https://youtu.be/P5H7zs0RsUM)
 - [ ] 📕 The Vignelli Canon Book<br>[The Vignelli Canon : Vignelli, Massimo](https://archive.org/details/thevignellicanon)
-- [ ] Make a simple web site<br>[Best and fastest way to design beautiful websites](https://youtu.be/OZ_tBExnuX8?si=mLTaMswMwgDnUyjS)
-- [ ] [Why Beautiful Websites Don’t Convert](https://youtu.be/Toonu-cTE60?si=5wz5_WaGFXDvPNXl)
-- [ ] [How websites convert into sales?](https://youtu.be/aGTqFp7GAKE?si=WJJLPq2aBKNyv8Ks)
+- [ ] Make a simple web site<br>[Best and fastest way to design beautiful websites](https://youtu.be/OZ_tBExnuX8)
+- [ ] [Why Beautiful Websites Don’t Convert](https://youtu.be/Toonu-cTE60)
+- [ ] [How websites convert into sales?](https://youtu.be/aGTqFp7GAKE)
 
-[Typography for Developers Tutorial - Full Course](https://youtu.be/agbh1wbfJt8?si=emDqdLlBKvukJKIN)
+[Typography for Developers Tutorial - Full Course](https://youtu.be/agbh1wbfJt8)
 
- [Designers Only Need These 6 Fonts. Trash the Rest.](https://youtu.be/_4cW79vF1mU?si=55uIj2e2AnG2lx7r)
+ [Designers Only Need These 6 Fonts. Trash the Rest.](https://youtu.be/_4cW79vF1mU)
 
-[The 80% of UI Design - Typography](https://youtu.be/9-oefwZ6Z74?si=1GO1fWX-GJPFeqFy)
+[The 80% of UI Design - Typography](https://youtu.be/9-oefwZ6Z74)
 
-[The Anatomy of Typography for Graphic Designers](https://youtu.be/DnscuBj4eGM?si=_5C9DWYzyD59q1Lv)
+[The Anatomy of Typography for Graphic Designers](https://youtu.be/DnscuBj4eGM)
 
-[The 80% of UI Design - Typography](https://youtu.be/9-oefwZ6Z74?si=1xhZoz-O9CWMurkW)
+[The 80% of UI Design - Typography](https://youtu.be/9-oefwZ6Z74)
 
-[The Easy Way to Design Top Tier Websites](https://youtu.be/qyomWr_C_jA?si=5DTDcR3jpQv2qxwK)
+[The Easy Way to Design Top Tier Websites](https://youtu.be/qyomWr_C_jA)
 
-[The ULTIMATE Guide To Typography For Beginners](https://youtu.be/AXpxZMRM1EY?si=xqRYS4OR76fwGgY2)
+[The ULTIMATE Guide To Typography For Beginners](https://youtu.be/AXpxZMRM1EY)
 
-[Typography Tutorial - 10 rules to help you rule type](https://youtu.be/QrNi9FmdlxY?si=bT5qElvTq-y7i-HR)
+[Typography Tutorial - 10 rules to help you rule type](https://youtu.be/QrNi9FmdlxY)
 
-[5 Exercises That WILL Make You A Better Designer](https://youtu.be/LercGDxFaWg?si=V_ygYZkz1dSbHXad)
+[5 Exercises That WILL Make You A Better Designer](https://youtu.be/LercGDxFaWg)
 
 [Shantanu Kumar](https://www.youtube.com/@ShantanuKumar/videos)
 
-[Our Startup's New Design System! w/ Designer & Dev](https://youtu.be/dLejpNs4aeY?si=-NZmzG1j844OhZkp)
+[Our Startup's New Design System! w/ Designer & Dev](https://youtu.be/dLejpNs4aeY)
 
-[The Easy Way to Pick UI Colors](https://youtu.be/vvPklRN0Tco?si=XVuVSHjqhCO0PMbP)
+[The Easy Way to Pick UI Colors](https://youtu.be/vvPklRN0Tco)
 
 ### Principles of Layout
 
-- [ ] **Complete Layout Guide (Principles of Layout: Pt 1 of 3)**<br>[Complete Layout Guide](https://youtu.be/MlsV3hu84as?si=d8ciPkxtnWr62b3p)
-- [ ] **Grouping, Scale, and Sequence (Principles of Layout: Pt 2 of 3)**<br>[Grouping, Scale, and Sequence (Principles of Layout: Pt 2 of 3)](https://youtu.be/_Pp0JHEswMk?si=g4NSPQirxLjdCjC-)
-- [ ] **Alignment, Balance, and Grids (Principles of Layout: Pt 3 of 3)**<br>[Alignment, Balance, and Grids (Principles of Layout: Pt 3 of 3)](https://youtu.be/DP9Bzd4_-NM?si=63ldcS8lbq0kK9lt)
-- [ ] **The missing guide to grids**<br>[The missing guide to grids](https://youtu.be/wIabVp0Hh8U?si=EYQjCY1VrsIwNwJb)
+- [ ] **Complete Layout Guide (Principles of Layout: Pt 1 of 3)**<br>[Complete Layout Guide](https://youtu.be/MlsV3hu84as)
+- [ ] **Grouping, Scale, and Sequence (Principles of Layout: Pt 2 of 3)**<br>[Grouping, Scale, and Sequence (Principles of Layout: Pt 2 of 3)](https://youtu.be/_Pp0JHEswMk)
+- [ ] **Alignment, Balance, and Grids (Principles of Layout: Pt 3 of 3)**<br>[Alignment, Balance, and Grids (Principles of Layout: Pt 3 of 3)](https://youtu.be/DP9Bzd4_-NM)
+- [ ] **The missing guide to grids**<br>[The missing guide to grids](https://youtu.be/wIabVp0Hh8U)
 
 ### Mobile first design
 
-[Should web design be mobile-first?](https://youtu.be/g1jKx6rpydk?si=Dt3MCyzKEbx5MM5B)
+[Should web design be mobile-first?](https://youtu.be/g1jKx6rpydk)
 
-[This is what mobile web design excellence looks like](https://youtu.be/1r4GHOd2THM?si=whlzdMV20POhiXxp)
+[This is what mobile web design excellence looks like](https://youtu.be/1r4GHOd2THM)
 
 ### Next.js Image
 
-[Next.js Image Optimization with Image Component \| Responsive Images](https://youtu.be/gpJKj45AikY?si=7Q1E89C-lFHljfLw)
+[Next.js Image Optimization with Image Component \| Responsive Images](https://youtu.be/gpJKj45AikY)
 
-[Using Images in Next.js (next/image examples)](https://youtu.be/IU_qq_c_lKA?si=zPiGfSzpLgoKHXV8)
+[Using Images in Next.js (next/image examples)](https://youtu.be/IU_qq_c_lKA)
 
-[How To Load Images Like A Pro](https://youtu.be/hJ7Rg1821Q0?si=mT7imwlirQRqAK8x)
+[How To Load Images Like A Pro](https://youtu.be/hJ7Rg1821Q0)
 
 ### Tailwind
 
-[Learn Tailwind CSS – Course for Beginners](https://youtu.be/ft30zcMlFao?si=KQcOPGhG12iyamwv)
+[Learn Tailwind CSS – Course for Beginners](https://youtu.be/ft30zcMlFao)
 
-[Colors with Tailwindcss — Course Part 1](https://youtu.be/KFtM4tuCTZs?si=yx3VpeTgDhtD0EPA)
+[Colors with Tailwindcss — Course Part 1](https://youtu.be/KFtM4tuCTZs)
 
 ### ShadCN
 
-[How To Actually Use ShadCN/UI](https://youtu.be/3tIpgRwKWEs?si=6xWnmwGSgxrpih_y)
+[How To Actually Use ShadCN/UI](https://youtu.be/3tIpgRwKWEs)
 
 ### Web Design Inspiration
 
@@ -163,53 +163,53 @@ Learn Azure
 
 ## Computer Architecture
 
-- [ ] Building a 8-bit computer<br>[https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=4nAozeAMJfLJUsFx](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=4nAozeAMJfLJUsFx)
-- [ ] **How does an OS boot? //Source Dive// 001**<br>[How does an OS boot? //Source Dive// 001](https://youtu.be/KkenLT8S9Hs?si=9uapmhhRsCkA8kpX)
+- [ ] Building a 8-bit computer<br>[https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- [ ] **How does an OS boot? //Source Dive// 001**<br>[How does an OS boot? //Source Dive// 001](https://youtu.be/KkenLT8S9Hs)
 
 ## Product Development
 
 ![Product_development_and_management_roadmap.jpeg](../_assets/topics/Product_development_and_management_roadmap.jpeg)
 
 - [ ] **\[Book\] Inspired by Marty Cagan**
-- [ ] **Making sense of MVP** [https://youtu.be/0P7nCmln7PM?si=2Jem5WsfMgz5amyf](https://youtu.be/0P7nCmln7PM?si=2Jem5WsfMgz5amyf)
+- [ ] **Making sense of MVP** [https://youtu.be/0P7nCmln7PM](https://youtu.be/0P7nCmln7PM)
 
 ## Leadership
 
 ## Learning
 
-- [ ] **How To Self Study AI FAST**<br>[https://youtu.be/0zi-CG_iB6w?si=wbny0V97fX_gcR-E](https://youtu.be/0zi-CG_iB6w?si=wbny0V97fX_gcR-E)<br>
-- [ ] **How To Train Yourself To Become A Genius**<br>[https://youtu.be/TT-w0-obo44?si=-yIzdU7WKRk2Pzk2](https://youtu.be/TT-w0-obo44?si=-yIzdU7WKRk2Pzk2)<br>
-- [ ] **10 Principles To Learn Anything**<br>[https://youtu.be/QqLEfZXPdU4?si=StHUJ8zAZLRO6MWL](https://youtu.be/QqLEfZXPdU4?si=StHUJ8zAZLRO6MWL)<br>
-- [ ] **There's no such thing as MIRACLE, Richard Feynman advice to students \| self-improvement video**<br>[https://youtu.be/bAX27XRHMH8?si=6kRNCo5Gt1-vp_zG](https://youtu.be/bAX27XRHMH8?si=6kRNCo5Gt1-vp_zG)<br>
-- [ ] **Feynman Technique For High School and College Students**<br>[https://youtu.be/JmhfOjuAaew?si=fE2w-Iy-kj-3TM56](https://youtu.be/JmhfOjuAaew?si=fE2w-Iy-kj-3TM56)<br>
-- [ ] **How to Take Notes for Technical Things**<br>[https://youtu.be/jd9lEAqkp9Y?si=NtfpzJOvImhtXcwj](https://youtu.be/jd9lEAqkp9Y?si=NtfpzJOvImhtXcwj)
+- [ ] **How To Self Study AI FAST**<br>[https://youtu.be/0zi-CG_iB6w](https://youtu.be/0zi-CG_iB6w)<br>
+- [ ] **How To Train Yourself To Become A Genius**<br>[https://youtu.be/TT-w0-obo44](https://youtu.be/TT-w0-obo44)<br>
+- [ ] **10 Principles To Learn Anything**<br>[https://youtu.be/QqLEfZXPdU4](https://youtu.be/QqLEfZXPdU4)<br>
+- [ ] **There's no such thing as MIRACLE, Richard Feynman advice to students \| self-improvement video**<br>[https://youtu.be/bAX27XRHMH8](https://youtu.be/bAX27XRHMH8)<br>
+- [ ] **Feynman Technique For High School and College Students**<br>[https://youtu.be/JmhfOjuAaew](https://youtu.be/JmhfOjuAaew)<br>
+- [ ] **How to Take Notes for Technical Things**<br>[https://youtu.be/jd9lEAqkp9Y](https://youtu.be/jd9lEAqkp9Y)
 
 ## Math
 
-- [ ] **Probability Top 10 Must Knows**<br>[Probability Top 10 Must Knows (ultimate study guide)](https://youtu.be/LgLgexX7iTs?si=O2fFBwe7TvYXx7x1)
+- [ ] **Probability Top 10 Must Knows**<br>[Probability Top 10 Must Knows (ultimate study guide)](https://youtu.be/LgLgexX7iTs)
 
 ## Personal Finance
 
-- [ ] [How I Track My Money - The System That's Making Me A Millionaire](https://youtu.be/DCcqUaV8TVo?si=AKH5ognSWLrBglk2)
+- [ ] [How I Track My Money - The System That's Making Me A Millionaire](https://youtu.be/DCcqUaV8TVo)
 
 ## Thinking
 
 ### Systems Thinking
 
 - [ ] [Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
-- [ ] [Unlocking the Power of Systems Thinking \| by Leyla Acaroglu \| Disruptive Design \| Medium](https://medium.com/disruptive-design/unlocking-the-power-of-systems-thinking-b3809eaab519#:~:text=Everything%20is%20interconnected.,can%20all%20change%20them%20too!)
+- [ ] [Unlocking the Power of Systems Thinking \| by Leyla Acaroglu \| Disruptive Design \| Medium](https://medium.com/disruptive-design/unlocking-the-power-of-systems-thinking-b3809eaab519)
 
 ### Design Thinking
 
-- [ ] [The Designer's Full Stack Manifesto \[Episode 1\]](https://youtu.be/zuMbbLYRBxU?si=FQYtdvYexpDYyao3)
+- [ ] [The Designer's Full Stack Manifesto \[Episode 1\]](https://youtu.be/zuMbbLYRBxU)
 - [ ] [The Full Stack Deisgner Manifesto](https://www.slideshare.net/slideshow/the-full-stack-deisgner-manifesto/49624053)
 
 ## What is serverless
 
-- [ ] [Serverless: A Comprehensive Breakdown](https://youtu.be/_VQl_HTk9PM?si=TOXL8fC1JwJZg-GG)
+- [ ] [Serverless: A Comprehensive Breakdown](https://youtu.be/_VQl_HTk9PM)
 - [ ] In the old days when there there is no “serverless”… → XAMPP, LAMP, WAMP
 - [ ] [Ryan Carniato](https://www.youtube.com/@ryansolid)
-- [ ] AWS EC2 Instances  [Amazon EC2](https://aws.amazon.com/pm/ec2/?trk=32f4fbd0-ffda-4695-a60c-8857fab7d0dd&sc_channel=ps&ef_id=Cj0KCQiA7NO7BhDsARIsADg_hIbgMqRsiaVTMYSb1VKAR9ZZaK-ZcASvEDHvbhOvs5nO9yypQ856YIkaAo3MEALw_wcB:G:s&s_kwcid=AL!4422!3!536392685920!e!!g!!ec2%20instance!11539707735!118057054048&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIbgMqRsiaVTMYSb1VKAR9ZZaK-ZcASvEDHvbhOvs5nO9yypQ856YIkaAo3MEALw_wcB)
+- [ ] AWS EC2 Instances  [Amazon EC2](https://aws.amazon.com/pm/ec2/)
 - [ ] AWS Auto scaling groups [Auto Scaling groups - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html)
 - [ ] K8s [Production-Grade Container Orchestration](https://kubernetes.io/)
 
@@ -227,20 +227,20 @@ Learn Azure
 
 ## NextJs Authentication
 
-- [ ] [Authentication Flow in Next.js (Complete Tutorial)](https://youtu.be/Otq0LY90Qso?si=uP-t-ZRE3EyNWz43)
-- [ ] [Next.js App Router Authentication (Sessions, Cookies, JWTs)](https://youtu.be/DJvM2lSPn6w?si=721Z59bpygLqDcrg)
-- [ ] [Tutorial: NextJS Single Sign On Azure B2C](https://youtu.be/5uDMexiCUQ0?si=4p1Rxl1fDTYCt-UA)
-- [ ] [Add Authentication to Next.js in 10 mins with OAuth (Google, Github...)](https://youtu.be/AbUVY16P4Ys?si=STX3VOCG6eyLG1b0)
-- [ ] [Next-Auth V5 Tutorial (OAuth, Email, Server Actions, Server-Side Auth, Client-Side Auth, Roles)](https://youtu.be/bMYZSi_LZ2w?si=vQPR2Opa3oP_FFNw)
-- [ ] [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://youtu.be/w2h54xz6Ndw?si=8ciwhnqVYlgq2F4j)
-- [ ] [NextJS 15 Authentication Tutorial - Learn Next-Auth in 30 Minutes](https://youtu.be/n-fVrzaikBQ?si=uQUQPu3Dp8Xfxu-G)
+- [ ] [Authentication Flow in Next.js (Complete Tutorial)](https://youtu.be/Otq0LY90Qso)
+- [ ] [Next.js App Router Authentication (Sessions, Cookies, JWTs)](https://youtu.be/DJvM2lSPn6w)
+- [ ] [Tutorial: NextJS Single Sign On Azure B2C](https://youtu.be/5uDMexiCUQ0)
+- [ ] [Add Authentication to Next.js in 10 mins with OAuth (Google, Github...)](https://youtu.be/AbUVY16P4Ys)
+- [ ] [Next-Auth V5 Tutorial (OAuth, Email, Server Actions, Server-Side Auth, Client-Side Auth, Roles)](https://youtu.be/bMYZSi_LZ2w)
+- [ ] [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://youtu.be/w2h54xz6Ndw)
+- [ ] [NextJS 15 Authentication Tutorial - Learn Next-Auth in 30 Minutes](https://youtu.be/n-fVrzaikBQ)
 
 ## Cursor / WindSurf
 
-- [ ] [Windsurf vs Cursor: which is the better AI code editor?](https://youtu.be/9jgR-Ih_wGs?si=I-XrL4PRbgzYqaaI)
-- [ ] [I spent 400+ hours in Cursor, here’s what I learned](https://youtu.be/gYLNxUxVomY?si=nxiFQtlDnBjM5UgG)
-- [ ] [How to use Cursor Agent for beginners](https://youtu.be/2gBcO3ht0ws?si=YJIKZzGvbD6MWvOw)
-- [ ] [Cursor AI tutorial for beginners](https://youtu.be/gqUQbjsYZLQ?si=scrXz22yt5uoVFu4)
+- [ ] [Windsurf vs Cursor: which is the better AI code editor?](https://youtu.be/9jgR-Ih_wGs)
+- [ ] [I spent 400+ hours in Cursor, here’s what I learned](https://youtu.be/gYLNxUxVomY)
+- [ ] [How to use Cursor Agent for beginners](https://youtu.be/2gBcO3ht0ws)
+- [ ] [Cursor AI tutorial for beginners](https://youtu.be/gqUQbjsYZLQ)
 
 ## Clean Architecture
 
@@ -252,25 +252,25 @@ Learn Azure
 
 ## Linux
 
-- [ ] [Learn Linux - Full Course Walkthrough](https://youtu.be/v392lEyM29A?si=O4n7rOWfPI1KZMGo)
-- [ ] [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=h5_4dzF2NisDoA7I)
+- [ ] [Learn Linux - Full Course Walkthrough](https://youtu.be/v392lEyM29A)
+- [ ] [100+ Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo)
 
 ## System Design
 
-- [ ] [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk?si=455pxnuHp9Jq7AtF)
+- [ ] [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk)
 
 ## Kubernetes
 
-- [ ] [Kubernetes 101: Deploying Your First Application!](https://youtu.be/XltFOyGanYE?si=VrqKf5seyDbLHBn_)
+- [ ] [Kubernetes 101: Deploying Your First Application!](https://youtu.be/XltFOyGanYE)
 - 📄 [Mobile](mobile.md)
 
 ## .NET Aspire
 
-[.NET Aspire 9.2 is out and it's amazing! NEW RESOURCE GRAPH](https://youtu.be/QvSDRRGv8cs?si=CSIFuEv4GUCQvnwM)
+[.NET Aspire 9.2 is out and it's amazing! NEW RESOURCE GRAPH](https://youtu.be/QvSDRRGv8cs)
 
 ## Next.js
 
-[NextJS + Postgres and Error Monitoring  - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8?si=_ySsQdjPw7vUGlYG)
+[NextJS + Postgres and Error Monitoring  - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 
 - 📄 [SwiftUI](swiftui.md)
 - 📄 [Startups](startups.md)

@@ -13,7 +13,7 @@ last_edited: 2026-03-14T19:33:09.544Z
 
 **Month 1: Advanced System Design**
 
-[Design a URL Shortener (Bitly) - System Design Interview](https://youtu.be/qSJAvd5Mgio?si=JLmxArVB08xnL7ia)
+[Design a URL Shortener (Bitly) - System Design Interview](https://youtu.be/qSJAvd5Mgio)
 
 ![image.png](../../_assets/bistec-training/senior-engineer-track-bistec/image.png)
 
@@ -25,7 +25,7 @@ last_edited: 2026-03-14T19:33:09.544Z
 
 [What Is the CAP Theorem? \| IBM](https://www.ibm.com/think/topics/cap-theorem)
 
-[Sharding vs Partitioning: Understanding Database Distribution Methods](https://www.datacamp.com/blog/sharding-vs-partitioning?utm_cid=19589720824&utm_aid=152984013334&utm_campaign=230119_1-ps-other~dsa-tofu~all_2-b2c_3-apac_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9076593-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-other~apac-en~dsa~tofu~blog~data-engineering&gad_source=1&gad_campaignid=19589720824&gclid=Cj0KCQiAvtzLBhCPARIsALwhxdohyyHNnAuRicY62ooRb0BFdbPGKXwUK_RXo1Cp11lDFljioLt6WIAaAsSXEALw_wcB)
+[Sharding vs Partitioning: Understanding Database Distribution Methods](https://www.datacamp.com/blog/sharding-vs-partitioning)
 
 [Database Sharding — PlanetScale](https://planetscale.com/blog/database-sharding)
 

@@ -9,18 +9,18 @@ last_edited: 2026-10-16T06:56:41.340Z
 
 # System Design
 
-[System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=stUnS_y6mX_4ZTOj)
+[System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o)
 
-[System Design Primer ⭐️: How to start with distributed systems?](https://youtu.be/SqcXvc3ZmRU?si=8cSTm43e83BFipOV)
+[System Design Primer ⭐️: How to start with distributed systems?](https://youtu.be/SqcXvc3ZmRU)
 
-🔖 [System Design Concepts Course and Interview Prep](https://youtu.be/F2FmTdLtb_4?si=1hod6G_ELCKcLL7O)
+🔖 [System Design Concepts Course and Interview Prep](https://youtu.be/F2FmTdLtb_4)
 
-🔖 [Intro to System Design](https://youtu.be/sIkRdfSxCiI?si=EofMRW5mpJ3F00PO)
+🔖 [Intro to System Design](https://youtu.be/sIkRdfSxCiI)
 
-[Essential System Design Concepts You Should Know - System Design Tutorial](https://youtu.be/uxskKNcsFLU?si=EemtxHCke-clx5hh)
+[Essential System Design Concepts You Should Know - System Design Tutorial](https://youtu.be/uxskKNcsFLU)
 
-[Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4?si=rhtuv26arbXfA1eY)
+[Scale an App to Millions of Users - System Design](https://youtu.be/tjubQ97lxA4)
 
 [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 
-- [ ] [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk?si=455pxnuHp9Jq7AtF)
+- [ ] [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk)

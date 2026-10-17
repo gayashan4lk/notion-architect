@@ -51,7 +51,7 @@ $ flutter pub get
 
 ### MVVM Architecture
 
-[MVVM Architecture Simplified - Flutter Recommendation](https://youtu.be/f2pwD4UsGZI?si=jN0KQ8mPs66ferIG)
+[MVVM Architecture Simplified - Flutter Recommendation](https://youtu.be/f2pwD4UsGZI)
 
 [www.youtube.com](https://www.youtube.com/results?search_query=flutter+mvvm+architecture)
 

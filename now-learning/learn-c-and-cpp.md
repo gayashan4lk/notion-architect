@@ -43,12 +43,12 @@ Here is a decent list of [8 Books on Algorithms and Data Structures For All Leve
 
 [C docs - get started, tutorials, reference.](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-180)
 
-[2 Years Of Learning C \| Prime Reacts](https://youtu.be/8vQtUleZykQ?si=fEh0XeCAwlAdn50_)
+[2 Years Of Learning C \| Prime Reacts](https://youtu.be/8vQtUleZykQ)
 
-[CS50x - Lecture 1 - C](https://youtu.be/SlqjA04_dpk?si=nyrZMKLi34TwZqb1)
+[CS50x - Lecture 1 - C](https://youtu.be/SlqjA04_dpk)
 
-[Learn C Programming and OOP with Dr. Chuck \[feat. classic book by Kernighan and Ritchie\]](https://youtu.be/PaPN51Mm5qQ?si=a7XGwhK1lRcdx3O_)
+[Learn C Programming and OOP with Dr. Chuck \[feat. classic book by Kernighan and Ritchie\]](https://youtu.be/PaPN51Mm5qQ)
 
-[C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=Ow63S8hJHnUxvun6)
+[C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)
 
 > 💡 I think I should just use Claude to learn it. I should go with practical approach by solving small problems / challenges. There is no point watching a tutorial from beginning to end.
