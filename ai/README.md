@@ -2,18 +2,33 @@
 title: "AI"
 notion_id: 323ebef13b848019bba2f74ddcbbed31
 notion_url: https://www.notion.so/323ebef13b848019bba2f74ddcbbed31
-last_edited: 2026-04-04T08:21:59.432Z
+last_edited: 2026-10-16T06:57:30.322Z
+icon: "🤖"
 ---
 
 [Architect](../README.md)
 
-# AI
+# 🤖 AI
 
-- 📄 [LangChain](langchain/README.md)
+AI fundamentals, building with LLMs, AI coding tools and career in AI.
+
+### Fundamentals
+
+- 📄 [AI ML](ai-ml.md)
 - 📄 [Basic Concepts](basic-concepts.md)
-- 📄 [Insights](insights.md)
-- 📄 [LangGraph Fundamentals](langgraph-fundamentals.md)
-- 📄 [LangChain Fundamentals](langchain-fundamentals.md)
-- 📄 [LangSmith Fundamentals](langsmith-fundamentals.md)
+
+### Building with LLMs
+
+- 📄 [LangChain Ecosystem](langchain-ecosystem/README.md)
+- 📄 [AI Engineer Skillset](ai-engineer-skillset.md)
 - 📄 [Building AI Agents](building-ai-agents.md)
-- 📄 [Claude Code](claude-code.md)
+
+### Tools
+
+- 📄 [AI Coding Tools](ai-coding-tools/README.md)
+
+### Career in AI
+
+- 📄 [How to break into AIML Engineering](how-to-break-into-aiml-engineering.md)
+- 📄 [AI Software Engineer Roadmap](ai-software-engineer-roadmap.md)
+- 📄 [Insights](insights.md)

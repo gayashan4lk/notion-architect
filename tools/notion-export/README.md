@@ -1,14 +1,16 @@
 # How this export was made
 
-The pages in this repo were exported from the **Architect** Notion workspace in three steps.
+The pages in this repo are exported from the **Architect** Notion workspace. The current snapshot was taken on 2026-10-17, after the workspace was reorganized into hubs. The earlier 2026-10-16 snapshot, with the tools that produced it, is frozen in [`archive/2026-10-16/`](../../archive/2026-10-16/).
 
-1. **Crawl.** Every page was fetched through Claude's Notion connector, starting from the 7 top-level pages and following every subpage. Each page's raw Notion Markdown is saved unchanged in [`raw/`](raw/), one file per page ID, with a `<!-- meta -->` header holding its title, parent, and last-edited time.
-2. **Fill gaps.** The connector doesn't return bookmark URLs. They were read from the live Notion pages and saved in [`bookmarks.json`](bookmarks.json). The 10 images were captured from Notion in the browser and saved in [`assets/`](assets/) at full resolution. PNGs are lossless. JPEGs were re-saved at 92% quality, so camera metadata (EXIF) is not kept.
-3. **Convert.** [`manifest.py`](manifest.py) builds [`manifest.json`](manifest.json), the page tree with child counts, images, and bookmarks. [`convert.py`](convert.py) then turns `raw/` into the Markdown tree at the repo root.
+## Steps
+
+1. **Crawl.** Every page was fetched through Claude's Notion connector, starting from the 9 top-level pages in the sidebar and following every subpage. Each page's raw Notion Markdown is saved in [`raw/`](raw/), one file per page ID, with a `<!-- meta -->` header holding its title, parent, and last-edited time. Pages whose content hadn't changed since the previous crawl were carried over from it, with their new title and parent.
+2. **Fill gaps.** The connector doesn't return bookmark URLs, so they were read from the live Notion pages and saved in [`bookmarks.json`](bookmarks.json). Images were captured from Notion in the browser and saved in [`assets/`](assets/) at full resolution. PNGs are lossless. JPEGs were re-saved at 92% quality, so camera metadata (EXIF) is not kept. [`assets/files.json`](assets/files.json) maps each Notion file ID to its image, so an image still matches after its block is moved or copied.
+3. **Convert.** [`manifest.py`](manifest.py) builds [`manifest.json`](manifest.json), the page tree with child counts, images, and bookmarks. [`convert.py`](convert.py) then turns `raw/` into the Markdown tree at the repo root, listing the top-level pages in the order given in [`roots.json`](roots.json), which matches the Notion sidebar.
 
 ## Re-running the conversion
 
-The conversion is repeatable from the saved raw files, with no Notion access needed:
+The conversion is repeatable from the saved files, with no Notion access needed:
 
 ```bash
 cd tools/notion-export
@@ -16,12 +18,12 @@ python3 manifest.py raw manifest.json
 python3 convert.py . ../../
 ```
 
-`convert.py` copies images from an `assets/` folder if one exists. Files there are named `<file-block-id>__<filename>`, using the block ID from the image's `notion-file-block://` reference.
-
-To pick up new or edited Notion pages, the crawl (step 1) has to be run again through the Notion connector. Ask Claude to refresh the export.
+To pick up new or edited Notion pages, the crawl (step 1) has to be run again through the Notion connector. Ask Claude to refresh the export. New bookmarks and images need the built-in browser on your computer, signed in to Notion.
 
 ## Layout rules
 
 - A page with subpages becomes a folder with a `README.md`. A page without subpages becomes a single `<slug>.md` file.
 - Slugs are lowercase titles with `&` → `and`, `+` → `p` (so `C++` → `cpp`), and every other symbol → `-`.
 - Each file starts with frontmatter (`title`, `notion_id`, `notion_url`, `last_edited`) and a breadcrumb back to the root.
+- Links between Notion pages, including @-mentions, become relative links to the matching `.md` file.
+- Tables become Markdown tables, toggles become `<details>` sections, and a Notion table of contents becomes a linked list of the page's headings.

@@ -1,8 +1,5 @@
-<!-- meta: {"id":"2beebef13b84807a8eaec7cf651eebd9","title":"Tailwind CSS 4 - frontend masters","parent":"2beebef13b8480c4b927f0f61751ec7c","truncated":false,"unknown_block_ids":[],"last_edited":"2025-12-03T13:08:46.781Z"} -->
-<page url="https://app.notion.com/p/2beebef13b84807a8eaec7cf651eebd9">
-<properties>
-{"title":"Tailwind CSS 4 - frontend masters"}
-</properties>
+<!-- meta: {"id": "2beebef13b84807a8eaec7cf651eebd9", "title": "Tailwind CSS 4 - frontend masters", "parent": "3fbebef13b8481b9859be0905f7c731e", "truncated": false, "unknown_block_ids": [], "last_edited": "2025-12-03T13:08:46.781Z"} -->
+<page>
 <content>
 References:
 [Tailwind CSS 4 Course \| Build Maintainable User Interfaces with Tailwind 4](https://frontendmasters.com/courses/tailwind-css-v2/)

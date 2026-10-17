@@ -1,8 +1,5 @@
-<!-- meta: {"id":"2acebef13b8480bebfbce4b681a51fb6","title":"AI Engineer Skillset","parent":"323ebef13b8480e188a5ef1f07663143","truncated":false,"unknown_block_ids":[],"last_edited":"2026-03-14T19:33:25.552Z"} -->
-<page url="https://app.notion.com/p/2acebef13b8480bebfbce4b681a51fb6">
-<properties>
-{"title":"AI Engineer Skillset"}
-</properties>
+<!-- meta: {"id": "2acebef13b8480bebfbce4b681a51fb6", "title": "AI Engineer Skillset", "parent": "323ebef13b848019bba2f74ddcbbed31", "truncated": false, "unknown_block_ids": [], "last_edited": "2026-03-14T19:33:25.552Z"} -->
+<page>
 <content>
 # LangChain, LangGraph, LangChain
 [LangChain for LLM Application Development - DeepLearning.AI](https://learn.deeplearning.ai/courses/langchain/)
@@ -38,6 +35,5 @@
 [RAG From Scratch](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=GM5N3rSV_TiKm-SX)
 [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=zzVJODE-0wCJjlWQ)
 [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://youtu.be/JEBDfGqrAUA?si=I0D9vggNW9FSWPyx)
-<page url="https://app.notion.com/p/2b2ebef13b8480449090d4931702f146">LangChain Tutorials</page>
 </content>
 </page>
