@@ -9,4 +9,4 @@ last_edited: 2026-04-04T08:23:16.481Z
 
 # Claude Code
 
-🔖 [Mastering Claude Code in 30 minutes](https://www.youtube.com/live/6eBSHbLKuN0?si=IUgXuJmHtaAUQpCP)
+🔖 [Mastering Claude Code in 30 minutes](https://www.youtube.com/live/6eBSHbLKuN0)

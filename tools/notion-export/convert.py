@@ -21,6 +21,8 @@ from datetime import date
 from pathlib import Path
 from posixpath import relpath
 
+from clean_links import clean_text  # strips tracking parameters from every link
+
 EXPORT = Path(sys.argv[1])
 OUT = Path(sys.argv[2])
 
@@ -346,7 +348,7 @@ for pid, p in pages.items():
     doc = "\n".join(fm) + f"\n\n{breadcrumb(pid)}\n\n# {title}\n\n" + body
     dest = OUT / paths[pid]
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(doc, encoding="utf-8")
+    dest.write_text(clean_text(doc), encoding="utf-8")
     written += 1
 
 
@@ -409,6 +411,7 @@ rep += [
     + (f": {', '.join(sorted(set(report['highlights'])))}." if report["highlights"] else "."),
     "- Headings shift down one level, since each page's title is its `#` heading.",
     "- Link previews become plain links.",
+    "- Tracking parameters (`utm_*`, `gclid`, YouTube `si=` and similar) are removed from every link by [`clean_links.py`](tools/notion-export/clean_links.py).",
     "- Toggles become collapsible `<details>` sections, and a Notion table of contents becomes a linked list of the page's headings.",
     "- Comments are not included.",
     "",

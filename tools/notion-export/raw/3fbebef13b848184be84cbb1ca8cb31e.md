@@ -1,7 +1,7 @@
 <!-- meta: {"id": "3fbebef13b848184be84cbb1ca8cb31e", "title": "Serverless", "parent": "3fbebef13b8481b9859be0905f7c731e", "truncated": false, "unknown_block_ids": [], "last_edited": "2026-10-16T06:54:13.491Z"} -->
 <page>
 <content>
-- [ ] [Serverless: A Comprehensive Breakdown](https://youtu.be/_VQl_HTk9PM?si=TOXL8fC1JwJZg-GG)
+- [ ] [Serverless: A Comprehensive Breakdown](https://youtu.be/_VQl_HTk9PM)
 - [ ] In the old days when there there is no “serverless”… → XAMPP, LAMP, WAMP
 - [ ] [Ryan Carniato](https://www.youtube.com/@ryansolid)
 - [ ] AWS EC2 Instances  [Amazon EC2](https://aws.amazon.com/pm/ec2/)

@@ -11,22 +11,22 @@ last_edited: 2026-10-16T06:54:13.491Z
 
 ## Projects
 
-[NextJS + Postgres and Error Monitoring  - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8?si=_ySsQdjPw7vUGlYG)
+[NextJS + Postgres and Error Monitoring  - Full Stack Support Ticketing System](https://youtu.be/NKiTlo_dgb8)
 
 ## Authentication
 
-- [ ] [Authentication Flow in Next.js (Complete Tutorial)](https://youtu.be/Otq0LY90Qso?si=uP-t-ZRE3EyNWz43)
-- [ ] [Next.js App Router Authentication (Sessions, Cookies, JWTs)](https://youtu.be/DJvM2lSPn6w?si=721Z59bpygLqDcrg)
-- [ ] [Tutorial: NextJS Single Sign On Azure B2C](https://youtu.be/5uDMexiCUQ0?si=4p1Rxl1fDTYCt-UA)
-- [ ] [Add Authentication to Next.js in 10 mins with OAuth (Google, Github...)](https://youtu.be/AbUVY16P4Ys?si=STX3VOCG6eyLG1b0)
-- [ ] [Next-Auth V5 Tutorial (OAuth, Email, Server Actions, Server-Side Auth, Client-Side Auth, Roles)](https://youtu.be/bMYZSi_LZ2w?si=vQPR2Opa3oP_FFNw)
-- [ ] [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://youtu.be/w2h54xz6Ndw?si=8ciwhnqVYlgq2F4j)
-- [ ] [NextJS 15 Authentication Tutorial - Learn Next-Auth in 30 Minutes](https://youtu.be/n-fVrzaikBQ?si=uQUQPu3Dp8Xfxu-G)
+- [ ] [Authentication Flow in Next.js (Complete Tutorial)](https://youtu.be/Otq0LY90Qso)
+- [ ] [Next.js App Router Authentication (Sessions, Cookies, JWTs)](https://youtu.be/DJvM2lSPn6w)
+- [ ] [Tutorial: NextJS Single Sign On Azure B2C](https://youtu.be/5uDMexiCUQ0)
+- [ ] [Add Authentication to Next.js in 10 mins with OAuth (Google, Github...)](https://youtu.be/AbUVY16P4Ys)
+- [ ] [Next-Auth V5 Tutorial (OAuth, Email, Server Actions, Server-Side Auth, Client-Side Auth, Roles)](https://youtu.be/bMYZSi_LZ2w)
+- [ ] [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://youtu.be/w2h54xz6Ndw)
+- [ ] [NextJS 15 Authentication Tutorial - Learn Next-Auth in 30 Minutes](https://youtu.be/n-fVrzaikBQ)
 
 ## Next.js Image
 
-[Next.js Image Optimization with Image Component \| Responsive Images](https://youtu.be/gpJKj45AikY?si=7Q1E89C-lFHljfLw)
+[Next.js Image Optimization with Image Component \| Responsive Images](https://youtu.be/gpJKj45AikY)
 
-[Using Images in Next.js (next/image examples)](https://youtu.be/IU_qq_c_lKA?si=zPiGfSzpLgoKHXV8)
+[Using Images in Next.js (next/image examples)](https://youtu.be/IU_qq_c_lKA)
 
-[How To Load Images Like A Pro](https://youtu.be/hJ7Rg1821Q0?si=mT7imwlirQRqAK8x)
+[How To Load Images Like A Pro](https://youtu.be/hJ7Rg1821Q0)

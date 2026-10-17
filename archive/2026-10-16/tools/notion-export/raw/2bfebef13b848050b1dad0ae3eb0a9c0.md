@@ -5,19 +5,19 @@
 </properties>
 <content>
 Tutorials:
-[You're Probably Building FASTAPI Apps WRONG (Clean Architecture)](https://youtu.be/H9Blu0kWdZE?si=GT65y9b5NoOtKFa7)
+[You're Probably Building FASTAPI Apps WRONG (Clean Architecture)](https://youtu.be/H9Blu0kWdZE)
 <empty-block/>
-[Anatomy of a Scalable Python Project (FastAPI)](https://youtu.be/Af6Zr0tNNdE?si=jvA9AUq3DxPWer6k)
+[Anatomy of a Scalable Python Project (FastAPI)](https://youtu.be/Af6Zr0tNNdE)
 <empty-block/>
-[How FastAPI Handles Requests Behind the Scenes](https://youtu.be/tGD3653BrZ8?si=N6BdKTJd9wnNG21A)
+[How FastAPI Handles Requests Behind the Scenes](https://youtu.be/tGD3653BrZ8)
 <empty-block/>
-[Deep Dive Into the Repository Design Pattern in Python](https://youtu.be/9ymRLDfnDKg?si=pwpXicY_VlqbVbDU)
+[Deep Dive Into the Repository Design Pattern in Python](https://youtu.be/9ymRLDfnDKg)
 <empty-block/>
-[12 Logging BEST Practices in 12 minutes](https://youtu.be/I2mWnh66Bkg?si=0B16nPCeG6S6k6UE)
+[12 Logging BEST Practices in 12 minutes](https://youtu.be/I2mWnh66Bkg)
 <empty-block/>
-[Clean Architectures in Python - presented by Leonardo Giordani](https://youtu.be/C7MRkqP5NRI?si=zv0EV-nSpD7blDjH)
+[Clean Architectures in Python - presented by Leonardo Giordani](https://youtu.be/C7MRkqP5NRI)
 <empty-block/>
-[API Versioning with FastAPI Made EASY (Do This Before It’s Too Late)](https://youtu.be/rK_JD62Kheg?si=Zzg7yhpvnvLxjnYM)
+[API Versioning with FastAPI Made EASY (Do This Before It’s Too Late)](https://youtu.be/rK_JD62Kheg)
 <empty-block/>
 UV with fastAPI
 [Using uv with FastAPI \| uv](https://docs.astral.sh/uv/guides/integration/fastapi/)

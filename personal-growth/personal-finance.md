@@ -9,4 +9,4 @@ last_edited: 2026-10-16T06:54:52.110Z
 
 # Personal Finance
 
-- [ ] [How I Track My Money - The System That's Making Me A Millionaire](https://youtu.be/DCcqUaV8TVo?si=AKH5ognSWLrBglk2)
+- [ ] [How I Track My Money - The System That's Making Me A Millionaire](https://youtu.be/DCcqUaV8TVo)

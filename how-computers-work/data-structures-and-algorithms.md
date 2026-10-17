@@ -11,13 +11,13 @@ last_edited: 2026-10-16T06:56:51.050Z
 
 - [ ] **Data Structures  - Full course using C and C++ at FreeCodeCamp.org**
 
-🔖 [Data Structures - Full Course Using C and C++](https://youtu.be/B31LgI4Y4DQ?si=NlifneijW2ZIe1wX)
+🔖 [Data Structures - Full Course Using C and C++](https://youtu.be/B31LgI4Y4DQ)
 
-🔖 [Data structures](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&si=7EUHyli48juwcfd2)
+🔖 [Data structures](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 - [ ] **Introduction to Algorithms at MIT by Jason Ku**
 
-🔖 [1. Algorithms and Computation](https://youtu.be/ZA-tUyM_y7s?si=ovpNhgnRqGgqEvh1)
+🔖 [1. Algorithms and Computation](https://youtu.be/ZA-tUyM_y7s)
 
 [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 

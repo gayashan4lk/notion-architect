@@ -9,15 +9,15 @@ last_edited: 2024-11-24T07:36:35.793Z
 
 # JavaScript
 
-**JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue**<br>[JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://youtu.be/eiC58R16hb8?si=rEhzc7iC6m5y8nUc)
+**JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue**<br>[JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://youtu.be/eiC58R16hb8)
 
-**JavaScript Visualized - Promise Execution**<br>[JavaScript Visualized - Promise Execution](https://youtu.be/Xs1EMmBLpn4?si=gUr_Roco06wafI_-)
+**JavaScript Visualized - Promise Execution**<br>[JavaScript Visualized - Promise Execution](https://youtu.be/Xs1EMmBLpn4)
 
-**JavaScript Visualized - Execution Contexts**<br>[JavaScript Visualized - Execution Contexts](https://youtu.be/zdGfo6I1yrA?si=et4BGQpf_ZpBHvcL)
+**JavaScript Visualized - Execution Contexts**<br>[JavaScript Visualized - Execution Contexts](https://youtu.be/zdGfo6I1yrA)
 
 **JavaScript Visualized - Closures**
 
-[JavaScript Visualized - Closures](https://youtu.be/6Ixyltr8_R0?si=lnuzMZ2cDazDHflV)
+[JavaScript Visualized - Closures](https://youtu.be/6Ixyltr8_R0)
 
 ### Kyle Simpson Courses
 

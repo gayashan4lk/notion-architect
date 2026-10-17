@@ -9,6 +9,6 @@ last_edited: 2026-10-16T06:56:52.244Z
 
 # Career
 
-🔖 [Why Most Software Developers Stay Stuck (I’ve Seen This for 25 Years)](https://youtu.be/bWH7Fnzv50c?si=A6dyQT2TEGsbPXTb)
+🔖 [Why Most Software Developers Stay Stuck (I’ve Seen This for 25 Years)](https://youtu.be/bWH7Fnzv50c)
 
 - 📄 [Job Market 2025-2030](job-market-2025-2030.md)

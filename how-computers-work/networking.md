@@ -9,5 +9,5 @@ last_edited: 2026-10-16T06:54:49.661Z
 
 # Networking
 
-- [ ] **OSI Model Layer 1 - Physical** [https://youtu.be/YE0S91xc64I?si=Op7Y-7tnjwNko9hN](https://youtu.be/YE0S91xc64I?si=Op7Y-7tnjwNko9hN)
-- [ ] **How TCP really works** [https://youtu.be/rmFX1V49K8U?si=eW3FURQGmqxxrk8k](https://youtu.be/rmFX1V49K8U?si=eW3FURQGmqxxrk8k)
+- [ ] **OSI Model Layer 1 - Physical** [https://youtu.be/YE0S91xc64I](https://youtu.be/YE0S91xc64I)
+- [ ] **How TCP really works** [https://youtu.be/rmFX1V49K8U](https://youtu.be/rmFX1V49K8U)

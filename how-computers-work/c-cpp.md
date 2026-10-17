@@ -9,4 +9,4 @@ last_edited: 2024-11-28T16:07:25.168Z
 
 # C / C++
 
-**Pointers in C / C++ \[Full Course\]**<br>[Pointers in C / C++ \[Full Course\]](https://youtu.be/zuegQmMdy8M?si=JPScsF3L31l9Dz41)
+**Pointers in C / C++ \[Full Course\]**<br>[Pointers in C / C++ \[Full Course\]](https://youtu.be/zuegQmMdy8M)

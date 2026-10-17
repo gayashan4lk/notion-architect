@@ -11,19 +11,19 @@ last_edited: 2025-12-09T20:02:30.882Z
 
 ## Tutorials / Articles
 
-[An Illustrated Guide to OAuth and OpenID Connect](https://youtu.be/t18YB3xDfXI?si=7eBfFF7uwhTjFvb7)
+[An Illustrated Guide to OAuth and OpenID Connect](https://youtu.be/t18YB3xDfXI)
 
 **OAuth 2.0 explained with examples**
 
-<br>[https://youtu.be/ZDuRmhLSLOY?si=wHuCCNFiN6wbveiI](https://youtu.be/ZDuRmhLSLOY?si=wHuCCNFiN6wbveiI)
+<br>[https://youtu.be/ZDuRmhLSLOY](https://youtu.be/ZDuRmhLSLOY)
 
-**oAuth and OpenID connect by Krishantha Dinesh**<br> [https://youtu.be/GTT-hg-F1Zo?si=rRYxnaI5wVQqesZc](https://youtu.be/GTT-hg-F1Zo?si=rRYxnaI5wVQqesZc)
+**oAuth and OpenID connect by Krishantha Dinesh**<br> [https://youtu.be/GTT-hg-F1Zo](https://youtu.be/GTT-hg-F1Zo)
 
-[What is OAuth and why does it matter? - OAuth in Five Minutes](https://youtu.be/KT8ybowdyr0?si=hVBLnIu8QpP45knE)
+[What is OAuth and why does it matter? - OAuth in Five Minutes](https://youtu.be/KT8ybowdyr0)
 
-[Everything You Ever Wanted to Know About OAuth and OIDC](https://youtu.be/8aCyojTIW6U?si=NC7ihSwntjx6DDNv)
+[Everything You Ever Wanted to Know About OAuth and OIDC](https://youtu.be/8aCyojTIW6U)
 
-[OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0?si=hy_TMHI9z0XnzBb_)
+[OAuth 2.0 and OpenID Connect (in plain English)](https://youtu.be/996OiexHze0)
 
 [Authentication and Authorization in System Design Interviews - Exponent](https://www.tryexponent.com/courses/system-design-interviews/authentication-authorization)
 
@@ -33,8 +33,8 @@ oauth.net<br>[OAuth Community Site](https://oauth.net/)
 
 **Authentication & Authorization with OAuth 2.0 and OIDC**
 
-- [ ] [🔎 client certificate authentication - Google Search](https://www.google.com/search?q=client+certificate+authentication&oq=client+cer&gs_lcrp=EgRlZGdlKgcIAhAAGIAEMgYIABBFGDkyDQgBEAAYkQIYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyCAgJEOkHGPxV0gEINDQyOGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
-- [ ] [🔎 service principle - Google Search](https://www.google.com/search?q=service+principle&oq=service+principle&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIJCAEQABgKGIAEMg0IAhAAGJECGIAEGIoFMg0IAxAAGJECGIAEGIoFMgkIBBAAGAoYgAQyDQgFEAAYkQIYgAQYigUyDQgGEAAYkQIYgAQYigUyCQgHEAAYChiABDIJCAgQABgKGIAEMggICRDpBxj8VdIBCDI4NDVqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
+- [ ] [🔎 client certificate authentication - Google Search](https://www.google.com/search?q=client+certificate+authentication)
+- [ ] [🔎 service principle - Google Search](https://www.google.com/search?q=service+principle)
 
 [Interview prep for product, engineering, data science, and more - Exponent](https://www.tryexponent.com/?src=nav)
 
@@ -62,20 +62,20 @@ Exercises:  [https://oauth.school](https://oauth.school/)
 
 [Adding Firebase Authentication to a Jetpack Compose app](https://firebase.blog/posts/2022/05/adding-firebase-auth-to-jetpack-compose-app/)
 
-[Authentication in React with JWTs, Access & Refresh Tokens (Complete Tutorial)](https://youtu.be/AcYF18oGn6Y?si=GaGtyLpA5_4UaUxp)
+[Authentication in React with JWTs, Access & Refresh Tokens (Complete Tutorial)](https://youtu.be/AcYF18oGn6Y)
 
 ## How to pick Auth platform
 
-🔖 [The State of Authentication](https://youtu.be/lxslnp-ZEMw?si=xzWeaqonf87Iwn9L)
+🔖 [The State of Authentication](https://youtu.be/lxslnp-ZEMw)
 
 ## Azure Entra External ID & MSAL
 
-[Next.js Authentication Made Easy with Microsoft Entra ID](https://youtu.be/tNLrMKZ-xmc?si=09-oTfZ6Xh_fFul8)
+[Next.js Authentication Made Easy with Microsoft Entra ID](https://youtu.be/tNLrMKZ-xmc)
 
-[Auth Made Easy: Access Tokens w/ MSAL and React/Vite](https://youtu.be/4ERYVgW027A?si=6qfB267AkB2OIRfu)
+[Auth Made Easy: Access Tokens w/ MSAL and React/Vite](https://youtu.be/4ERYVgW027A)
 
 ## Auth platforms & Frameworks
 
 [Better Auth](https://www.better-auth.com/)
 
-[Better Auth in Next.js (Complete Tutorial)](https://youtu.be/x4hQ2Hmuy3k?si=JB70bzGWA_ZLermS)
+[Better Auth in Next.js (Complete Tutorial)](https://youtu.be/x4hQ2Hmuy3k)

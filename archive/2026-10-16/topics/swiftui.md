@@ -9,9 +9,9 @@ last_edited: 2025-11-24T06:45:39.507Z
 
 # SwiftUI
 
-[SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ?si=AUxsuFgYzauDtsGo)
+[SwiftUI Course for Beginners – Create an iOS App from Scratch](https://youtu.be/-VC3hIEL7eQ)
 
-[Understanding the basic structure of a SwiftUI app –  WeSplit SwiftUI Tutorial 1/11](https://youtu.be/sZSlTDlo0Ag?si=6myLs7ipyquh1Toj)
+[Understanding the basic structure of a SwiftUI app –  WeSplit SwiftUI Tutorial 1/11](https://youtu.be/sZSlTDlo0Ag)
 
 [Develop - Apple Developer](https://developer.apple.com/develop/)
 

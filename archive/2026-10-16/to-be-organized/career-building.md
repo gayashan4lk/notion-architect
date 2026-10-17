@@ -9,4 +9,4 @@ last_edited: 2026-03-14T19:33:31.630Z
 
 # Career Building
 
-🔖 [Why Most Software Developers Stay Stuck (I’ve Seen This for 25 Years)](https://youtu.be/bWH7Fnzv50c?si=A6dyQT2TEGsbPXTb)
+🔖 [Why Most Software Developers Stay Stuck (I’ve Seen This for 25 Years)](https://youtu.be/bWH7Fnzv50c)

@@ -25,9 +25,9 @@ last_edited: 2026-03-14T19:33:25.552Z
 
 [Project: Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)
 
-[LangChain Streaming and API Integration](https://youtu.be/eor3eU9eReA?si=WiOA4pNd-GXAa8oV)
+[LangChain Streaming and API Integration](https://youtu.be/eor3eU9eReA)
 
-[Streaming LLM Responses with FastAPI](https://youtu.be/xTTtqwGWemw?si=MHmKlHlf5UtaDThf)
+[Streaming LLM Responses with FastAPI](https://youtu.be/xTTtqwGWemw)
 
 ## Agents
 
@@ -45,7 +45,7 @@ last_edited: 2026-03-14T19:33:25.552Z
 
 [AI Agents in LangGraph - DeepLearning.AI](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction)
 
-[Building more effective AI agents](https://youtu.be/uhJJgc-0iTQ?si=cokDc_55IgHCCOD4)\\
+[Building more effective AI agents](https://youtu.be/uhJJgc-0iTQ)\\
 
 [OpenAI Platform](https://platform.openai.com/docs/guides/agents)
 
@@ -57,7 +57,7 @@ last_edited: 2026-03-14T19:33:25.552Z
 
 [Code execution with MCP: building more efficient AI agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
 
-[MCP In 26 Minutes (Model Context Protocol)](https://youtu.be/kOhLoixrJXo?si=_p4n3Ipel2ukQe4v)
+[MCP In 26 Minutes (Model Context Protocol)](https://youtu.be/kOhLoixrJXo)
 
 [MCP Servers](https://mcp.so/)
 
@@ -67,8 +67,8 @@ last_edited: 2026-03-14T19:33:25.552Z
 
 [Retrieval Augmented Generation (RAG) - DeepLearning.AI](https://learn.deeplearning.ai/courses/retrieval-augmented-generation)
 
-[RAG From Scratch](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=GM5N3rSV_TiKm-SX)
+[RAG From Scratch](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 
-[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=zzVJODE-0wCJjlWQ)
+[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8)
 
-[Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://youtu.be/JEBDfGqrAUA?si=I0D9vggNW9FSWPyx)
+[Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://youtu.be/JEBDfGqrAUA)
