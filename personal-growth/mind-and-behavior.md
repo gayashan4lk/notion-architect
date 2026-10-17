@@ -3,9 +3,11 @@ title: "Mind & Behavior"
 notion_id: 3fbebef13b84810a9681f86bc2946d3c
 notion_url: https://www.notion.so/3fbebef13b84810a9681f86bc2946d3c
 last_edited: 2026-10-16T06:54:52.110Z
+aliases:
+  - "Mind & Behavior"
 ---
 
-[Architect](../README.md) / [Personal Growth](README.md)
+[[README|Architect]] / [[personal-growth/README|Personal Growth]]
 
 # Mind & Behavior
 

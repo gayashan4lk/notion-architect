@@ -3,11 +3,13 @@ title: "Azure Exams"
 notion_id: 2b7ebef13b84807b9168e2f53802274f
 notion_url: https://www.notion.so/2b7ebef13b84807b9168e2f53802274f
 last_edited: 2026-03-14T19:33:28.802Z
+aliases:
+  - "Azure Exams"
 ---
 
-[Architect](../../README.md) / [Now Learning](../README.md)
+[[README|Architect]] / [[now-learning/README|Now Learning]]
 
 # Azure Exams
 
-- 📄 [PL 900](pl-900.md)
-- 📄 [AZ 204](az-204.md)
+- 📄 [[now-learning/azure-exams/pl-900|PL 900]]
+- 📄 [[now-learning/azure-exams/az-204|AZ 204]]

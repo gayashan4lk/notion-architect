@@ -3,15 +3,18 @@ title: "Power Platform"
 notion_id: 2b8ebef13b8480a782cedc5ecb17b387
 notion_url: https://www.notion.so/2b8ebef13b8480a782cedc5ecb17b387
 last_edited: 2025-12-03T07:34:46.758Z
+aliases:
+  - "Power Platform"
 ---
 
-[Architect](../../README.md) / [Software Engineering](../README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Power Platform
 
 ## Source control
 
-> 💡 **Power Platform Environment = Git Repository**
+> [!tip] 💡
+> **Power Platform Environment = Git Repository**
 
 Learning Resources
 
@@ -25,4 +28,4 @@ Learning Resources
 
 [Introducing Git Integration in Power Platform (preview) - Microsoft Power Platform Blog](https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-git-integration-in-power-platform-preview/)
 
-- 📄 [Power Apps](power-apps.md)
+- 📄 [[software-engineering/power-platform/power-apps|Power Apps]]

@@ -3,10 +3,12 @@ title: "Software Engineering"
 notion_id: 3fbebef13b8481b9859be0905f7c731e
 notion_url: https://www.notion.so/3fbebef13b8481b9859be0905f7c731e
 last_edited: 2026-10-16T06:57:31.539Z
+aliases:
+  - "Software Engineering"
 icon: "💻"
 ---
 
-[Architect](../README.md)
+[[README|Architect]]
 
 # 💻 Software Engineering
 
@@ -14,40 +16,40 @@ Programming languages, backend, frontend, mobile, architecture, DevOps and the M
 
 ### Languages
 
-- 📄 [JavaScript](javascript.md)
-- 📄 [Python](python.md)
+- 📄 [[software-engineering/javascript|JavaScript]]
+- 📄 [[software-engineering/python|Python]]
 
 ### Backend
 
-- 📄 [Backend & Microservices](backend-and-microservices.md)
-- 📄 [FastAPI](fastapi.md)
-- 📄 [Database](database.md)
-- 📄 [Auth](auth.md)
+- 📄 [[software-engineering/backend-and-microservices|Backend & Microservices]]
+- 📄 [[software-engineering/fastapi|FastAPI]]
+- 📄 [[software-engineering/database|Database]]
+- 📄 [[software-engineering/auth|Auth]]
 
 ### Frontend & Design
 
-- 📄 [UI/UX Design](ui-ux-design.md)
-- 📄 [Next.js](next-js.md)
-- 📄 [Tailwind CSS 4 - frontend masters](tailwind-css-4-frontend-masters.md)
-- 📄 [Figma](figma.md)
+- 📄 [[software-engineering/ui-ux-design|UI/UX Design]]
+- 📄 [[software-engineering/next-js|Next.js]]
+- 📄 [[software-engineering/tailwind-css-4-frontend-masters|Tailwind CSS 4 - frontend masters]]
+- 📄 [[software-engineering/figma|Figma]]
 
 ### Mobile
 
-- 📄 [Flutter](flutter.md)
-- 📄 [SwiftUI](swiftui.md)
+- 📄 [[software-engineering/flutter|Flutter]]
+- 📄 [[software-engineering/swiftui|SwiftUI]]
 
 ### Architecture
 
-- 📄 [Software Architecture](software-architecture.md)
-- 📄 [System Design](system-design.md)
-- 📄 [Clean Architecture](clean-architecture.md)
-- 📄 [Serverless](serverless.md)
+- 📄 [[software-engineering/software-architecture|Software Architecture]]
+- 📄 [[software-engineering/system-design|System Design]]
+- 📄 [[software-engineering/clean-architecture|Clean Architecture]]
+- 📄 [[software-engineering/serverless|Serverless]]
 
 ### DevOps & Testing
 
-- 📄 [DevOps & Cloud](devops-and-cloud.md)
-- 📄 [Test automation](test-automation.md)
+- 📄 [[software-engineering/devops-and-cloud|DevOps & Cloud]]
+- 📄 [[software-engineering/test-automation|Test automation]]
 
 ### Microsoft
 
-- 📄 [Power Platform](power-platform/README.md)
+- 📄 [[software-engineering/power-platform/README|Power Platform]]

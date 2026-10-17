@@ -3,9 +3,11 @@ title: "Insights"
 notion_id: 323ebef13b848031a855c660167e184c
 notion_url: https://www.notion.so/323ebef13b848031a855c660167e184c
 last_edited: 2026-03-14T19:36:24.843Z
+aliases:
+  - "Insights"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # Insights
 

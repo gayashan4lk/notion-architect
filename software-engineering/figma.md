@@ -3,9 +3,11 @@ title: "Figma"
 notion_id: 2c3ebef13b848037b3d2c76d57270692
 notion_url: https://www.notion.so/2c3ebef13b848037b3d2c76d57270692
 last_edited: 2025-12-08T00:24:30.937Z
+aliases:
+  - "Figma"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Figma
 

@@ -3,10 +3,12 @@ title: "How Computers Work"
 notion_id: 3fbebef13b848127831cc7754a218823
 notion_url: https://www.notion.so/3fbebef13b848127831cc7754a218823
 last_edited: 2026-10-16T06:57:32.942Z
+aliases:
+  - "How Computers Work"
 icon: "🧮"
 ---
 
-[Architect](../README.md)
+[[README|Architect]]
 
 # 🧮 How Computers Work
 
@@ -14,16 +16,16 @@ CS fundamentals: computer architecture, low-level languages, data structures and
 
 ### Inside the machine
 
-- 📄 [Computer Architecture](computer-architecture/README.md)
-- 📄 [Assembly](assembly.md)
-- 📄 [C / C++](c-cpp.md)
+- 📄 [[how-computers-work/computer-architecture/README|Computer Architecture]]
+- 📄 [[how-computers-work/assembly|Assembly]]
+- 📄 [[how-computers-work/c-cpp|C / C++]]
 
 ### Algorithms & math
 
-- 📄 [Data Structures & Algorithms](data-structures-and-algorithms.md)
-- 📄 [Math](math.md)
+- 📄 [[how-computers-work/data-structures-and-algorithms|Data Structures & Algorithms]]
+- 📄 [[how-computers-work/math|Math]]
 
 ### Systems
 
-- 📄 [Networking](networking.md)
-- 📄 [Linux](linux.md)
+- 📄 [[how-computers-work/networking|Networking]]
+- 📄 [[how-computers-work/linux|Linux]]

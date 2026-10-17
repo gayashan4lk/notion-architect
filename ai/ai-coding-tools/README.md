@@ -3,9 +3,11 @@ title: "AI Coding Tools"
 notion_id: 302ebef13b84803287c9d9c6031ac2e2
 notion_url: https://www.notion.so/302ebef13b84803287c9d9c6031ac2e2
 last_edited: 2026-10-16T06:56:39.008Z
+aliases:
+  - "AI Coding Tools"
 ---
 
-[Architect](../../README.md) / [AI](../README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # AI Coding Tools
 
@@ -59,8 +61,8 @@ last_edited: 2026-10-16T06:56:39.008Z
 
 [Kilo - Kilo: The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI](https://kilo.ai/)
 
-- 📄 [Claude Code](claude-code.md)
-- 📄 [BMAD Method](bmad-method.md)
+- 📄 [[ai/ai-coding-tools/claude-code|Claude Code]]
+- 📄 [[ai/ai-coding-tools/bmad-method|BMAD Method]]
 
 ## Cursor vs Windsurf
 

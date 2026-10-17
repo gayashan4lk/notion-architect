@@ -3,9 +3,11 @@ title: "Backend & Microservices"
 notion_id: 102ebef13b8480e0bebdd279e7b92f7b
 notion_url: https://www.notion.so/102ebef13b8480e0bebdd279e7b92f7b
 last_edited: 2026-10-16T07:10:23.331Z
+aliases:
+  - "Backend & Microservices"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # Backend & Microservices
 
@@ -15,7 +17,7 @@ last_edited: 2026-10-16T07:10:23.331Z
 
 ### FastAPI
 
-Moved to the [FastAPI](fastapi.md) page.
+Moved to the [[software-engineering/fastapi|FastAPI]] page.
 
 ### Spring Framework
 

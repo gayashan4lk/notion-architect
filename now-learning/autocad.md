@@ -3,9 +3,11 @@ title: "AutoCAD"
 notion_id: 3cfebef13b84809eb359ef392e27e92c
 notion_url: https://www.notion.so/3cfebef13b84809eb359ef392e27e92c
 last_edited: 2026-09-02T17:00:19.955Z
+aliases:
+  - "AutoCAD"
 ---
 
-[Architect](../README.md) / [Now Learning](README.md)
+[[README|Architect]] / [[now-learning/README|Now Learning]]
 
 # AutoCAD
 

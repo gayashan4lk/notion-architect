@@ -3,9 +3,11 @@ title: "Senior Engineer Track - BISTEC"
 notion_id: 2f4ebef13b84808791ddc6106ef16201
 notion_url: https://www.notion.so/2f4ebef13b84808791ddc6106ef16201
 last_edited: 2026-10-16T06:56:42.481Z
+aliases:
+  - "Senior Engineer Track - BISTEC"
 ---
 
-[Architect](../README.md) / [BISTEC (Work)](README.md)
+[[README|Architect]] / [[bistec-work/README|BISTEC (Work)]]
 
 # Senior Engineer Track - BISTEC
 
@@ -15,7 +17,7 @@ last_edited: 2026-10-16T06:56:42.481Z
 
 [Design a URL Shortener (Bitly) - System Design Interview](https://youtu.be/qSJAvd5Mgio)
 
-![image.png](../_assets/bistec-work/senior-engineer-track-bistec/image.png)
+![[_assets/bistec-work/senior-engineer-track-bistec/image.png]]
 
 [Bitly: Lessons Learned Building a Distributed System that Handles 6 Billion Clicks a Month - High Scalability -](https://highscalability.com/bitly-lessons-learned-building-a-distributed-system-that-han/)
 
@@ -29,4 +31,4 @@ last_edited: 2026-10-16T06:56:42.481Z
 
 [Database Sharding — PlanetScale](https://planetscale.com/blog/database-sharding)
 
-System Design notes now live in Software Engineering: [System Design](../software-engineering/system-design.md)
+System Design notes now live in Software Engineering: [[software-engineering/system-design|System Design]]

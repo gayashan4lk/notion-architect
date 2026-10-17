@@ -6,84 +6,86 @@ Every page keeps its Notion ID and URL in its frontmatter, so anything here can 
 
 See [`_export-report.md`](_export-report.md) for anything that could not be carried over, and [`tools/notion-export/`](tools/notion-export/) for how this was produced.
 
-Earlier snapshots of the workspace, from before it was reorganized, are kept unchanged in [`archive/`](archive/).
+**Open this folder as an Obsidian vault.** Links between pages are wikilinks, callouts and toggles use Obsidian's callout syntax, and the included `.obsidian/` settings hide `tools/` and `archive/` from search, the graph and the quick switcher. On GitHub, wikilinks show as plain `[[…]]` text.
+
+Earlier snapshots of the backup are kept unchanged in [`archive/`](archive/).
 
 ## Workspace map
 
-- [Inbox](inbox.md)
-- [Now Learning](now-learning/README.md)
-  - [Study Plan](now-learning/study-plan.md)
-  - [Azure Exams](now-learning/azure-exams/README.md)
-    - [PL 900](now-learning/azure-exams/pl-900.md)
-    - [AZ 204](now-learning/azure-exams/az-204.md)
-  - [Learn C and C++](now-learning/learn-c-and-cpp.md)
-  - [AutoCAD](now-learning/autocad.md)
-  - [Blog Site Project](now-learning/blog-site-project.md)
-  - [How to Clean Install macOS Sequoia](now-learning/how-to-clean-install-macos-sequoia.md)
-- [AI](ai/README.md)
-  - [AI ML](ai/ai-ml.md)
-  - [Basic Concepts](ai/basic-concepts.md)
-  - [LangChain Ecosystem](ai/langchain-ecosystem/README.md)
-    - [Deep Agent](ai/langchain-ecosystem/deep-agent.md)
-    - [LangChain Fundamentals](ai/langchain-ecosystem/langchain-fundamentals.md)
-    - [LangGraph Fundamentals](ai/langchain-ecosystem/langgraph-fundamentals.md)
-    - [LangSmith Fundamentals](ai/langchain-ecosystem/langsmith-fundamentals.md)
-    - [LangChain Tutorials](ai/langchain-ecosystem/langchain-tutorials.md)
-  - [AI Engineer Skillset](ai/ai-engineer-skillset.md)
-  - [Building AI Agents](ai/building-ai-agents.md)
-  - [AI Coding Tools](ai/ai-coding-tools/README.md)
-    - [Claude Code](ai/ai-coding-tools/claude-code.md)
-    - [BMAD Method](ai/ai-coding-tools/bmad-method.md)
-  - [How to break into AIML Engineering](ai/how-to-break-into-aiml-engineering.md)
-  - [AI Software Engineer Roadmap](ai/ai-software-engineer-roadmap.md)
-  - [Insights](ai/insights.md)
-- [Software Engineering](software-engineering/README.md)
-  - [JavaScript](software-engineering/javascript.md)
-  - [Python](software-engineering/python.md)
-  - [Backend & Microservices](software-engineering/backend-and-microservices.md)
-  - [FastAPI](software-engineering/fastapi.md)
-  - [Database](software-engineering/database.md)
-  - [Auth](software-engineering/auth.md)
-  - [UI/UX Design](software-engineering/ui-ux-design.md)
-  - [Next.js](software-engineering/next-js.md)
-  - [Tailwind CSS 4 - frontend masters](software-engineering/tailwind-css-4-frontend-masters.md)
-  - [Figma](software-engineering/figma.md)
-  - [Flutter](software-engineering/flutter.md)
-  - [SwiftUI](software-engineering/swiftui.md)
-  - [Software Architecture](software-engineering/software-architecture.md)
-  - [System Design](software-engineering/system-design.md)
-  - [Clean Architecture](software-engineering/clean-architecture.md)
-  - [Serverless](software-engineering/serverless.md)
-  - [DevOps & Cloud](software-engineering/devops-and-cloud.md)
-  - [Test automation](software-engineering/test-automation.md)
-  - [Power Platform](software-engineering/power-platform/README.md)
-    - [Power Apps](software-engineering/power-platform/power-apps.md)
-- [How Computers Work](how-computers-work/README.md)
-  - [Computer Architecture](how-computers-work/computer-architecture/README.md)
-    - [First Bug](how-computers-work/computer-architecture/first-bug.md)
-    - [ENIAC - 1945](how-computers-work/computer-architecture/eniac-1945.md)
-  - [Assembly](how-computers-work/assembly.md)
-  - [C / C++](how-computers-work/c-cpp.md)
-  - [Data Structures & Algorithms](how-computers-work/data-structures-and-algorithms.md)
-  - [Math](how-computers-work/math.md)
-  - [Networking](how-computers-work/networking.md)
-  - [Linux](how-computers-work/linux.md)
-- [BISTEC (Work)](bistec-work/README.md)
-  - [Senior Engineer Track - BISTEC](bistec-work/senior-engineer-track-bistec.md)
-  - [Tech Lead Track - BISTEC](bistec-work/tech-lead-track-bistec.md)
-- [Career & Business](career-and-business/README.md)
-  - [Career](career-and-business/career/README.md)
-    - [Job Market 2025-2030](career-and-business/career/job-market-2025-2030.md)
-  - [Personal Brand Building](career-and-business/personal-brand-building.md)
-  - [Public Speaking](career-and-business/public-speaking.md)
-  - [YouTube Content Creation](career-and-business/youtube-content-creation.md)
-  - [Startups](career-and-business/startups.md)
-  - [Product & Leadership](career-and-business/product-and-leadership.md)
-  - [Branding / Marketing / Sales](career-and-business/branding-marketing-sales.md)
-- [Personal Growth](personal-growth/README.md)
-  - [Learning How to Learn](personal-growth/learning-how-to-learn.md)
-  - [Thinking](personal-growth/thinking.md)
-  - [Mind & Behavior](personal-growth/mind-and-behavior.md)
-  - [Better Living](personal-growth/better-living.md)
-  - [Personal Finance](personal-growth/personal-finance.md)
-- [Claude Guide](claude-guide.md)
+- [[inbox|Inbox]]
+- [[now-learning/README|Now Learning]]
+  - [[now-learning/study-plan|Study Plan]]
+  - [[now-learning/azure-exams/README|Azure Exams]]
+    - [[now-learning/azure-exams/pl-900|PL 900]]
+    - [[now-learning/azure-exams/az-204|AZ 204]]
+  - [[now-learning/learn-c-and-cpp|Learn C and C++]]
+  - [[now-learning/autocad|AutoCAD]]
+  - [[now-learning/blog-site-project|Blog Site Project]]
+  - [[now-learning/how-to-clean-install-macos-sequoia|How to Clean Install macOS Sequoia]]
+- [[ai/README|AI]]
+  - [[ai/ai-ml|AI ML]]
+  - [[ai/basic-concepts|Basic Concepts]]
+  - [[ai/langchain-ecosystem/README|LangChain Ecosystem]]
+    - [[ai/langchain-ecosystem/deep-agent|Deep Agent]]
+    - [[ai/langchain-ecosystem/langchain-fundamentals|LangChain Fundamentals]]
+    - [[ai/langchain-ecosystem/langgraph-fundamentals|LangGraph Fundamentals]]
+    - [[ai/langchain-ecosystem/langsmith-fundamentals|LangSmith Fundamentals]]
+    - [[ai/langchain-ecosystem/langchain-tutorials|LangChain Tutorials]]
+  - [[ai/ai-engineer-skillset|AI Engineer Skillset]]
+  - [[ai/building-ai-agents|Building AI Agents]]
+  - [[ai/ai-coding-tools/README|AI Coding Tools]]
+    - [[ai/ai-coding-tools/claude-code|Claude Code]]
+    - [[ai/ai-coding-tools/bmad-method|BMAD Method]]
+  - [[ai/how-to-break-into-aiml-engineering|How to break into AIML Engineering]]
+  - [[ai/ai-software-engineer-roadmap|AI Software Engineer Roadmap]]
+  - [[ai/insights|Insights]]
+- [[software-engineering/README|Software Engineering]]
+  - [[software-engineering/javascript|JavaScript]]
+  - [[software-engineering/python|Python]]
+  - [[software-engineering/backend-and-microservices|Backend & Microservices]]
+  - [[software-engineering/fastapi|FastAPI]]
+  - [[software-engineering/database|Database]]
+  - [[software-engineering/auth|Auth]]
+  - [[software-engineering/ui-ux-design|UI/UX Design]]
+  - [[software-engineering/next-js|Next.js]]
+  - [[software-engineering/tailwind-css-4-frontend-masters|Tailwind CSS 4 - frontend masters]]
+  - [[software-engineering/figma|Figma]]
+  - [[software-engineering/flutter|Flutter]]
+  - [[software-engineering/swiftui|SwiftUI]]
+  - [[software-engineering/software-architecture|Software Architecture]]
+  - [[software-engineering/system-design|System Design]]
+  - [[software-engineering/clean-architecture|Clean Architecture]]
+  - [[software-engineering/serverless|Serverless]]
+  - [[software-engineering/devops-and-cloud|DevOps & Cloud]]
+  - [[software-engineering/test-automation|Test automation]]
+  - [[software-engineering/power-platform/README|Power Platform]]
+    - [[software-engineering/power-platform/power-apps|Power Apps]]
+- [[how-computers-work/README|How Computers Work]]
+  - [[how-computers-work/computer-architecture/README|Computer Architecture]]
+    - [[how-computers-work/computer-architecture/first-bug|First Bug]]
+    - [[how-computers-work/computer-architecture/eniac-1945|ENIAC - 1945]]
+  - [[how-computers-work/assembly|Assembly]]
+  - [[how-computers-work/c-cpp|C / C++]]
+  - [[how-computers-work/data-structures-and-algorithms|Data Structures & Algorithms]]
+  - [[how-computers-work/math|Math]]
+  - [[how-computers-work/networking|Networking]]
+  - [[how-computers-work/linux|Linux]]
+- [[bistec-work/README|BISTEC (Work)]]
+  - [[bistec-work/senior-engineer-track-bistec|Senior Engineer Track - BISTEC]]
+  - [[bistec-work/tech-lead-track-bistec|Tech Lead Track - BISTEC]]
+- [[career-and-business/README|Career & Business]]
+  - [[career-and-business/career/README|Career]]
+    - [[career-and-business/career/job-market-2025-2030|Job Market 2025-2030]]
+  - [[career-and-business/personal-brand-building|Personal Brand Building]]
+  - [[career-and-business/public-speaking|Public Speaking]]
+  - [[career-and-business/youtube-content-creation|YouTube Content Creation]]
+  - [[career-and-business/startups|Startups]]
+  - [[career-and-business/product-and-leadership|Product & Leadership]]
+  - [[career-and-business/branding-marketing-sales|Branding / Marketing / Sales]]
+- [[personal-growth/README|Personal Growth]]
+  - [[personal-growth/learning-how-to-learn|Learning How to Learn]]
+  - [[personal-growth/thinking|Thinking]]
+  - [[personal-growth/mind-and-behavior|Mind & Behavior]]
+  - [[personal-growth/better-living|Better Living]]
+  - [[personal-growth/personal-finance|Personal Finance]]
+- [[claude-guide|Claude Guide]]

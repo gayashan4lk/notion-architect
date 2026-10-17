@@ -3,9 +3,11 @@ title: "Linux"
 notion_id: 3fbebef13b84814a99c4eb8ea45bd5ea
 notion_url: https://www.notion.so/3fbebef13b84814a99c4eb8ea45bd5ea
 last_edited: 2026-10-16T06:54:49.661Z
+aliases:
+  - "Linux"
 ---
 
-[Architect](../README.md) / [How Computers Work](README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]]
 
 # Linux
 

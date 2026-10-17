@@ -3,9 +3,11 @@ title: "YouTube Content Creation"
 notion_id: 137ebef13b8480c1b50be861c27ea951
 notion_url: https://www.notion.so/137ebef13b8480c1b50be861c27ea951
 last_edited: 2024-11-26T06:20:01.965Z
+aliases:
+  - "YouTube Content Creation"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # YouTube Content Creation
 
@@ -13,7 +15,7 @@ last_edited: 2024-11-26T06:20:01.965Z
 
 - [ ] **The Art of Storytelling and View Retention**<br>[https://youtu.be/xNC8gPIMv6U](https://youtu.be/xNC8gPIMv6U)
 
-![Screenshot_2024-10-28_154433.png](../_assets/career-and-business/youtube-content-creation/Screenshot_2024-10-28_154433.png)
+![[_assets/career-and-business/youtube-content-creation/Screenshot_2024-10-28_154433.png]]
 
 ## Scripting
 

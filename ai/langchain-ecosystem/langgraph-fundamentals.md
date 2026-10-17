@@ -3,9 +3,11 @@ title: "LangGraph Fundamentals"
 notion_id: 338ebef13b84809cbc6fcbca16cebf65
 notion_url: https://www.notion.so/338ebef13b84809cbc6fcbca16cebf65
 last_edited: 2026-04-04T08:22:26.846Z
+aliases:
+  - "LangGraph Fundamentals"
 ---
 
-[Architect](../../README.md) / [AI](../README.md) / [LangChain Ecosystem](README.md)
+[[README|Architect]] / [[ai/README|AI]] / [[ai/langchain-ecosystem/README|LangChain Ecosystem]]
 
 # LangGraph Fundamentals
 

@@ -3,9 +3,11 @@ title: "JavaScript"
 notion_id: 148ebef13b8480198013cb0aedc3abc5
 notion_url: https://www.notion.so/148ebef13b8480198013cb0aedc3abc5
 last_edited: 2024-11-24T07:36:35.793Z
+aliases:
+  - "JavaScript"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # JavaScript
 

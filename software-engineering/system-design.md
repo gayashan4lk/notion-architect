@@ -3,9 +3,11 @@ title: "System Design"
 notion_id: 2f7ebef13b848057adbdd45b08d83467
 notion_url: https://www.notion.so/2f7ebef13b848057adbdd45b08d83467
 last_edited: 2026-10-16T06:56:41.340Z
+aliases:
+  - "System Design"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # System Design
 

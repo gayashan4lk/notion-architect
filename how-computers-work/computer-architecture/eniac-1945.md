@@ -3,13 +3,15 @@ title: "ENIAC - 1945"
 notion_id: 14eebef13b8480519282f404387bcdbf
 notion_url: https://www.notion.so/14eebef13b8480519282f404387bcdbf
 last_edited: 2024-12-01T06:06:55.191Z
+aliases:
+  - "ENIAC - 1945"
 ---
 
-[Architect](../../README.md) / [How Computers Work](../README.md) / [Computer Architecture](README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]] / [[how-computers-work/computer-architecture/README|Computer Architecture]]
 
 # ENIAC - 1945
 
-![ENIAC_Ballistic_Research_Laboratory.jpg](../../_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_Ballistic_Research_Laboratory.jpg)
+![[_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_Ballistic_Research_Laboratory.jpg]]
 
 ENIAC - **Electronic Numerical Integrator and Computer**
 
@@ -25,4 +27,4 @@ IO was punch cards. ENIAC had no system to store memory in its inception, these 
 
 Links:<br>[ENIAC Display \| Computer Science & Engineering at Michigan](https://cse.engin.umich.edu/about/history/eniac-display/)<br>[ENIAC](https://en.wikipedia.org/wiki/ENIAC)<br>
 
-![ENIAC_on_a_Chip.jpg](../../_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_on_a_Chip.jpg)
+![[_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_on_a_Chip.jpg]]

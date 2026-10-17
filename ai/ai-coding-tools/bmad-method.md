@@ -3,9 +3,11 @@ title: "BMAD Method"
 notion_id: 2fcebef13b8480299ccfd015b564f9d6
 notion_url: https://www.notion.so/2fcebef13b8480299ccfd015b564f9d6
 last_edited: 2026-03-14T19:33:38.507Z
+aliases:
+  - "BMAD Method"
 ---
 
-[Architect](../../README.md) / [AI](../README.md) / [AI Coding Tools](README.md)
+[[README|Architect]] / [[ai/README|AI]] / [[ai/ai-coding-tools/README|AI Coding Tools]]
 
 # BMAD Method
 

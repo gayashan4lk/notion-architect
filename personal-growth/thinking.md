@@ -3,9 +3,11 @@ title: "Thinking"
 notion_id: 3fbebef13b84819c8268c8c24feb42c9
 notion_url: https://www.notion.so/3fbebef13b84819c8268c8c24feb42c9
 last_edited: 2026-10-16T06:54:52.110Z
+aliases:
+  - "Thinking"
 ---
 
-[Architect](../README.md) / [Personal Growth](README.md)
+[[README|Architect]] / [[personal-growth/README|Personal Growth]]
 
 # Thinking
 

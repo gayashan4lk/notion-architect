@@ -3,9 +3,11 @@ title: "Public Speaking"
 notion_id: 27b93b504cc74a1babc93900d8b8b13b
 notion_url: https://www.notion.so/27b93b504cc74a1babc93900d8b8b13b
 last_edited: 2025-11-27T07:27:37.698Z
+aliases:
+  - "Public Speaking"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # Public Speaking
 

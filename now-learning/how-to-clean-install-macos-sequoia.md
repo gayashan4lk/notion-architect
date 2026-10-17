@@ -3,9 +3,11 @@ title: "How to Clean Install macOS Sequoia"
 notion_id: 3fbebef13b8481d1b1dcdb1270d59bda
 notion_url: https://www.notion.so/3fbebef13b8481d1b1dcdb1270d59bda
 last_edited: 2026-10-16T08:48:44.442Z
+aliases:
+  - "How to Clean Install macOS Sequoia"
 ---
 
-[Architect](../README.md) / [Now Learning](README.md)
+[[README|Architect]] / [[now-learning/README|Now Learning]]
 
 # How to Clean Install macOS Sequoia
 
@@ -26,11 +28,13 @@ last_edited: 2026-10-16T08:48:44.442Z
 
 ---
 
-> 🎯 **Goal:** clean install **macOS Sequoia 15.8.1** (latest Sequoia) on a **MacBook Air M1** currently running **macOS 27 Golden Gate 27.0.1**, using a bootable USB flash drive.
+> [!info] 🎯
+> **Goal:** clean install **macOS Sequoia 15.8.1** (latest Sequoia) on a **MacBook Air M1** currently running **macOS 27 Golden Gate 27.0.1**, using a bootable USB flash drive.
 >
 > **Time:** about 2–3 hours plus backup time. **Needs:** 32 GB+ USB drive, charger, stable Wi-Fi.
 
-> ⚠️ **This is a downgrade, so the internal drive must be erased.** Apple doesn't support going back to an older macOS without erasing.
+> [!danger] ⚠️
+> **This is a downgrade, so the internal drive must be erased.** Apple doesn't support going back to an older macOS without erasing.
 >
 > **Time Machine won't help here:** a backup made on macOS 27 can't be restored into macOS 15. Back up files manually or to the cloud and copy them back by hand afterwards.
 >
@@ -38,22 +42,22 @@ last_edited: 2026-10-16T08:48:44.442Z
 
 **Contents**
 
-- [Sources](#sources)
-- [How the sources fit together](#how-the-sources-fit-together)
-- [Phase 1: Prepare the Mac](#phase-1-prepare-the-mac)
-   - [Back up your data (manual / cloud)](#back-up-your-data-manual--cloud)
-   - [Sign out and deactivate](#sign-out-and-deactivate)
-- [Phase 2: Download the full Sequoia installer](#phase-2-download-the-full-sequoia-installer)
-- [Phase 3: Create the bootable USB installer](#phase-3-create-the-bootable-usb-installer)
-- [Phase 4: Boot from the USB and erase the Mac](#phase-4-boot-from-the-usb-and-erase-the-mac)
-   - [Erase Macintosh HD](#erase-macintosh-hd)
-   - [Activate the Mac](#activate-the-mac)
-- [Phase 5: Install macOS Sequoia](#phase-5-install-macos-sequoia)
-- [Phase 6: First setup](#phase-6-first-setup)
-- [Phase 7: Restore your data manually](#phase-7-restore-your-data-manually)
-- [Phase 8: Developer setup](#phase-8-developer-setup)
-- [Phase 9: Stay on Sequoia](#phase-9-stay-on-sequoia)
-- [Troubleshooting](#troubleshooting)
+- [[#Sources|Sources]]
+- [[#How the sources fit together|How the sources fit together]]
+- [[#Phase 1 Prepare the Mac|Phase 1: Prepare the Mac]]
+   - [[#Back up your data (manual / cloud)|Back up your data (manual / cloud)]]
+   - [[#Sign out and deactivate|Sign out and deactivate]]
+- [[#Phase 2 Download the full Sequoia installer|Phase 2: Download the full Sequoia installer]]
+- [[#Phase 3 Create the bootable USB installer|Phase 3: Create the bootable USB installer]]
+- [[#Phase 4 Boot from the USB and erase the Mac|Phase 4: Boot from the USB and erase the Mac]]
+   - [[#Erase Macintosh HD|Erase Macintosh HD]]
+   - [[#Activate the Mac|Activate the Mac]]
+- [[#Phase 5 Install macOS Sequoia|Phase 5: Install macOS Sequoia]]
+- [[#Phase 6 First setup|Phase 6: First setup]]
+- [[#Phase 7 Restore your data manually|Phase 7: Restore your data manually]]
+- [[#Phase 8 Developer setup|Phase 8: Developer setup]]
+- [[#Phase 9 Stay on Sequoia|Phase 9: Stay on Sequoia]]
+- [[#Troubleshooting|Troubleshooting]]
 
 ## How the sources fit together
 
@@ -126,7 +130,8 @@ Video: [Format the USB drive](https://www.youtube.com/watch?v=uQ4RZHehp0k&t=301s
 
 ## Phase 4: Boot from the USB and erase the Mac
 
-> 🛑 **Last chance:** check your backup one more time. Everything below erases the internal drive.
+> [!warning] 🛑
+> **Last chance:** check your backup one more time. Everything below erases the internal drive.
 
 Video: [Boot to startup options on Apple silicon](https://www.youtube.com/watch?v=uQ4RZHehp0k&t=512s) · [Select the USB installer](https://www.youtube.com/watch?v=uQ4RZHehp0k&t=589s)
 
@@ -219,60 +224,28 @@ Video: [Manually restore files](https://www.youtube.com/watch?v=uQ4RZHehp0k&t=93
 
 ## Troubleshooting
 
-<details>
-<summary>"softwareupdate: Update not found" when downloading</summary>
+> [!faq]- "softwareupdate: Update not found" when downloading
+> The version number isn't offered for this Mac. Run `softwareupdate --list-full-installers` and use a 15.x version exactly as listed, or use the App Store link on Apple's download page.
 
-The version number isn't offered for this Mac. Run `softwareupdate --list-full-installers` and use a 15.x version exactly as listed, or use the App Store link on Apple's download page.
+> [!faq]- "Does not appear to be a valid installer application"
+> The download is incomplete or a small stub. Delete Install macOS Sequoia, download it again with `softwareupdate`, then rerun createinstallmedia.
 
-</details>
+> [!faq]- "Command not found" or the volume can't be found
+> Check the installer is in **Applications** and named exactly **Install macOS Sequoia**, and the USB drive is named exactly `MyVolume`. Run `diskutil list` to see what's mounted.
 
-<details>
-<summary>"Does not appear to be a valid installer application"</summary>
+> [!faq]- The USB installer doesn't appear in startup options
+> Plug the drive directly into the Mac (no hub), try the other USB-C port, and hold the power button longer. If it still doesn't show, recreate the installer, or try another drive.
 
-The download is incomplete or a small stub. Delete Install macOS Sequoia, download it again with `softwareupdate`, then rerun createinstallmedia.
+> [!faq]- Installer error such as "An error occurred preparing the software update" or a personalisation failure
+> The Mac must be online during install on Apple silicon. Check Wi-Fi, restart from the USB and try again. Make sure you used **Erase Volume Group** on Macintosh HD. If it keeps failing, use the DFU rescue below.
 
-</details>
+> [!faq]- Circle with a line through it at startup
+> The installer doesn't match this Mac or is damaged. Recreate the USB from a fresh Sequoia download.
 
-<details>
-<summary>"Command not found" or the volume can't be found</summary>
+> [!faq]- Mac keeps starting up in the internal recovery
+> Shut down, hold the power button, and select **Install macOS Sequoia** from startup options again. Don't use the internal recovery's "Reinstall macOS"; that would install macOS 27.
 
-Check the installer is in **Applications** and named exactly **Install macOS Sequoia**, and the USB drive is named exactly `MyVolume`. Run `diskutil list` to see what's mounted.
-
-</details>
-
-<details>
-<summary>The USB installer doesn't appear in startup options</summary>
-
-Plug the drive directly into the Mac (no hub), try the other USB-C port, and hold the power button longer. If it still doesn't show, recreate the installer, or try another drive.
-
-</details>
-
-<details>
-<summary>Installer error such as "An error occurred preparing the software update" or a personalisation failure</summary>
-
-The Mac must be online during install on Apple silicon. Check Wi-Fi, restart from the USB and try again. Make sure you used **Erase Volume Group** on Macintosh HD. If it keeps failing, use the DFU rescue below.
-
-</details>
-
-<details>
-<summary>Circle with a line through it at startup</summary>
-
-The installer doesn't match this Mac or is damaged. Recreate the USB from a fresh Sequoia download.
-
-</details>
-
-<details>
-<summary>Mac keeps starting up in the internal recovery</summary>
-
-Shut down, hold the power button, and select **Install macOS Sequoia** from startup options again. Don't use the internal recovery's "Reinstall macOS"; that would install macOS 27.
-
-</details>
-
-<details>
-<summary>DFU rescue: the Mac won't start or install at all</summary>
-
-As a last resort an Apple silicon Mac can be revived or restored in DFU mode using **Apple Configurator** on **a second Mac** and a USB-C cable ([Apple guide](https://support.apple.com/en-us/108900)). A restore erases everything and can install a macOS IPSW file directly.
-
-You don't have a second Mac, so if you get here: borrow a Mac from a friend, or take it to an Apple Authorised Service Provider, who can do the restore.
-
-</details>
+> [!faq]- DFU rescue: the Mac won't start or install at all
+> As a last resort an Apple silicon Mac can be revived or restored in DFU mode using **Apple Configurator** on **a second Mac** and a USB-C cable ([Apple guide](https://support.apple.com/en-us/108900)). A restore erases everything and can install a macOS IPSW file directly.
+>
+> You don't have a second Mac, so if you get here: borrow a Mac from a friend, or take it to an Apple Authorised Service Provider, who can do the restore.

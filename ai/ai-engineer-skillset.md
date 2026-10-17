@@ -3,9 +3,11 @@ title: "AI Engineer Skillset"
 notion_id: 2acebef13b8480bebfbce4b681a51fb6
 notion_url: https://www.notion.so/2acebef13b8480bebfbce4b681a51fb6
 last_edited: 2026-03-14T19:33:25.552Z
+aliases:
+  - "AI Engineer Skillset"
 ---
 
-[Architect](../README.md) / [AI](README.md)
+[[README|Architect]] / [[ai/README|AI]]
 
 # AI Engineer Skillset
 

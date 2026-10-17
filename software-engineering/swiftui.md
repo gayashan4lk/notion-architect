@@ -3,9 +3,11 @@ title: "SwiftUI"
 notion_id: 2b5ebef13b848087b485dfcce2d9344e
 notion_url: https://www.notion.so/2b5ebef13b848087b485dfcce2d9344e
 last_edited: 2025-11-24T06:45:39.507Z
+aliases:
+  - "SwiftUI"
 ---
 
-[Architect](../README.md) / [Software Engineering](README.md)
+[[README|Architect]] / [[software-engineering/README|Software Engineering]]
 
 # SwiftUI
 

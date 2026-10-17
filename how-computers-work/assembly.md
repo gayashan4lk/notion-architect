@@ -3,9 +3,11 @@ title: "Assembly"
 notion_id: 14cebef13b848025afd4cbcb07d9eb42
 notion_url: https://www.notion.so/14cebef13b848025afd4cbcb07d9eb42
 last_edited: 2024-11-28T15:35:41.159Z
+aliases:
+  - "Assembly"
 ---
 
-[Architect](../README.md) / [How Computers Work](README.md)
+[[README|Architect]] / [[how-computers-work/README|How Computers Work]]
 
 # Assembly
 

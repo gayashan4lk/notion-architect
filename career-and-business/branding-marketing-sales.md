@@ -3,9 +3,11 @@ title: "Branding / Marketing / Sales"
 notion_id: 104ebef13b848043a0c8e678ee045aec
 notion_url: https://www.notion.so/104ebef13b848043a0c8e678ee045aec
 last_edited: 2024-11-07T12:14:07.629Z
+aliases:
+  - "Branding / Marketing / Sales"
 ---
 
-[Architect](../README.md) / [Career & Business](README.md)
+[[README|Architect]] / [[career-and-business/README|Career & Business]]
 
 # Branding / Marketing / Sales
 
