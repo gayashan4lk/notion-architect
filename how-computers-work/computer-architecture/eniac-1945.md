@@ -11,7 +11,7 @@ aliases:
 
 # ENIAC - 1945
 
-![[_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_Ballistic_Research_Laboratory.jpg]]
+![[_assets/how-computers-work/computer-architecture/eniac-1945/ENIAC_Ballistic_Research_Laboratory.jpg|563]]
 
 ENIAC - **Electronic Numerical Integrator and Computer**
 

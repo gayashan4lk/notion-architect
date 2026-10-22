@@ -18,3 +18,4 @@ aliases:
 [The future of work](https://www.deloitte.com/global/en/services/consulting/collections/future-of-work.html)
 
 [Rethink management and talent for agentic AI](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/rethink-management-and-talent-for-agentic-ai)
+
